@@ -16,7 +16,7 @@ header:
   actions:
     - label: "New Episodes Daily"
       url: /index.html
-excerpt: "Venture into the Unknown and Uncover Secrets of Worlds Beyond our Solar System"
+excerpt: "Uncover Secrets of Worlds Beyond our Solar System"
 #tagline: "tagline"
 ---
 Welcome to **Exoplanet Radio**, the podcast that takes you on a journey to the farthest and coolest planets in the galaxy. Every day we will share with you some of the most amazing and surprising stories from the world of exoplanet science.
@@ -27,5 +27,5 @@ If you are curious about what's out there, this podcast is for you. You will lea
 
 Join us every day for a new episode of Exoplanet Radio, and let's have some fun exploring the worlds beyond our solar system together.
 
-![An image](/assets/images/pixel_tracker_logo_120px.jpg){: .align-right}
+![A comet over an exoplanet](/assets/images/ExoplanetComet_woodcut.jpeg)
 
