@@ -19,7 +19,7 @@ header:
 excerpt: "Uncover Secrets of Worlds Beyond our Solar System"
 #tagline: "tagline"
 ---
-Welcome to **Exoplanet Radio**, the podcast that takes you on a journey to the farthest and coolest planets in the galaxy. Every day we will share with you some of the most amazing and surprising stories from the world of exoplanet science.
+**Exoplanet Radio** takes you on a journey to the farthest and coolest planets in the galaxy. Every day we will share with you some of the most amazing and surprising stories from the world of exoplanet science.
 
 You will find out about the different kinds and features of exoplanets, how they are born and change, how they look and feel, how they could host life and what kind of life that could be, and what they mean for us and our place in the cosmos. You will also hear from experts and explorers who are working on finding and studying these awesome planets.
 
