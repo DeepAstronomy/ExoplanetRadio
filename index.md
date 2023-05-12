@@ -18,6 +18,7 @@ header:
       url: /index.html
 excerpt: "Uncover Secrets of Worlds Beyond our Solar System"
 #tagline: "tagline"
+classes: wide
 ---
 **Exoplanet Radio** takes you on a journey to the farthest and coolest planets in the galaxy. Every day we will share with you some of the most amazing and surprising stories from the world of exoplanet science.
 
