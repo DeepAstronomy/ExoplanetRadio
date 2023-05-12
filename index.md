@@ -5,14 +5,14 @@ title: "Exploring Planets Around Other Stars"
 date: 2023-04-05 09:00:00 +0000
 show_date: false
 read_time: false
-last_modified_at: 2023-05-10 10:00:00 +0000
+last_modified_at: 2023-05-11 10:23:00
 header:
-  overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
+  overlay_image: /assets/images/AlienLandscape02.jpeg
   overlay_text: "hello"
   show_overlay_excerpt: true
   #og_image:
   #overlay_color: green
-  caption: "Image Caption here"
+  caption: "Imagine the Possibilies"
   actions:
     - label: "New Episodes Daily"
       url: /index.html
@@ -29,3 +29,11 @@ Join us every day for a new episode of Exoplanet Radio, and let's have some fun 
 
 ![A comet over an exoplanet](/assets/images/ExoplanetComet_woodcut.jpeg)
 
+# Latest Episodes
+<ul>
+  {% for post in site.posts %}
+  <li>
+    {{ post.date| date:"%m-%d-%Y" }} // <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul> 
