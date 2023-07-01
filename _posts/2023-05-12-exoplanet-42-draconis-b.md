@@ -3,6 +3,11 @@ layout: single
 title:  "Exoplanet 42 Draconis b"
 date:   2023-05-12 23:00:00 +5
 file: https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3
+duration: "39:09"
+length: "30900000"
+explicit: "no"
+block: "no"
+voices: "Tony Darnell, Carol Christian"
 categories: exoplanets 
 classes: wide
 ---
