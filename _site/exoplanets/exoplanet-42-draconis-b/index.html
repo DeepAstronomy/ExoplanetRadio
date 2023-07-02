@@ -92,6 +92,9 @@
 
 <script defer data-domain="exoplanetradio.com" src="https://plausible.io/js/script.js"></script>
 
+<!-- plyr style sheet -->
+<link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -106,7 +109,7 @@
 
   </head>
 
-  <body class="layout--single wide">
+  <body class="layout--posts wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -144,34 +147,14 @@
 
 
     <div class="initial-content">
-      
+      <div id="main" role="main">
+<section class="page__content" itemprop="text">
 
+   <audio id="player" controls>
+        <source src="https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3" type="audio/mp3">
+    </audio>
 
-
-<div id="main" role="main">
-  
-
-
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Exoplanet 42 Draconis b">
-    <meta itemprop="description" content="">
-    <meta itemprop="datePublished" content="2023-05-12T14:00:00-04:00">
-    
-
-    <div class="page__inner-wrap">
-      
-        <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Exoplanet 42 Draconis b
-</h1>
-          
-
-
-        </header>
-      
-
-      <section class="page__content" itemprop="text">
-        
-        <p><img src="/assets/images/42_Draconis_b.jpeg" alt="Exoplanet 42 Draconis b" /></p>
+<p><img src="/assets/images/42_Draconis_b.jpeg" alt="Exoplanet 42 Draconis b" /></p>
 
 <p>Exoplanet 42 Draconis b, also known as Orbitar. This is a candidate extrasolar planet located approximately <strong>315 light years</strong> away from Earth in the constellation of Draco². It orbits the 5th magnitude K-type giant star 42 Draconis, also known as Fafnir², with a period of <strong>479 days</strong> and <strong>38%</strong> orbital eccentricity¹².</p>
 
@@ -238,59 +221,79 @@
 (3) 42 Draconis b | Solar System Tour Wiki | Fandom. https://solarsystemtour.fandom.com/wiki/42_Draconis_b.
 (4) Exoplanet Explorer: Orbitar – Planet Pailly. https://planetpailly.com/2016/12/12/exoplanet-explorer-orbitar/.</p>
 
-        
-      </section>
 
-      <footer class="page__meta">
-        
-        
-
-
-  
-
-
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
-    <span itemprop="keywords">
-    
-      <a href="/categories/#exoplanets" class="page__taxonomy-item p-category" rel="tag">exoplanets</a>
-    
-    </span>
-  </p>
-
-
-        
-
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-05-12T14:00:00-04:00">May 12, 2023</time></p>
-
-      </footer>
-
-      
-
-      
-  <nav class="pagination">
-    
-      <a href="/jekyll/update/welcome-to-jekyll/" class="pagination--pager" title="Welcome to Jekyll!
-">Previous</a>
-    
-    
-      <a href="#" class="pagination--pager disabled">Next</a>
-    
-  </nav>
-
-    </div>
-
-    
-  </article>
-
-<script src="http://127.0.0.1:4000/js/plyr.js"></script>
-<script>plyr.setup();</script>
-
-  
-  
+</section>
 </div>
+
+<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+<script>const player = new Plyr('#player');</script>
+
+<ul class="taxonomy__index">
+  
+  
+    <li>
+      <a href="#2023">
+        <strong>2023</strong> <span class="taxonomy__count">2</span>
+      </a>
+    </li>
+  
+</ul>
+
+
+
+
+  <section id="2023" class="taxonomy__section">
+    <h2 class="archive__subtitle">2023</h2>
+    <div class="entries-list">
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/exoplanets/exoplanet-42-draconis-b/" rel="permalink">Exoplanet 42 Draconis b
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+
+</p>
+  </article>
+</div>
+
+      
+        
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/jekyll/update/welcome-to-jekyll/" rel="permalink">Welcome to Jekyll!
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</p>
+  </article>
+</div>
+
+      
+    </div>
+    <a href="#page-title" class="back-to-top">Back to top &uarr;</a>
+  </section>
+
 
     </div>
 
