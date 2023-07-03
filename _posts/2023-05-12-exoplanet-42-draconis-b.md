@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post_audio
 title:  "Exoplanet 42 Draconis b"
 date:   2023-05-12 23:00:00 +5
 file: https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3
@@ -11,7 +11,7 @@ voices: "Tony Darnell, Carol Christian"
 categories: exoplanets
 classes: wide
 ---
-![Exoplanet 42 Draconis b](/assets/images/42_Draconis_b.jpeg)
+![Exoplanet 42 Draconis b](/assets/images/42_Draconis_b.jpeg){: .align-right}
 
 Exoplanet 42 Draconis b, also known as Orbitar. This is a candidate extrasolar planet located approximately **315 light years** away from Earth in the constellation of Draco². It orbits the 5th magnitude K-type giant star 42 Draconis, also known as Fafnir², with a period of **479 days** and **38%** orbital eccentricity¹².
 
