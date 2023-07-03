@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: archive
 ---
 
-<div id="main" role="main">
-<section class="page__content" itemprop="text">
+{{ content }}
 
    <audio id="player" controls>
         <source src="{{ page.file }}" type="audio/mp3">
     </audio>
 
-{{ content }}
-
-</section>
-</div>
 
 <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
 <script>const player = new Plyr('#player');</script>
