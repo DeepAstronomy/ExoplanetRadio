@@ -1,7 +1,14 @@
-{% if page.file = "" %}
 
  <audio id="player" controls>
         <source src="{{ page.file }}" type="audio/mp3">
  </audio>
 
-{% endif }
+ <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+
+  <script>
+	  const player = new Plyr('#player', {
+			    title: 'Example Title',
+		    });
+  </script>  
+ <a href="{{ page.file }}" class="btn btn--primary btn--large">Download</a>
+

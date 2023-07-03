@@ -1,5 +1,5 @@
 ---
-layout: post_audio
+layout: posts
 title:  "Exoplanet 42 Draconis b"
 date:   2023-05-12 23:00:00 +5
 file: https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3
@@ -11,9 +11,11 @@ voices: "Tony Darnell, Carol Christian"
 categories: exoplanets
 classes: wide
 ---
-![Exoplanet 42 Draconis b](/assets/images/42_Draconis_b.jpeg){: .align-right}
+![Exoplanet 42 Draconis b](/assets/images/42_Draconis_b_sml.jpeg){: .align-right}
 
 Exoplanet 42 Draconis b, also known as Orbitar. This is a candidate extrasolar planet located approximately **315 light years** away from Earth in the constellation of Draco². It orbits the 5th magnitude K-type giant star 42 Draconis, also known as Fafnir², with a period of **479 days** and **38%** orbital eccentricity¹².
+
+{% include audio_player.html %}
 
 But what is an exoplanet? An exoplanet is a planet that orbits a star other than our Sun. Exoplanets come in a variety of sizes, shapes, and compositions. Some are similar to Earth, while others are very different. Some may even have the potential to support life.
 
@@ -37,10 +39,3 @@ However, a recent study in 2021 found that more recent radial velocity measureme
 So, is 42 Draconis b real or not? The answer is still unclear. More observations and analysis are needed to confirm or refute its existence. Until then, it remains a fascinating candidate exoplanet that challenges our understanding of planetary formation and evolution.
 
 Thank you for watching this video about 42 Draconis b. If you enjoyed it, please like and subscribe for more videos about exoplanets and other topics in astronomy.
-```
-
-Source: Conversation with Bing, 5/12/2023
-(1) 42 Draconis - Wikipedia. https://en.wikipedia.org/wiki/42_Draconis.
-(2) 42 Draconis b - Exoplanet Exploration. https://exoplanets.nasa.gov/exoplanet-catalog/6997/42-draconis-b/.
-(3) 42 Draconis b | Solar System Tour Wiki | Fandom. https://solarsystemtour.fandom.com/wiki/42_Draconis_b.
-(4) Exoplanet Explorer: Orbitar – Planet Pailly. https://planetpailly.com/2016/12/12/exoplanet-explorer-orbitar/.
