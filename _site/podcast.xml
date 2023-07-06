@@ -26,17 +26,17 @@
 		
 
         <item>
-            <title>Exoplanet 42 Draconis b</title>
+            <title>What is an Exoplanet?</title>
             <itunes:author>{"name"=>"Tony Darnell", "avatar"=>"/assets/images/deep-astron-host-darnell-bw.jpeg", "bio"=>"Host of Exoplanet Radio", "location"=>nil, "email"=>nil, "links"=>[{"label"=>"Email", "icon"=>"fas fa-fw fa-envelope-square"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram"}]}</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Exoplanet 42 Draconis b</itunes:subtitle>
+            <itunes:subtitle>Exoplanet Radio: What is an Exoplanet?</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:image href="http://localhost:4000/images/itunes.png" />
-            <enclosure url="https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3" length="30900000" type="audio/mp3"/>
-            <guid isPermaLink="true">http://localhost:4000/exoplanets/exoplanet-42-draconis-b/</guid>
-            <pubDate>Fri, 12 May 2023 14:00:00 -0400</pubDate>
-            <itunes:duration>39:09</itunes:duration>
+            <enclosure url="https://da-podcasts.s3.amazonaws.com/ExoplanetRadio/WhatIsAnAExoplanet.mp3" length="249" type="audio/mp3"/>
+            <guid isPermaLink="true">http://localhost:4000/exoplanets/what-is-an-exoplanet/</guid>
+            <pubDate>Mon, 03 Jul 2023 14:00:00 -0400</pubDate>
+            <itunes:duration>04:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>  Show Notes Available at http://localhost:4000/exoplanets/exoplanet-42-draconis-b/.</description>
+            <description>  Show Notes Available at http://localhost:4000/exoplanets/what-is-an-exoplanet/.</description>
             <itunes:keywords></itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>

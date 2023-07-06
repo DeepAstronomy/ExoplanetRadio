@@ -1,4 +1,7 @@
 
+<div class="plyr">
+
+ Episode for {{ page.date | date_to_long_string: "ordinal", "US" }}
  <audio id="player" controls>
         <source src="{{ page.file }}" type="audio/mp3">
  </audio>
@@ -7,8 +10,8 @@
 
   <script>
 	  const player = new Plyr('#player', {
-			    title: 'Example Title',
+			    title: "Example Title",
 		    });
   </script>  
  <a href="{{ page.file }}" class="btn btn--primary btn--large">Download</a>
-
+</div>

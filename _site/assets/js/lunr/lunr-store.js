@@ -5,9 +5,9 @@ var store = [{
         "url": "/jekyll/update/welcome-to-jekyll/",
         "teaser": null
       },{
-        "title": "Exoplanet 42 Draconis b",
-        "excerpt":"Exoplanet 42 Draconis b, also known as Orbitar. This is a candidate extrasolar planet located approximately 315 light years away from Earth in the constellation of Draco². It orbits the 5th magnitude K-type giant star 42 Draconis, also known as Fafnir², with a period of 479 days and 38% orbital...","categories": ["exoplanets"],
+        "title": "What is an Exoplanet?",
+        "excerpt":"Episode for July 3rd, 2023 Download For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with...","categories": ["exoplanets"],
         "tags": [],
-        "url": "/exoplanets/exoplanet-42-draconis-b/",
+        "url": "/exoplanets/what-is-an-exoplanet/",
         "teaser": null
       }]

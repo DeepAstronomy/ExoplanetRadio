@@ -1,76 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-03T15:02:03-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name></author><entry><title type="html">Exoplanet 42 Draconis b</title><link href="http://localhost:4000/exoplanets/exoplanet-42-draconis-b/" rel="alternate" type="text/html" title="Exoplanet 42 Draconis b" /><published>2023-05-12T14:00:00-04:00</published><updated>2023-05-12T14:00:00-04:00</updated><id>http://localhost:4000/exoplanets/exoplanet-42-draconis-b</id><content type="html" xml:base="http://localhost:4000/exoplanets/exoplanet-42-draconis-b/">&lt;p&gt;&lt;img src=&quot;/assets/images/42_Draconis_b_sml.jpeg&quot; alt=&quot;Exoplanet 42 Draconis b&quot; class=&quot;align-right&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-04T14:05:49-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name></author><entry><title type="html">What is an Exoplanet?</title><link href="http://localhost:4000/exoplanets/what-is-an-exoplanet/" rel="alternate" type="text/html" title="What is an Exoplanet?" /><published>2023-07-03T14:00:00-04:00</published><updated>2023-07-03T14:00:00-04:00</updated><id>http://localhost:4000/exoplanets/what-is-an-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/what-is-an-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
-&lt;p&gt;Exoplanet 42 Draconis b, also known as Orbitar. This is a candidate extrasolar planet located approximately &lt;strong&gt;315 light years&lt;/strong&gt; away from Earth in the constellation of Draco². It orbits the 5th magnitude K-type giant star 42 Draconis, also known as Fafnir², with a period of &lt;strong&gt;479 days&lt;/strong&gt; and &lt;strong&gt;38%&lt;/strong&gt; orbital eccentricity¹².&lt;/p&gt;
-
-&lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ Episode for July 3rd, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://da-podcasts.s3.amazonaws.com/ExoplanetRadio/WhatIsAnAExoplanet.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
  &lt;/audio&gt;
 
-&lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
 
-&lt;script&gt;
+  &lt;script&gt;
 	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &apos;Example Title&apos;,
+			    title: &quot;Example Title&quot;,
 		    });
-  &lt;/script&gt;
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://da-podcasts.s3.amazonaws.com/ExoplanetRadio/WhatIsAnAExoplanet.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://da-podcasts.s3.amazonaws.com/TWIST+Episodes/TWiST001.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/ExoplanetComet_woodcut_sml.jpeg&quot; alt=&quot;ExoplanetWoodcut&quot; class=&quot;align-right&quot; /&gt;
+For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with whom we could someday communicate?&lt;/p&gt;
 
-&lt;p&gt;But what is an exoplanet? An exoplanet is a planet that orbits a star other than our Sun. Exoplanets come in a variety of sizes, shapes, and compositions. Some are similar to Earth, while others are very different. Some may even have the potential to support life.&lt;/p&gt;
+&lt;p&gt;We still do not know the answer to that question, but we have made some progress. We have explored our own solar system, a family of planets and other bodies that orbit our Sun. We have discovered eight major planets, some with moons of their own, and many smaller objects like asteroids and comets. We are even searching for a possible ninth planet, far beyond the orbit of Neptune. But these are all our neighbors, our kin. We share a common origin and a common destiny with them.&lt;/p&gt;
 
-&lt;p&gt;To compare 42 Draconis b with Earth, let’s look at some of their properties in this table:&lt;/p&gt;
+&lt;p&gt;Exoplanets are different. They are worlds that orbit other stars, far away from our Sun. They are strangers, unknown and mysterious. And they are very numerous. In the past few decades, we have detected over five thousand of them, using various methods and instruments. And we suspect there are many more, perhaps billions or even trillions in our galaxy alone.&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Property&lt;/th&gt;
-      &lt;th&gt;42 Draconis b&lt;/th&gt;
-      &lt;th&gt;Earth&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Planet type&lt;/td&gt;
-      &lt;td&gt;Gas giant&lt;/td&gt;
-      &lt;td&gt;Terrestrial&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mass&lt;/td&gt;
-      &lt;td&gt;3.88 Jupiters¹&lt;/td&gt;
-      &lt;td&gt;1 Earth&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Radius&lt;/td&gt;
-      &lt;td&gt;1.16 Jupiters (estimate) ¹&lt;/td&gt;
-      &lt;td&gt;1 Earth&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Orbital radius&lt;/td&gt;
-      &lt;td&gt;1.19 AU¹&lt;/td&gt;
-      &lt;td&gt;1 AU&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Orbital period&lt;/td&gt;
-      &lt;td&gt;479.1 days¹&lt;/td&gt;
-      &lt;td&gt;365.25 days&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Habitability&lt;/td&gt;
-      &lt;td&gt;Unlikely&lt;/td&gt;
-      &lt;td&gt;Yes&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Exoplanets come in all shapes and sizes. Some are huge and hot, like Jupiter but much more so. They circle their stars so closely that they are scorched by their heat and radiation. Some are smaller and colder, like Neptune or Uranus. They may have thick atmospheres of gas and ice. And some are rocky and terrestrial, like Earth or Mars. They may have solid surfaces and perhaps even oceans and continents.&lt;/p&gt;
 
-&lt;p&gt;As you can see, 42 Draconis b is much larger and more massive than Earth. It is also farther away from its star and has a longer orbital period. It has a highly elliptical orbit that brings it closer and farther from its star than Earth does from the Sun. It is unlikely to be habitable because it is a gas giant, meaning it has no solid surface and probably no atmosphere suitable for life.&lt;/p&gt;
+&lt;p&gt;The most intriguing exoplanets are those that resemble Earth in some way. They are not too big or too small, not too hot or too cold. They orbit their stars in a zone where liquid water could exist on their surface. Water is essential for life as we know it. And so we wonder: could these exoplanets harbor life? Could they be oases of green and blue in the desert of space? Could they be home to creatures that think and feel and dream?&lt;/p&gt;
 
-&lt;p&gt;The discovery of 42 Draconis b was announced in 2008 by a team of astronomers using the radial velocity method¹. This method measures the tiny wobbles of a star caused by the gravitational pull of an orbiting planet. The more massive the planet, the bigger the wobble.&lt;/p&gt;
+&lt;p&gt;We do not know yet. But we are trying to find out. We are building new telescopes and instruments that will allow us to study these exoplanets in more detail. We will look for signs of water, oxygen, methane and other molecules that could indicate the presence of life. We will listen for signals that could be sent by intelligent beings. We will try to make contact with our cosmic cousins, if they exist.&lt;/p&gt;
 
-&lt;p&gt;However, a recent study in 2021 found that more recent radial velocity measurements of 42 Draconis were inconsistent with the proposed planetary orbit, casting serious doubt on 42 Draconis b’s existence². The study suggests that the radial velocity signal is likely caused by a yet unknown stellar phenomenon, which might be common in giant stars².&lt;/p&gt;
-
-&lt;p&gt;So, is 42 Draconis b real or not? The answer is still unclear. More observations and analysis are needed to confirm or refute its existence. Until then, it remains a fascinating candidate exoplanet that challenges our understanding of planetary formation and evolution.&lt;/p&gt;
-
-&lt;p&gt;Thank you for watching this video about 42 Draconis b. If you enjoyed it, please like and subscribe for more videos about exoplanets and other topics in astronomy.&lt;/p&gt;</content><author><name>Tony Darnell</name></author><category term="exoplanets" /><summary type="html"></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-04-09T06:00:00-04:00</published><updated>2023-04-09T06:00:00-04:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;We are on the verge of a new era of discovery and exploration. We are about to learn more about our place in the universe and our connection to other worlds. We are about to answer one of the oldest and most profound questions of our species: are we the only ones?&lt;/p&gt;</content><author><name>Tony Darnell</name></author><category term="exoplanets" /><summary type="html">Episode for July 3rd, 2023 Download For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with whom we could someday communicate?</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-04-09T06:00:00-04:00</published><updated>2023-04-09T06:00:00-04:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
