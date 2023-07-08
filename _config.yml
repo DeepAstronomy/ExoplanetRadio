@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Tony Darnell"
-  avatar           : "/assets/images/deep-astron-host-darnell-bw.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://exoplanetradio.com/assets/images/deep-astron-host-darnell-bw.jpeg" 
   bio              : "Host of Exoplanet Radio"
   location         : #"Somewhere"
   email            :

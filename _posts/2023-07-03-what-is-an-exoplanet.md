@@ -2,7 +2,7 @@
 layout: single
 title:  "What is an Exoplanet?"
 date:   2023-07-03 23:00:00 +5
-file: https://da-podcasts.s3.amazonaws.com/ExoplanetRadio/WhatIsAnAExoplanet.mp3
+file: https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3
 duration: "04:09"
 length: "249"
 explicit: "no"
