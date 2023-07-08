@@ -3,13 +3,14 @@ layout: single
 title:  "What is an Exoplanet?"
 date:   2023-07-03 23:00:00 +5
 file: https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3
-duration: "03:45"
+duration: "225"
 length: "9014787"
 explicit: "no"
 block: "no"
 host: "Tony Darnell"
+episode: "1"
+season: "1"
 categories: exoplanets
-summary: Learn what an exoplanet is
 description: Welcome to the first episode of Exoplanet Radio!  Let's get started by defining what an exoplanet is.  What types are there?
 classes: wide
 ---
