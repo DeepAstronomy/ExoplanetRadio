@@ -3,7 +3,7 @@ layout: single
 title:  "What is an Exoplanet?"
 date:   2023-07-03 23:00:00 +5
 file: https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3
-duration: "225"
+duration: "03:45"
 length: "9014787"
 explicit: "no"
 block: "no"

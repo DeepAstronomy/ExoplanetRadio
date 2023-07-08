@@ -28,8 +28,6 @@ If you are curious about what's out there, this podcast is for you. You will lea
 
 Join us every day for a new episode of Exoplanet Radio, and let's have some fun exploring the worlds beyond our solar system together.
 
-![A comet over an exoplanet](/assets/images/ExoplanetComet_woodcut.jpeg)
-
 # Latest Episodes
 <ul>
   {% for post in site.posts %}
