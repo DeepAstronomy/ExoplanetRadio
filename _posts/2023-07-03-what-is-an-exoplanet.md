@@ -9,6 +9,7 @@ explicit: "no"
 block: "no"
 host: "Tony Darnell"
 categories: exoplanets
+summary: Learn what an exoplanet is
 description: Welcome to the first episode of Exoplanet Radio!  Let's get started by defining what an exoplanet is.  What types are there?
 classes: wide
 ---
