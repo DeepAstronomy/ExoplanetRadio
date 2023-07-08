@@ -10,6 +10,7 @@ block: "no"
 host: "Tony Darnell"
 episode: "1"
 season: "1"
+keywords: "astronomy, exoplanets"
 categories: exoplanets
 description: Welcome to the first episode of Exoplanet Radio!  Let's get started by defining what an exoplanet is.  What types are there?
 classes: wide
