@@ -11,14 +11,14 @@
 		<language>{{ site.lang }}</language>
         <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.title }}</copyright>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
-        <itunes:author>{{ site.author }}</itunes:author>
+        <itunes:author>Deep Astronomy</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
         <description>{{ site.description | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
 	</itunes:owner>
-	<itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/ExoplanetRadioLogo_sml.png" />
+	<itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/ExoplanetRadioLogo.png" />
 	<itunes:category text="Science">
 		<itunes:category text="Astronomy" />
 	</itunes:category>
@@ -27,10 +27,10 @@
 {% for post in site.posts %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
-            <itunes:author>Deep Astronomy</itunes:author>
+            <itunes:author>post.host</itunes:author>
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-	    <itunes:image href="{{ site.url }}/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="{{ site.url }}/assets/images/ExoplanetRadioLogo.png" />
             <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 	    <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
 	    <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
