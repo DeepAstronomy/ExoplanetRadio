@@ -19,7 +19,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 	</itunes:owner>
 	<itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/ExoplanetRadioLogo_sml.png" />
-	<itunes:category text="Science" />
+	<itunes:category text="Science">
 		<itunes:category text="Astronomy" />
 	</itunes:category>
         <itunes:explicit>no</itunes:explicit>
