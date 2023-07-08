@@ -18,11 +18,10 @@
         <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
 	</itunes:owner>
-	<itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/ExoplanetRadioLogo.png" />
-	<itunes:category>
-		<itunes:category text="Science" />
+	<itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/ExoplanetRadioLogo_sml.png" />
+	<itunes:category text="Science" />
 		<itunes:category text="Astronomy" />
-        </itunes:category> 
+	</itunes:category>
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
@@ -31,7 +30,7 @@
             <itunes:author>{{ site.author }}</itunes:author>
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-	    <itunes:image href="{{ site.url }}/assets/images/ExoplanetRadioLogo.png" />
+	    <itunes:image href="{{ site.url }}/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 	    <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
