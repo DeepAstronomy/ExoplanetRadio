@@ -14,13 +14,11 @@
 		<webMaster> ({"name"=>"Tony Darnell", "avatar"=>"https://exoplanetradio.com/assets/images/deep-astron-host-darnell-bw.jpeg", "bio"=>"Host of Exoplanet Radio", "location"=>nil, "email"=>nil, "links"=>[{"label"=>"Email", "icon"=>"fas fa-fw fa-envelope-square"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram"}]})</webMaster>
         <itunes:owner>
 			<itunes:name>{"name"=>"Tony Darnell", "avatar"=>"https://exoplanetradio.com/assets/images/deep-astron-host-darnell-bw.jpeg", "bio"=>"Host of Exoplanet Radio", "location"=>nil, "email"=>nil, "links"=>[{"label"=>"Email", "icon"=>"fas fa-fw fa-envelope-square"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram"}]}</itunes:name>
-			<itunes:email></itunes:email>
-		</itunes:owner>
-        <itunes:image href="http://localhost:4000/images/itunes.png" />
-		<itunes:category text="Technology" />
-		<itunes:category text="Society &amp; Culture" />
-        <itunes:category text="Education">
-            <itunes:category text="Educational Technology" />
+	</itunes:owner>
+	<itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo.png" />
+		<itunes:category text="Astronomy" />
+                <itunes:category text="Education">
+                <itunes:category text="Natural Sciences" />
         </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
@@ -30,31 +28,15 @@
             <itunes:author>{"name"=>"Tony Darnell", "avatar"=>"https://exoplanetradio.com/assets/images/deep-astron-host-darnell-bw.jpeg", "bio"=>"Host of Exoplanet Radio", "location"=>nil, "email"=>nil, "links"=>[{"label"=>"Email", "icon"=>"fas fa-fw fa-envelope-square"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram"}]}</itunes:author>
             <itunes:subtitle>Exoplanet Radio: What is an Exoplanet?</itunes:subtitle>
             <itunes:summary></itunes:summary>
-            <itunes:image href="http://localhost:4000/images/itunes.png" />
-            <enclosure url="https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3" length="249" type="audio/mp3"/>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo.png" />
+            <enclosure url="https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3" length="9014787" type="audio/mp3"/>
             <guid isPermaLink="true">http://localhost:4000/exoplanets/what-is-an-exoplanet/</guid>
             <pubDate>Mon, 03 Jul 2023 14:00:00 -0400</pubDate>
-            <itunes:duration>04:09</itunes:duration>
+            <itunes:duration>03:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>  Show Notes Available at http://localhost:4000/exoplanets/what-is-an-exoplanet/.</description>
+            <description> Welcome to the first episode of Exoplanet Radio!  Let&apos;s get started by defining what an exoplanet is.  What types are there? Show Notes Available at http://localhost:4000/exoplanets/what-is-an-exoplanet/.</description>
             <itunes:keywords></itunes:keywords>
             <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Welcome to Jekyll!</title>
-            <itunes:author>{"name"=>"Tony Darnell", "avatar"=>"https://exoplanetradio.com/assets/images/deep-astron-host-darnell-bw.jpeg", "bio"=>"Host of Exoplanet Radio", "location"=>nil, "email"=>nil, "links"=>[{"label"=>"Email", "icon"=>"fas fa-fw fa-envelope-square"}, {"label"=>"Website", "icon"=>"fas fa-fw fa-link"}, {"label"=>"Twitter", "icon"=>"fab fa-fw fa-twitter-square"}, {"label"=>"Facebook", "icon"=>"fab fa-fw fa-facebook-square"}, {"label"=>"GitHub", "icon"=>"fab fa-fw fa-github"}, {"label"=>"Instagram", "icon"=>"fab fa-fw fa-instagram"}]}</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Welcome to Jekyll!</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:image href="http://localhost:4000/images/itunes.png" />
-            <enclosure url="" length="" type="audio/mp3"/>
-            <guid isPermaLink="true">http://localhost:4000/jekyll/update/welcome-to-jekyll/</guid>
-            <pubDate>Sun, 09 Apr 2023 06:00:00 -0400</pubDate>
-            <itunes:duration></itunes:duration>
-            <itunes:explicit></itunes:explicit>
-            <description>  Show Notes Available at http://localhost:4000/jekyll/update/welcome-to-jekyll/.</description>
-            <itunes:keywords></itunes:keywords>
-            <itunes:block></itunes:block>
 		</item>
 
 	</channel>
