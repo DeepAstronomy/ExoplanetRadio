@@ -1,12 +1,21 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Quick-Start Guide"
+     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "About"
+     url: /about/
+   - title: "Contact Us"
+     url: /contact/
+
+top:
+   - title: Top Episodes
+     children:
+       - title: "Episode 1"
+         url: /episode1/
+       - title: "Episode 2"
+         url: /episode2/
+       - title: "Episode 3"
+         url: /episode3/
+
+latest:
+  - title: Latest Episodes

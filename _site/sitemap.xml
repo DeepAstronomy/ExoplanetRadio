@@ -2,10 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/exoplanets/what-is-an-exoplanet/</loc>
-<lastmod>2023-07-03T14:00:00-04:00</lastmod>
+<lastmod>2023-07-04T14:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2023-04-09-welcome-to-jekyll/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2023-04-15T06:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+<lastmod>2023-04-18T06:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -13,6 +21,10 @@
 <url>
 <loc>http://localhost:4000/</loc>
 <lastmod>2023-05-11T06:23:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/page_template/</loc>
+<lastmod>2023-04-15T06:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/</loc>
