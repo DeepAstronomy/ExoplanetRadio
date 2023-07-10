@@ -23,6 +23,44 @@
 		
 
         <item>
+            <title>Proxima Centauri-b: The Closest Exoplanet to Earth</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/proxima-b/Proxima_b.mp3" length="6300000" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/Proxima-Centaurb/</guid>
+	    <link>http://localhost:4000/exoplanets/Proxima-Centaurb/</link>
+            <pubDate>Sun, 09 Jul 2023 02:00:00 -0400</pubDate>
+	    <itunes:episode>2</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>02:37</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life. Show Notes Available at http://localhost:4000/exoplanets/Proxima-Centaurb/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>The Promise of Kepler-22b</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: The Promise of Kepler-22b</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3" length="5087281" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kepler-22b/</guid>
+	    <link>http://localhost:4000/exoplanets/kepler-22b/</link>
+            <pubDate>Sun, 09 Jul 2023 02:00:00 -0400</pubDate>
+	    <itunes:episode>2</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:56</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Kepler-22b is an enticing world. It is one of the first confirmed exoplanets of the Kepler Space Telescope and lies in the habitable zone of its host star. Show Notes Available at http://localhost:4000/exoplanets/kepler-22b/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>What is an Exoplanet?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: What is an Exoplanet?</itunes:subtitle>

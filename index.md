@@ -30,7 +30,7 @@ Join us every day for a new episode of Exoplanet Radio, and let's have some fun 
 
 # Latest Episodes
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
   <li>
     {{ post.date| date:"%m-%d-%Y" }} // <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
