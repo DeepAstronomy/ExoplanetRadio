@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Exoplanets are Everywhere"
-date:   2023-07-06 11:00:00 +5
 file: https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3
 duration: "02:33"
 length: "5087281"

@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "What is an Exoplanet?"
-date:   2023-07-04 23:00:00 +5
 file: https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3
 duration: "03:45"
 length: "9014787"
@@ -14,10 +13,9 @@ keywords: "astronomy, exoplanets"
 categories: exoplanets
 description: Welcome to the first episode of Exoplanet Radio!  Let's get started by defining what an exoplanet is.  What types are there?
 header:
-  overlay_image: /assets/images/GirlAlienLandscape.jpg
-  actions:
-    - label: "All Episodes"
-      url: /episodes/ 
+   video:
+     id: 841358892
+     provider: vimeo
 excerpt: There are many types of planets around other stars
 author_profile: true
 sidebar: 
