@@ -20,7 +20,7 @@ header:
 excerpt: Astronomers have detected many rogue planets
 author_profile: true
 sidebar: 
-  nav: "latest"
+   nav: "latest"
 classes: wide
 ---
 
