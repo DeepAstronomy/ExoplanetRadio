@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/Proxima-Centauri-b/",
         "teaser": null
+      },{
+        "title": null,
+        "excerpt":"Episode for July 12th, 2023 Download Imagine a star system where seven worlds orbit a faint red sun. A star system where four of these worlds could be home to oceans, skies, and perhaps even life. A star system that is closer to us than any other with so many...","categories": [],
+        "tags": null,
+        "url": "/2023-07-07-jwst-measures-trappist-1b-temp/",
+        "teaser": null
       }]

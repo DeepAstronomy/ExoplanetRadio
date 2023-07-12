@@ -7,15 +7,16 @@ length: "4329121"
 explicit: "no"
 block: "no"
 host: "Tony Darnell"
-episode: "1"
+episode: "5"
 season: "1"
 keywords: "astronomy, exoplanets"
 categories: discoveries
 description: JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b
 header:
-   video:
-     id: 841358892
-     provider: vimeo
+  overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
+  actions:
+   - label: "All Episodes
+     url: /episodes/ 
 excerpt: JWST has measured the surface temperature of exoplanet TRAPPIST-1b
 author_profile: true
 sidebar: 

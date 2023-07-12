@@ -23,6 +23,25 @@
 		
 
         <item>
+            <title></title>
+	    <itunes:author></itunes:author>
+            <itunes:subtitle>Exoplanet Radio: </itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="" length="" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/2023-07-07-jwst-measures-trappist-1b-temp/</guid>
+	    <link>http://localhost:4000/2023-07-07-jwst-measures-trappist-1b-temp/</link>
+            <pubDate>Wed, 12 Jul 2023 10:08:21 -0400</pubDate>
+	    <itunes:episode></itunes:episode>
+	    <itunes:season></itunes:season>
+            <itunes:duration></itunes:duration>
+            <itunes:explicit></itunes:explicit>
+            <description>  Show Notes Available at http://localhost:4000/2023-07-07-jwst-measures-trappist-1b-temp/.</description>
+            <itunes:keywords></itunes:keywords>
+            <itunes:block></itunes:block>
+		</item>
+
+        <item>
             <title>Proxima Centauri-b: The Closest Exoplanet to Earth</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
