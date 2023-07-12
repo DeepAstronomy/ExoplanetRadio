@@ -28,6 +28,7 @@ repository               : "DeepAstronomy/ExoplanetRadio"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ExoplanetRadioLogo_100px.png"
 masthead_title           : "Exoplanet Radio"
+email                    : "exoplanetradio@deepastronomy.com"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
