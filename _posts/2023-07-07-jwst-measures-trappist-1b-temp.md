@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "JWST Measure Temperature of TRAPPIST-1b"
+title:  "JWST Measures Temperature of TRAPPIST-1b"
 file: https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3
 duration: "03:18"
 length: "4329121"
@@ -13,10 +13,10 @@ keywords: "astronomy, exoplanets"
 categories: discoveries
 description: JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b
 header:
-  overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
+  overlay_image: /assets/images/JWST_TRAPPIST-1b.jpeg
   actions:
-   - label: "All Episodes
-     url: /episodes/ 
+    - label: "All Episodes"
+      url: /episodes/ 
 excerpt: JWST has measured the surface temperature of exoplanet TRAPPIST-1b
 author_profile: true
 sidebar: 

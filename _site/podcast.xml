@@ -23,25 +23,6 @@
 		
 
         <item>
-            <title></title>
-	    <itunes:author></itunes:author>
-            <itunes:subtitle>Exoplanet Radio: </itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="" length="" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/2023-07-07-jwst-measures-trappist-1b-temp/</guid>
-	    <link>http://localhost:4000/2023-07-07-jwst-measures-trappist-1b-temp/</link>
-            <pubDate>Wed, 12 Jul 2023 10:08:21 -0400</pubDate>
-	    <itunes:episode></itunes:episode>
-	    <itunes:season></itunes:season>
-            <itunes:duration></itunes:duration>
-            <itunes:explicit></itunes:explicit>
-            <description>  Show Notes Available at http://localhost:4000/2023-07-07-jwst-measures-trappist-1b-temp/.</description>
-            <itunes:keywords></itunes:keywords>
-            <itunes:block></itunes:block>
-		</item>
-
-        <item>
             <title>Proxima Centauri-b: The Closest Exoplanet to Earth</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
@@ -56,6 +37,25 @@
             <itunes:duration>02:37</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description> Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life. Show Notes Available at http://localhost:4000/exoplanets/Proxima-Centauri-b/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>JWST Measures Temperature of TRAPPIST-1b</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: JWST Measures Temperature of TRAPPIST-1b</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3" length="4329121" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</guid>
+	    <link>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</link>
+            <pubDate>Fri, 07 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>5</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b Show Notes Available at http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>

@@ -23,15 +23,15 @@ var store = [{
         "url": "/exoplanets/exoplanets-are-everywhere/",
         "teaser": null
       },{
+        "title": "JWST Measures Temperature of TRAPPIST-1b",
+        "excerpt":"Episode for July 7th, 2023 Download Imagine a star system where seven worlds orbit a faint red sun. A star system where four of these worlds could be home to oceans, skies, and perhaps even life. A star system that is closer to us than any other with so many...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/jwst-measures-trappist-1b-temp/",
+        "teaser": null
+      },{
         "title": "Proxima Centauri-b: The Closest Exoplanet to Earth",
         "excerpt":"Episode for July 11th, 2023 Download Did you know that the closest star to us has a planet around it that may be habitable? In 2016 astronomers discovered a planet around the red-dwarf star Proxima Centauri, which lies a short hop away astronomically speaking at 4 light years from Earth....","categories": ["exoplanets"],
         "tags": [],
         "url": "/exoplanets/Proxima-Centauri-b/",
-        "teaser": null
-      },{
-        "title": null,
-        "excerpt":"Episode for July 12th, 2023 Download Imagine a star system where seven worlds orbit a faint red sun. A star system where four of these worlds could be home to oceans, skies, and perhaps even life. A star system that is closer to us than any other with so many...","categories": [],
-        "tags": null,
-        "url": "/2023-07-07-jwst-measures-trappist-1b-temp/",
         "teaser": null
       }]
