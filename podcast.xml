@@ -12,12 +12,12 @@
         <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.title }}</copyright>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
 		<itunes:author>{{ site.name }}</itunes:author>
-		<itunes:email> {{ site.email }} </itunes:email>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
         <description>{{ site.description | xml_escape }}</description>
 	<webMaster>{{ site.email }} ({{ site.name }})</webMaster>
         <itunes:owner>
 			<itunes:name>{{ site.name }}</itunes:name>
+			<itunes:email>{{ site.email }}</itunes:email>
 	</itunes:owner>
 	<itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/images/ExoplanetRadioLogo_sml.png" />
 	<itunes:category text="Science">
