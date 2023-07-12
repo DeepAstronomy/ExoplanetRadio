@@ -21,10 +21,11 @@ author_profile: true
 sidebar: 
   nav: "latest"
 classes: wide
+share: true
 ---
 
 {% include audio_player.html %} 
-![ExoplanetWoodcut](/assets/images/ExoplanetComet_woodcut_sml.jpeg){: .align-right}
+
 For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with whom we could someday communicate?
 
 We still do not know the answer to that question, but we have made some progress. We have explored our own solar system, a family of planets and other bodies that orbit our Sun. We have discovered eight major planets, some with moons of their own, and many smaller objects like asteroids and comets. We are even searching for a possible ninth planet, far beyond the orbit of Neptune. But these are all our neighbors, our kin. We share a common origin and a common destiny with them.
