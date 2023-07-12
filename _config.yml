@@ -109,7 +109,7 @@ author:
   avatar           : "https://exoplanetradio.com/assets/images/deep-astron-host-darnell-bw.jpeg" 
   bio              : "Host of Exoplanet Radio"
   location         : #"Somewhere"
-  email            :
+  email            : "exoplanetradio@deepastronomy.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
