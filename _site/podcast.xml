@@ -24,135 +24,21 @@
 		
 
         <item>
-            <title>Proxima Centauri-b: The Closest Exoplanet to Earth</title>
+            <title>Welcome to Exoplanet Radio</title>
 	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
+            <itunes:subtitle>Exoplanet Radio: Welcome to Exoplanet Radio</itunes:subtitle>
             <itunes:summary></itunes:summary>
 	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/proxima-b/Proxima_b_final.mp3" length="6300000" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/Proxima-Centauri-b/</guid>
-	    <link>http://localhost:4000/exoplanets/Proxima-Centauri-b/</link>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 -0400</pubDate>
-	    <itunes:episode>6</itunes:episode>
-	    <itunes:season>1</itunes:season>
-            <itunes:duration>02:37</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description> Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life. Show Notes Available at http://localhost:4000/exoplanets/Proxima-Centauri-b/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>How Many Exoplanets Are There?</title>
-	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: How Many Exoplanets Are There?</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3" length="5270538" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/how-many-exoplanets/</guid>
-	    <link>http://localhost:4000/science/how-many-exoplanets/</link>
-            <pubDate>Sat, 08 Jul 2023 00:00:00 -0400</pubDate>
-	    <itunes:episode>6</itunes:episode>
-	    <itunes:season>1</itunes:season>
-            <itunes:duration>03:58</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description> Astronomers estimate there are more planets in our galaxy than there are stars.  Just how many is that? Show Notes Available at http://localhost:4000/science/how-many-exoplanets/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>JWST Measures Temperature of TRAPPIST-1b</title>
-	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: JWST Measures Temperature of TRAPPIST-1b</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3" length="4329121" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</guid>
-	    <link>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</link>
-            <pubDate>Fri, 07 Jul 2023 00:00:00 -0400</pubDate>
-	    <itunes:episode>5</itunes:episode>
-	    <itunes:season>1</itunes:season>
-            <itunes:duration>03:18</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description> JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b Show Notes Available at http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Exoplanets are Everywhere</title>
-	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Exoplanets are Everywhere</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3" length="5087281" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/exoplanets-are-everywhere/</guid>
-	    <link>http://localhost:4000/science/exoplanets-are-everywhere/</link>
-            <pubDate>Thu, 06 Jul 2023 00:00:00 -0400</pubDate>
-	    <itunes:episode>4</itunes:episode>
-	    <itunes:season>1</itunes:season>
-            <itunes:duration>02:33</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description> We have only known there are planets around other stars for about 25 years.  Now we know they are everywhere. Show Notes Available at http://localhost:4000/science/exoplanets-are-everywhere/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Kepler-22b: A Planet with a lot of Promise</title>
-	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Kepler-22b: A Planet with a lot of Promise</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3" length="6300000" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kepler-22b/</guid>
-	    <link>http://localhost:4000/exoplanets/kepler-22b/</link>
-            <pubDate>Wed, 05 Jul 2023 00:00:00 -0400</pubDate>
-	    <itunes:episode>3</itunes:episode>
-	    <itunes:season>1</itunes:season>
-            <itunes:duration>03:55</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description> Kepler-22b was the first exoplanet confirmed by the Kepler Space Telescope.  It may also harbor life Show Notes Available at http://localhost:4000/exoplanets/kepler-22b/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Not All Exoplanets Orbit Stars</title>
-	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Not All Exoplanets Orbit Stars</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3" length="3394871" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</guid>
-	    <link>http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</link>
-            <pubDate>Tue, 04 Jul 2023 00:00:00 -0400</pubDate>
-	    <itunes:episode>2</itunes:episode>
-	    <itunes:season>1</itunes:season>
-            <itunes:duration>02:37</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description> Amazingly, astronomers have found planets in space that do not have a host star. Show Notes Available at http://localhost:4000/discoveries/not-all-stars-have-exoplanets/.</description>
-            <itunes:keywords>astronomy, exoplanets, rogue</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>What is an Exoplanet?</title>
-	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: What is an Exoplanet?</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
-            <enclosure url="https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3" length="9014787" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/what-is-an-exoplanet/</guid>
-	    <link>http://localhost:4000/science/what-is-an-exoplanet/</link>
-            <pubDate>Mon, 03 Jul 2023 00:00:00 -0400</pubDate>
+            <enclosure url="https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3" length="2538614" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</guid>
+	    <link>http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</link>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>1</itunes:episode>
 	    <itunes:season>1</itunes:season>
-            <itunes:duration>03:45</itunes:duration>
+            <itunes:duration>01:51</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Welcome to the first episode of Exoplanet Radio!  Let&apos;s get started by defining what an exoplanet is.  What types are there? Show Notes Available at http://localhost:4000/science/what-is-an-exoplanet/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <description> Your Daily Dose of Exoplanet Wonder! Show Notes Available at http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/.</description>
+            <itunes:keywords>astronomy, exoplanets, rogue</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 

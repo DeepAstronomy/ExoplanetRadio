@@ -14,7 +14,7 @@ header:
   #overlay_color: green
   caption: "Imagine the Possibilies"
   actions:
-    - label: "New Episodes Daily"
+    - label: "Coming July 21!"
       url: /episodes/
 excerpt: "Uncover Secrets of Worlds Beyond our Solar System"
 #tagline: "tagline"

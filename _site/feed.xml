@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-12T21:27:17-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Proxima Centauri-b: The Closest Exoplanet to Earth</title><link href="http://localhost:4000/exoplanets/Proxima-Centauri-b/" rel="alternate" type="text/html" title="Proxima Centauri-b: The Closest Exoplanet to Earth" /><published>2023-07-11T00:00:00-04:00</published><updated>2023-07-11T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/Proxima-Centauri-b</id><content type="html" xml:base="http://localhost:4000/exoplanets/Proxima-Centauri-b/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-13T10:45:06-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Welcome to Exoplanet Radio</title><link href="http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/" rel="alternate" type="text/html" title="Welcome to Exoplanet Radio" /><published>2023-07-13T00:00:00-04:00</published><updated>2023-07-13T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/welcome-to-exoplanet-radio</id><content type="html" xml:base="http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/">&lt;div class=&quot;plyr&quot;&gt;
 
- Episode for July 11th, 2023
+ Episode for July 13th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/proxima-b/Proxima_b_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+        &lt;source src=&quot;https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
  &lt;/audio&gt;
 
  &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
@@ -12,187 +12,13 @@
 			    title: &quot;Example Title&quot;,
 		    });
   &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/proxima-b/Proxima_b_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+ &lt;a href=&quot;https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Did you know that the closest star to us has a planet around it that may be habitable? In 2016 astronomers discovered a planet around the red-dwarf star Proxima Centauri, which lies a short hop away astronomically speaking at 4 light years from Earth.  This planet, called Proxima Centauri b, is the closest planet to us from outside the solar system.&lt;/p&gt;
+&lt;p&gt;Hello and welcome to Exoplanet Radio, the podcast that takes you on a journey to the most fascinating worlds beyond our solar system. Every day, we bring you the latest news, discoveries, and stories about exoplanets, the planets that orbit other stars.&lt;/p&gt;
 
-&lt;p&gt;Proxima Centauri b is a very strange planet, it is only a tiny bit larger than Earth but it orbits its star in only 11.2 days - that is its year! It also orbits very close to the star, closer than Mercury orbits the Sun.&lt;/p&gt;
+&lt;p&gt;There are thousands of these planets known to us, and many more waiting to be found. They come in all shapes and sizes, from giant gas balls to rocky Earth-like worlds. Some of them are scorching hot, some are freezing cold, and some are just right for liquid water and maybe even life. We explore their diversity, their mysteries, and their potential for life.&lt;/p&gt;
 
-&lt;p&gt;Still, even though it is so close to Proxima Centauri, that star is quite cool, which means the planet can orbit very closely and not be too hot.  In fact, the temperatures on Proxima b are such that any water that may be there would be liquid.  Which is a good thing if life were to evolve or if humans were to travel there.&lt;/p&gt;
+&lt;p&gt;We also look at the science behind searching for these distant worlds, using powerful telescopes and clever techniques. We will explore how we find these planets, how we study their atmospheres, climates, and geology, and we try to answer the big questions: How did these planets form? How do they evolve? And are we alone in the universe?&lt;/p&gt;
 
-&lt;p&gt;Red dwarf stars like Proxima Centauri are tiny compared to the Sun.  They are also the most common stars in the universe and live for trillions of years.  The long life of red dwarf stars provides a lot of time for life to form on any planets that may orbit them.  Because of this, some astronomers believe that red dwarf stars are the most likely place to find evidence of life elsewhere in the universe.&lt;/p&gt;
-
-&lt;p&gt;Now, even though Proxima Centauri is our closest star, it is still four light years away.  It would take five million years to get there at typical airline speeds, and our current rocket technology is nowhere near ready to take us there, so for now, travel to Proxima Centauri b remains a dream.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Proxima Centauri-b is an exoplanet right next door.</summary></entry><entry><title type="html">How Many Exoplanets Are There?</title><link href="http://localhost:4000/science/how-many-exoplanets/" rel="alternate" type="text/html" title="How Many Exoplanets Are There?" /><published>2023-07-08T00:00:00-04:00</published><updated>2023-07-08T00:00:00-04:00</updated><id>http://localhost:4000/science/how-many-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/how-many-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 8th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;We live on a tiny oasis of life in a vast and silent cosmos. But are we alone? Are there other worlds like ours, orbiting other stars, in other parts of our galaxy?&lt;/p&gt;
-
-&lt;p&gt;The answer is yes. There are billions of them.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the remarkable achievements of space telescopes like Kepler and TESS, we have discovered over 5,000 exoplanets – planets beyond our solar system – and thousands more await confirmation. These exoplanets come in all shapes and sizes, from gas giants larger than Jupiter to rocky worlds smaller than Earth. Some are scorching hot, some are freezing cold, and some are just right.&lt;/p&gt;
-
-&lt;p&gt;How do we know which ones are just right? We look for the ones that orbit within the habitable zone of their stars – the range of distances where liquid water could exist on the surface. Liquid water is essential for life as we know it, and it is also a good indicator of a planet’s climate and geology.  They are the best candidates for finding life in our galaxy.&lt;/p&gt;
-
-&lt;p&gt;But how many exoplanets are in the habitable zone? A recent study estimated that there could be 300 million habitable planets in the Milky Way. Some are just 30 light years from the Sun, which means that if we could travel at the speed of light, it would take us only 30 years to reach them. Of course, we can’t travel at that speed, but we can still observe them with our telescopes and learn more about their properties and potential for life.&lt;/p&gt;
-
-&lt;p&gt;But even 300 million is just a fraction of the total number of exoplanets in our galaxy. The study extrapolated that figure from a sample of stars observed by Kepler, which only covered only one section of the sky in the constellation of Cygnus the Swan.  Astronomers estimate based on Kepler observations, that every star in the Milky Way has at least one planet, and there are roughly 400 billion stars in the galaxy, which means there are hundreds of billions of planets in our home galaxy.&lt;/p&gt;
-
-&lt;p&gt;That’s an astonishing number. It means that for every grain of sand on every beach on Earth, there are more than 100 planets in our galaxy.  NASA estimates that there are at least 1,500 planets within just 50 light years of Earth.&lt;/p&gt;
-
-&lt;p&gt;But our galaxy is not alone. There are billions of other galaxies in the observable universe, each with billions of stars and planets of their own. The number of exoplanets in the cosmos is beyond our imagination.&lt;/p&gt;
-
-&lt;p&gt;We may never be able to visit them all, or even detect them all, but we can still marvel at their existence and wonder about their mysteries. We can still dream of finding another pale blue dot, another oasis of life, another civilization among the stars.&lt;/p&gt;
-
-&lt;p&gt;We are not alone. We are part of a cosmic family, a galaxy of worlds.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">There are 100 exoplanets for every grain of sand on every beach on Earth.</summary></entry><entry><title type="html">JWST Measures Temperature of TRAPPIST-1b</title><link href="http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/" rel="alternate" type="text/html" title="JWST Measures Temperature of TRAPPIST-1b" /><published>2023-07-07T00:00:00-04:00</published><updated>2023-07-07T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp</id><content type="html" xml:base="http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 7th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Imagine a star system where seven worlds orbit a faint red sun. A star system where four of these worlds could be home to oceans, skies, and perhaps even life. A star system that is closer to us than any other with so many planets. This is TRAPPIST-1, the most amazing discovery so far in the quest for life beyond Earth.&lt;/p&gt;
-
-&lt;p&gt;TRAPPIST-1 is a tiny star in the constellation of Aquarius, only 41 light years away from us. It is so dim that we can’t see it with the naked eye, but it shines brightly in the eyes of astronomers who have studied it with powerful telescopes. They have found that this star has seven planets, all of them rocky like Earth, and all of them packed in a tight orbit around their sun.&lt;/p&gt;
-
-&lt;p&gt;The four middle planets are in the sweet spot where liquid water could exist on their surfaces, if they have the right atmospheres. This is what makes them so exciting for the search for life. Could there be microbes, plants, or even animals on these alien worlds? Could there be civilizations, cultures, or art? Could there be someone looking back at us, wondering the same thing?&lt;/p&gt;
-
-&lt;p&gt;We are not alone in our curiosity. The new Webb Space Telescope has just made a breakthrough in exploring TRAPPIST-1. It has measured the temperature of the innermost planet, TRAPPIST-1b, for the first time. This planet is very close to its star, whizzing around it in less than two Earth days. It is slightly bigger than our planet, but made of rock like ours. Webb has found that it is very hot on its day side, 500 Kelvin or 450 degrees Fahrenheit - that’s 232 degrees Celsius. This means that it probably has no atmosphere or any life. It is more like a scorched desert than a paradise.&lt;/p&gt;
-
-&lt;p&gt;But this is just the beginning. Webb will soon observe the other planets in TRAPPIST-1, and reveal their secrets. We may find clues to their atmospheres, their climates, and their potential for life. We may find out if we have neighbors in this cosmic oasis, or if we are alone in the vastness of space.&lt;/p&gt;
-
-&lt;p&gt;TRAPPIST-1 is a star system that inspires us to dream, to explore, and to discover. It is a star system that challenges us to ask: are we alone?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">JWST has measured the surface temperature of exoplanet TRAPPIST-1b</summary></entry><entry><title type="html">Exoplanets are Everywhere</title><link href="http://localhost:4000/science/exoplanets-are-everywhere/" rel="alternate" type="text/html" title="Exoplanets are Everywhere" /><published>2023-07-06T00:00:00-04:00</published><updated>2023-07-06T00:00:00-04:00</updated><id>http://localhost:4000/science/exoplanets-are-everywhere</id><content type="html" xml:base="http://localhost:4000/science/exoplanets-are-everywhere/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 6th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Did you know that the discovery of other planets in orbit around other stars is a very recent one?  Only 25 years ago, we had no idea there were any planets in our galaxy besides those in our solar system.  Now, not only have we discovered them, but astronomers estimate there are trillions of them.  There are so many exoplanets out there that every star in our galaxy could have at least one.&lt;/p&gt;
-
-&lt;p&gt;Of course, not every star has a planet in orbit around it.  Some stars have no planets, others can have 3, 4, 9, 10 or more.&lt;/p&gt;
-
-&lt;p&gt;So far, astronomers have confirmed over 5,000 exoplanets and there are many different kinds:  there are hot Jupiters - large, massive planets that dwarf even our own Jupiter, Neptune-like planets that are similar to Uranus or Neptune, Super-Earths - large, rocky planets more massive than the Earth with gravity that would squash the strongest human, and Terrestrial planets, small, rocky worlds about the size of Earth or smaller.&lt;/p&gt;
-
-&lt;p&gt;Of all these types of exoplanets, the most common found so far are the Super-Earths.  These are rocky planets that are between two and up to ten times the mass of our planet.  We find most exoplanets by measuring dips in brightness from the star when the planet blocks light as it passes between the star and the telescope.  Because of this technique, we may be preferentially seeing more of this type of planet than others.  We need to keep looking.&lt;/p&gt;
-
-&lt;p&gt;One thing is certain however: ever since we’ve been looking for these distant planets around other stars, we’ve discovered that they are everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">More planets than stars</summary></entry><entry><title type="html">Kepler-22b: A Planet with a lot of Promise</title><link href="http://localhost:4000/exoplanets/kepler-22b/" rel="alternate" type="text/html" title="Kepler-22b: A Planet with a lot of Promise" /><published>2023-07-05T00:00:00-04:00</published><updated>2023-07-05T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kepler-22b</id><content type="html" xml:base="http://localhost:4000/exoplanets/kepler-22b/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 5th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Today, we are going to explore a remarkable world that lies beyond our solar system: Kepler-22b. This planet is one of the first confirmed exoplanets in the habitable zone of its star, where liquid water could exist on its surface. But what is this world like? How far is it from us, and from its sun? And could it harbor life?&lt;/p&gt;
-
-&lt;p&gt;Kepler-22b orbits a star that is very similar to our own sun, but slightly smaller and cooler. The star is called Kepler-22, and it is located about 640 light-years away from Earth in the constellation of Cygnus, the swan. That means that the light we see from this star today left it when Europe was in the last throes of the Middle Ages. To travel there with our current technology would take millions of years.&lt;/p&gt;
-
-&lt;p&gt;The planet itself is about twice the size of Earth, but its mass and composition are unknown. It could be a rocky world like ours, or a water world covered in a global ocean, or even a gas giant with no solid surface at all. The only way to find out for sure is to observe it more closely with future telescopes.&lt;/p&gt;
-
-&lt;p&gt;Kepler-22b takes about 290 days to complete one orbit around its star, which is about the same as our year. Its distance from its star is a little less than the Earth is from the Sun. And it receives about the same amount of sunlight that Earth does, making this a promising place for life as we know it.&lt;/p&gt;
-
-&lt;p&gt;But there is a catch: Kepler-22b may not have a stable climate like Earth does.  Astronomers have noticed that this planet moves in a highly inclined orbit, roughly 90 degrees from the orbits of the other planets.  If it runs out to have a highly elliptical orbit as well, then this could create extreme temperature differences between day and night, and possibly strong winds and storms. However, if Kepler-22b has a thick atmosphere or a large moon, then it could have a more moderate rotation and seasons.&lt;/p&gt;
-
-&lt;p&gt;The question of life on Kepler-22b is still open, there is so much we don’t know. If it has liquid water on its surface, it could be a potential harbor for living organisms. But water alone is not enough: life also needs energy, nutrients, and protection from harmful radiation. We do not know if Kepler-22b has any of these characteristics, or if it is compatible with our form of life.&lt;/p&gt;
-
-&lt;p&gt;Kepler-22b is a fascinating example of the diversity and wonder of the cosmos. It challenges us to imagine what other worlds may exist out there, and what forms of life may inhabit them. It also reminds us of how precious and unique our own planet is, and how much we have to learn about it and ourselves.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Kepler-22b has lots of promise for life</summary></entry><entry><title type="html">Not All Exoplanets Orbit Stars</title><link href="http://localhost:4000/discoveries/not-all-stars-have-exoplanets/" rel="alternate" type="text/html" title="Not All Exoplanets Orbit Stars" /><published>2023-07-04T00:00:00-04:00</published><updated>2023-07-04T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/not-all-stars-have-exoplanets</id><content type="html" xml:base="http://localhost:4000/discoveries/not-all-stars-have-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 4th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;One of the most exciting recent discoveries in astronomy has been the existence of planets around other stars.  Called exoplanets, they vary wildly in their characteristics, appearance and behavior.&lt;/p&gt;
-
-&lt;p&gt;Most of the over 5000 exoplanets discovered so far are in orbit around other stars, some whiz around their home sun in a matter of only days while others have orbits that last decades or hundred of years.&lt;/p&gt;
-
-&lt;p&gt;But there is another interesting class of exoplanets that do not have a home sun.  These rogue worlds travel the distance between the stars, they live in the cold, dark interstellar regions of the galaxy.&lt;/p&gt;
-
-&lt;p&gt;Free floating planets like this are very difficult to spot.  Since we have found most exoplanets by looking at them indirectly, like watching the star’s brightness dip as it passes in front or makes the star wobble as it pulls it in its orbit, there is not much to go on to find the roaming exoplanets around no star at all - we do not have the technology to image them directly.&lt;/p&gt;
-
-&lt;p&gt;Still, amazingly, astronomers have found some, over 70 exoplanets that do not have a host star have been found roaming the galaxy.  Using over 20 years worth of data from dozens of telescopes, astronomers have uncovered some of the dimmest objects in our Milky Way, and some of them are planets.&lt;/p&gt;
-
-&lt;p&gt;Most interesting of all, if any of these free floating planets happen to have a moon around it, and the exoplanet itself is large enough, like Jupiter say, astronomers surmise that the heat generated by the gravity of these systems might actually be enough to harbor life on the revolving moon. If we could find life on a world like that, it would be a strong argument that life in the universe is everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Astronomers have detected many rogue planets</summary></entry><entry><title type="html">What is an Exoplanet?</title><link href="http://localhost:4000/science/what-is-an-exoplanet/" rel="alternate" type="text/html" title="What is an Exoplanet?" /><published>2023-07-03T00:00:00-04:00</published><updated>2023-07-03T00:00:00-04:00</updated><id>http://localhost:4000/science/what-is-an-exoplanet</id><content type="html" xml:base="http://localhost:4000/science/what-is-an-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 3rd, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with whom we could someday communicate?&lt;/p&gt;
-
-&lt;p&gt;We still do not know the answer to that question, but we have made some progress. We have explored our own solar system, a family of planets and other bodies that orbit our Sun. We have discovered eight major planets, some with moons of their own, and many smaller objects like asteroids and comets. We are even searching for a possible ninth planet, far beyond the orbit of Neptune. But these are all our neighbors, our kin. We share a common origin and a common destiny with them.&lt;/p&gt;
-
-&lt;p&gt;Exoplanets are different. They are worlds that orbit other stars, far away from our Sun. They are strangers, unknown and mysterious. And they are very numerous. In the past few decades, we have detected over five thousand of them, using various methods and instruments. And we suspect there are many more, perhaps billions or even trillions in our galaxy alone.&lt;/p&gt;
-
-&lt;p&gt;Exoplanets come in all shapes and sizes. Some are huge and hot, like Jupiter but much more so. They circle their stars so closely that they are scorched by their heat and radiation. Some are smaller and colder, like Neptune or Uranus. They may have thick atmospheres of gas and ice. And some are rocky and terrestrial, like Earth or Mars. They may have solid surfaces and perhaps even oceans and continents.&lt;/p&gt;
-
-&lt;p&gt;The most intriguing exoplanets are those that resemble Earth in some way. They are not too big or too small, not too hot or too cold. They orbit their stars in a zone where liquid water could exist on their surface. Water is essential for life as we know it. And so we wonder: could these exoplanets harbor life? Could they be oases of green and blue in the desert of space? Could they be home to creatures that think and feel and dream?&lt;/p&gt;
-
-&lt;p&gt;We do not know yet. But we are trying to find out. We are building new telescopes and instruments that will allow us to study these exoplanets in more detail. We will look for signs of water, oxygen, methane and other molecules that could indicate the presence of life. We will listen for signals that could be sent by intelligent beings. We will try to make contact with our cosmic cousins, if they exist.&lt;/p&gt;
-
-&lt;p&gt;We are on the verge of a new era of discovery and exploration. We are about to learn more about our place in the universe and our connection to other worlds. We are about to answer one of the oldest and most profound questions of our species: are we the only ones?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">There are many types of planets around other stars</summary></entry></feed>
+&lt;p&gt;Whether you are an astronomy enthusiast, a science fiction fan, or just curious about the universe, this podcast is for you. No prior knowledge needed! All episodes are presented in an easy to understand way.  Join us as we discover new horizons, new possibilities, and new wonders in the sky. This is Exoplanet Radio, your daily dose of cosmic inspiration.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Delve into the mysteries of exotic planets in our galaxy!</summary></entry></feed>
