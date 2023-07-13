@@ -10,9 +10,9 @@ header:
   overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
   overlay_text: "About Exoplanet Radio"
   show_overlay_excerpt: true
-  #og_image:
-  #overlay_color: green
-  caption: "Image Caption here"
+  actions:
+   - label: "Contact Us"
+     url: /contact/
 excerpt: "About Exoplanet Radio"
 permalink: /about/
 #tagline: "tagline"
@@ -27,6 +27,6 @@ This content is available for use in your productions for free!  If you'd like t
 
 We're doing this because we love producing content but don't necessarily have the time to create constant social media posts (plus we hate doing it), so if you want to have some stuff to put in your productions, that's ok by us.
 
-## Especially Radio Stations.
+## Especially Radio Stations
 
 If you are radio station producer or program manager, we can offer you episodes in the proper quality and file formats.  Just reach out!
