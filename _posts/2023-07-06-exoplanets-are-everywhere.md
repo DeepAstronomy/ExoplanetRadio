@@ -10,7 +10,7 @@ host: "Tony Darnell"
 episode: "4"
 season: "1"
 keywords: "astronomy, exoplanets"
-categories: exoplanets
+categories: science
 description: We have only known there are planets around other stars for about 25 years.  Now we know they are everywhere.
 header:
   overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png

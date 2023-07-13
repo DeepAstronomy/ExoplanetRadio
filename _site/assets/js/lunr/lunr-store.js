@@ -1,8 +1,8 @@
 var store = [{
         "title": "What is an Exoplanet?",
-        "excerpt":"Episode for July 3rd, 2023 Download For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with...","categories": ["exoplanets"],
+        "excerpt":"Episode for July 3rd, 2023 Download For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with...","categories": ["science"],
         "tags": [],
-        "url": "/exoplanets/what-is-an-exoplanet/",
+        "url": "/science/what-is-an-exoplanet/",
         "teaser": null
       },{
         "title": "Not All Exoplanets Orbit Stars",
@@ -18,15 +18,21 @@ var store = [{
         "teaser": null
       },{
         "title": "Exoplanets are Everywhere",
-        "excerpt":"Episode for July 6th, 2023 Download Did you know that the discovery of other planets in orbit around other stars is a very recent one?  Only 25 years ago, we had no idea there were any planets in our galaxy besides those in our solar system.  Now, not only have...","categories": ["exoplanets"],
+        "excerpt":"Episode for July 6th, 2023 Download Did you know that the discovery of other planets in orbit around other stars is a very recent one?  Only 25 years ago, we had no idea there were any planets in our galaxy besides those in our solar system.  Now, not only have...","categories": ["science"],
         "tags": [],
-        "url": "/exoplanets/exoplanets-are-everywhere/",
+        "url": "/science/exoplanets-are-everywhere/",
         "teaser": null
       },{
         "title": "JWST Measures Temperature of TRAPPIST-1b",
         "excerpt":"Episode for July 7th, 2023 Download Imagine a star system where seven worlds orbit a faint red sun. A star system where four of these worlds could be home to oceans, skies, and perhaps even life. A star system that is closer to us than any other with so many...","categories": ["discoveries"],
         "tags": [],
         "url": "/discoveries/jwst-measures-trappist-1b-temp/",
+        "teaser": null
+      },{
+        "title": "How Many Exoplanets Are There?",
+        "excerpt":"Episode for July 8th, 2023 Download We live on a tiny oasis of life in a vast and silent cosmos. But are we alone? Are there other worlds like ours, orbiting other stars, in other parts of our galaxy? The answer is yes. There are billions of them. Thanks to...","categories": ["science"],
+        "tags": [],
+        "url": "/science/how-many-exoplanets/",
         "teaser": null
       },{
         "title": "Proxima Centauri-b: The Closest Exoplanet to Earth",

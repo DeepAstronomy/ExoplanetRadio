@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/exoplanets/what-is-an-exoplanet/</loc>
+<loc>http://localhost:4000/science/what-is-an-exoplanet/</loc>
 <lastmod>2023-07-03T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -13,12 +13,16 @@
 <lastmod>2023-07-05T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/exoplanets/exoplanets-are-everywhere/</loc>
+<loc>http://localhost:4000/science/exoplanets-are-everywhere/</loc>
 <lastmod>2023-07-06T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</loc>
 <lastmod>2023-07-07T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/science/how-many-exoplanets/</loc>
+<lastmod>2023-07-08T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/exoplanets/Proxima-Centauri-b/</loc>
@@ -53,10 +57,13 @@
 <loc>http://localhost:4000/portfolio/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/categories/exoplanets/</loc>
+<loc>http://localhost:4000/categories/science/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/discoveries/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/exoplanets/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/2023/</loc>
