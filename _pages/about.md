@@ -19,4 +19,14 @@ permalink: /about/
 ---
 # What's All This Then?
 
-As of this writing, things are just getting started so please [Contact Us](/contact/) to keep informed when content becomes available.  We have lots of astronomy programs in production right now, so there will be a lot of changes.
+As of this writing, things are just getting started so please [Contact Us](/contact/) with any questions or ideas for episodes.  We are excited to be producing this new podcast and can't wait to hear what people think!
+
+## Hey, You Can Use This Content!
+
+This content is available for use in your productions for free!  If you'd like to incorporate these episodes in your podcast, website, videos, or streaming productions, feel free, just let us know you're using it and how.
+
+We're doing this because we love producing content but don't necessarily have the time to create constant social media posts (plus we hate doing it), so if you want to have some stuff to put in your productions, that's ok by us.
+
+## Especially Radio Stations.
+
+If you are radio station producer or program manager, we can offer you episodes in the proper quality and file formats.  Just reach out!
