@@ -13,7 +13,7 @@ keywords: "astronomy, exoplanets"
 categories: discoveries
 description: JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b
 header:
-  overlay_image: /assets/images/JWST_TRAPPIST-1b.jpeg
+  overlay_image: /assets/images/HotRockyExoplanet.png
   actions:
     - label: "All Episodes"
       url: /episodes/ 
