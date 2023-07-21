@@ -13,6 +13,7 @@ keywords: "astronomy, exoplanets"
 categories: science
 description: Welcome to the first episode of Exoplanet Radio!  Let's get started by defining what an exoplanet is.  What types are there?
 header:
+   overlay_image: /assets/images/thumbnails/WhatIsAnExoplanet.png
    video:
      id: 841358892
      provider: vimeo
@@ -25,6 +26,8 @@ share: true
 ---
 
 {% include audio_player.html %} 
+
+{% include video id="841358892" provider="vimeo" %}
 
 For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with whom we could someday communicate?
 
