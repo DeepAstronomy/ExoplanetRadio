@@ -13,7 +13,7 @@ keywords: "astronomy, exoplanets"
 categories: science
 description: Welcome to the first episode of Exoplanet Radio!  Let's get started by defining what an exoplanet is.  What types are there?
 header:
-   overlay_image: /assets/images/thumbnails/WhatIsAnExoplanet.png
+   overlay_image: /assets/images/ExoplanetLandscape.jpg
    video:
      id: 841358892
      provider: vimeo
