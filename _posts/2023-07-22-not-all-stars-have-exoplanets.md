@@ -7,7 +7,7 @@ length: "3394871"
 explicit: "no"
 block: "no"
 host: "Tony Darnell"
-episode: "2"
+episode: "3"
 season: "1"
 keywords: "astronomy, exoplanets, rogue"
 categories: discoveries

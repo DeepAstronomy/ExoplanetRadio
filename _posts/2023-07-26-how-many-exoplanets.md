@@ -7,7 +7,7 @@ length: "5270538"
 explicit: "no"
 block: "no"
 host: "Tony Darnell"
-episode: "6"
+episode: "7"
 season: "1"
 keywords: "astronomy, exoplanets"
 categories: science
@@ -17,7 +17,7 @@ header:
   actions:
     - label: "All Episodes"
       url: /episodes/ 
-excerpt: There are 100 exoplanets for every grain of sand on every beach on Earth.
+excerpt: There are an average of 1.6 planets for every star in our galaxy
 author_profile: true
 sidebar: 
   nav: "latest"
@@ -26,7 +26,7 @@ share: true
 ---
 
 {% include audio_player.html %} 
-We live on a tiny oasis of life in a vast and silent cosmos. But are we alone? Are there other worlds like ours, orbiting other stars, in other parts of our galaxy?
+We live on a pale blue dot, a tiny oasis of life in a vast and silent cosmos. But are we alone? Are there other worlds like ours, orbiting other stars, in other parts of our galaxy?
 
 The answer is yes. There are billions of them.
 
@@ -38,7 +38,7 @@ But how many exoplanets are in the habitable zone? A recent study estimated that
 
 But even 300 million is just a fraction of the total number of exoplanets in our galaxy. The study extrapolated that figure from a sample of stars observed by Kepler, which only covered only one section of the sky in the constellation of Cygnus the Swan.  Astronomers estimate based on Kepler observations, that every star in the Milky Way has at least one planet, and there are roughly 400 billion stars in the galaxy, which means there are hundreds of billions of planets in our home galaxy.
 
-That's an astonishing number. It means that for every grain of sand on every beach on Earth, there are more than 100 planets in our galaxy.  NASA estimates that there are at least 1,500 planets within just 50 light years of Earth.
+That's an astonishing number. NASA estimates that there are at least 1,500 planets within just 50 light years of Earth.
 
 But our galaxy is not alone. There are billions of other galaxies in the observable universe, each with billions of stars and planets of their own. The number of exoplanets in the cosmos is beyond our imagination.
 

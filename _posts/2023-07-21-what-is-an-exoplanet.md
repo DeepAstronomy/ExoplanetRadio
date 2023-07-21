@@ -7,7 +7,7 @@ length: "9014787"
 explicit: "no"
 block: "no"
 host: "Tony Darnell"
-episode: "1"
+episode: "2"
 season: "1"
 keywords: "astronomy, exoplanets"
 categories: science
