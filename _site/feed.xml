@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-21T14:18:17-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">What is an Exoplanet?</title><link href="http://localhost:4000/science/what-is-an-exoplanet/" rel="alternate" type="text/html" title="What is an Exoplanet?" /><published>2023-07-21T00:00:00-04:00</published><updated>2023-07-21T00:00:00-04:00</updated><id>http://localhost:4000/science/what-is-an-exoplanet</id><content type="html" xml:base="http://localhost:4000/science/what-is-an-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-23T08:58:50-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Kepler-22b: A Planet with a lot of Promise</title><link href="http://localhost:4000/exoplanets/kepler-22b/" rel="alternate" type="text/html" title="Kepler-22b: A Planet with a lot of Promise" /><published>2023-07-23T00:00:00-04:00</published><updated>2023-07-23T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kepler-22b</id><content type="html" xml:base="http://localhost:4000/exoplanets/kepler-22b/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for July 23rd, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;!-- Courtesy of embedresponsively.com --&gt;
+
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+    &lt;iframe src=&quot;https://player.vimeo.com/video/841359014?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Today, we are going to explore a remarkable world that lies beyond our solar system: Kepler-22b. This planet is one of the first confirmed exoplanets in the habitable zone of its star, where liquid water could exist on its surface. But what is this world like? How far is it from us, and from its sun? And could it harbor life?&lt;/p&gt;
+
+&lt;p&gt;Kepler-22b orbits a star that is very similar to our own sun, but slightly smaller and cooler. The star is called Kepler-22, and it is located about 640 light-years away from Earth in the constellation of Cygnus, the swan. That means that the light we see from this star today left it when Europe was in the last throes of the Middle Ages. To travel there with our current technology would take millions of years.&lt;/p&gt;
+
+&lt;p&gt;The planet itself is about twice the size of Earth, but its mass and composition are unknown. It could be a rocky world like ours, or a water world covered in a global ocean, or even a gas giant with no solid surface at all. The only way to find out for sure is to observe it more closely with future telescopes.&lt;/p&gt;
+
+&lt;p&gt;Kepler-22b takes about 290 days to complete one orbit around its star, which is about the same as our year. Its distance from its star is a little less than the Earth is from the Sun. And it receives about the same amount of sunlight that Earth does, making this a promising place for life as we know it.&lt;/p&gt;
+
+&lt;p&gt;But there is a catch: Kepler-22b may not have a stable climate like Earth does.  Astronomers have noticed that this planet moves in a highly inclined orbit, roughly 90 degrees from the orbits of the other planets.  If it runs out to have a highly elliptical orbit as well, then this could create extreme temperature differences between day and night, and possibly strong winds and storms. However, if Kepler-22b has a thick atmosphere or a large moon, then it could have a more moderate rotation and seasons.&lt;/p&gt;
+
+&lt;p&gt;The question of life on Kepler-22b is still open, there is so much we don’t know. If it has liquid water on its surface, it could be a potential harbor for living organisms. But water alone is not enough: life also needs energy, nutrients, and protection from harmful radiation. We do not know if Kepler-22b has any of these characteristics, or if it is compatible with our form of life.&lt;/p&gt;
+
+&lt;p&gt;Kepler-22b is a fascinating example of the diversity and wonder of the cosmos. It challenges us to imagine what other worlds may exist out there, and what forms of life may inhabit them. It also reminds us of how precious and unique our own planet is, and how much we have to learn about it and ourselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/exoplanets/Kepler-22bSystemIllustration.jpg&quot; alt=&quot;Kepler-22b&quot; /&gt;&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Kepler-22b has lots of promise for life</summary></entry><entry><title type="html">Not All Exoplanets Orbit Stars</title><link href="http://localhost:4000/discoveries/not-all-stars-have-exoplanets/" rel="alternate" type="text/html" title="Not All Exoplanets Orbit Stars" /><published>2023-07-22T00:00:00-04:00</published><updated>2023-07-22T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/not-all-stars-have-exoplanets</id><content type="html" xml:base="http://localhost:4000/discoveries/not-all-stars-have-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for July 22nd, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;One of the most exciting recent discoveries in astronomy has been the existence of planets around other stars.  Called exoplanets, they vary wildly in their characteristics, appearance and behavior.&lt;/p&gt;
+
+&lt;p&gt;Most of the over 5000 exoplanets discovered so far are in orbit around other stars, some whiz around their home sun in a matter of only days while others have orbits that last decades or hundred of years.&lt;/p&gt;
+
+&lt;p&gt;But there is another interesting class of exoplanets that do not have a home sun.  These rogue worlds travel the distance between the stars, they live in the cold, dark interstellar regions of the galaxy.&lt;/p&gt;
+
+&lt;p&gt;Free floating planets like this are very difficult to spot.  Since we have found most exoplanets by looking at them indirectly, like watching the star’s brightness dip as it passes in front or makes the star wobble as it pulls it in its orbit, there is not much to go on to find the roaming exoplanets around no star at all - we do not have the technology to image them directly.&lt;/p&gt;
+
+&lt;p&gt;Still, amazingly, astronomers have found some, over 70 exoplanets that do not have a host star have been found roaming the galaxy.  Using over 20 years worth of data from dozens of telescopes, astronomers have uncovered some of the dimmest objects in our Milky Way, and some of them are planets.&lt;/p&gt;
+
+&lt;p&gt;Most interesting of all, if any of these free floating planets happen to have a moon around it, and the exoplanet itself is large enough, like Jupiter say, astronomers surmise that the heat generated by the gravity of these systems might actually be enough to harbor life on the revolving moon. If we could find life on a world like that, it would be a strong argument that life in the universe is everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Astronomers have detected many rogue planets</summary></entry><entry><title type="html">What is an Exoplanet?</title><link href="http://localhost:4000/science/what-is-an-exoplanet/" rel="alternate" type="text/html" title="What is an Exoplanet?" /><published>2023-07-21T00:00:00-04:00</published><updated>2023-07-21T00:00:00-04:00</updated><id>http://localhost:4000/science/what-is-an-exoplanet</id><content type="html" xml:base="http://localhost:4000/science/what-is-an-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for July 21st, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;

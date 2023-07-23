@@ -24,6 +24,44 @@
 		
 
         <item>
+            <title>Kepler-22b: A Planet with a lot of Promise</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Kepler-22b: A Planet with a lot of Promise</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3" length="6300000" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kepler-22b/</guid>
+	    <link>http://localhost:4000/exoplanets/kepler-22b/</link>
+            <pubDate>Sun, 23 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>4</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:55</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Kepler-22b was the first exoplanet confirmed by the Kepler Space Telescope.  It may also harbor life Show Notes Available at http://localhost:4000/exoplanets/kepler-22b/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Not All Exoplanets Orbit Stars</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Not All Exoplanets Orbit Stars</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3" length="3394871" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</guid>
+	    <link>http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</link>
+            <pubDate>Sat, 22 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>3</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>02:37</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Amazingly, astronomers have found planets in space that do not have a host star. Show Notes Available at http://localhost:4000/discoveries/not-all-stars-have-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets, rogue</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>What is an Exoplanet?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: What is an Exoplanet?</itunes:subtitle>

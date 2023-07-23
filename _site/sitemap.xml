@@ -9,6 +9,14 @@
 <lastmod>2023-07-21T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</loc>
+<lastmod>2023-07-22T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/exoplanets/kepler-22b/</loc>
+<lastmod>2023-07-23T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2023-04-09-welcome-to-jekyll/</loc>
 </url>
 <url>
@@ -41,6 +49,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/categories/science/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/discoveries/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/2023/</loc>

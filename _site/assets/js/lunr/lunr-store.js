@@ -10,4 +10,16 @@ var store = [{
         "tags": [],
         "url": "/science/what-is-an-exoplanet/",
         "teaser": null
+      },{
+        "title": "Not All Exoplanets Orbit Stars",
+        "excerpt":"Episode for July 22nd, 2023 Download One of the most exciting recent discoveries in astronomy has been the existence of planets around other stars. Called exoplanets, they vary wildly in their characteristics, appearance and behavior. Most of the over 5000 exoplanets discovered so far are in orbit around other stars,...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/not-all-stars-have-exoplanets/",
+        "teaser": null
+      },{
+        "title": "Kepler-22b: A Planet with a lot of Promise",
+        "excerpt":"Episode for July 23rd, 2023 Download Today, we are going to explore a remarkable world that lies beyond our solar system: Kepler-22b. This planet is one of the first confirmed exoplanets in the habitable zone of its star, where liquid water could exist on its surface. But what is this...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/kepler-22b/",
+        "teaser": null
       }]
