@@ -24,6 +24,44 @@
 		
 
         <item>
+            <title>JWST Measures Temperature of TRAPPIST-1b</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: JWST Measures Temperature of TRAPPIST-1b</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3" length="4329121" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</guid>
+	    <link>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</link>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>6</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b Show Notes Available at http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Exoplanets are Everywhere</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Exoplanets are Everywhere</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3" length="5087281" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/exoplanets-are-everywhere/</guid>
+	    <link>http://localhost:4000/science/exoplanets-are-everywhere/</link>
+            <pubDate>Mon, 24 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>5</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>02:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> We have only known there are planets around other stars for about 25 years.  Now we know they are everywhere. Show Notes Available at http://localhost:4000/science/exoplanets-are-everywhere/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Kepler-22b: A Planet with a lot of Promise</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Kepler-22b: A Planet with a lot of Promise</itunes:subtitle>

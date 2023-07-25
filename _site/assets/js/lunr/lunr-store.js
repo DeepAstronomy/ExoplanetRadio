@@ -22,4 +22,16 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/kepler-22b/",
         "teaser": null
+      },{
+        "title": "Exoplanets are Everywhere",
+        "excerpt":"Episode for July 24th, 2023 Download Did you know that the discovery of other planets in orbit around other stars is a very recent one?  Only 25 years ago, we had no idea there were any planets in our galaxy besides those in our solar system.  Now, not only have...","categories": ["science"],
+        "tags": [],
+        "url": "/science/exoplanets-are-everywhere/",
+        "teaser": null
+      },{
+        "title": "JWST Measures Temperature of TRAPPIST-1b",
+        "excerpt":"Episode for July 25th, 2023 Download Imagine a star system where seven worlds orbit a faint red sun. A star system where four of these worlds could be home to oceans, skies, and perhaps even life. A star system that is closer to us than any other with so many...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/jwst-measures-trappist-1b-temp/",
+        "teaser": null
       }]
