@@ -11,7 +11,7 @@ episode: "7"
 season: "1"
 keywords: "astronomy, exoplanets"
 categories: science
-description: Astronomers estimate there are more planets in our galaxy than there are stars.  Just how many is that?
+description: Astronomers estimate there are more planets in our galaxy than there are stars.  Just how many is that?  Are we likely to travel to them?
 header:
   overlay_image: /assets/images/JWST_TRAPPIST-1b.jpeg
   actions:
