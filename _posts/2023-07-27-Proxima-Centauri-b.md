@@ -13,9 +13,10 @@ keywords: "astronomy, exoplanets"
 categories: exoplanets
 description: Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life.
 header:
-  video:
-    id: 841359263
-    provider: vimeo
+  overlay_image: /assets/images/exoplanets/Proxima_b_nasa.png
+  actions:
+    - label: "All Episodes"
+      url: /episodes/
 excerpt: Proxima Centauri-b is an exoplanet right next door.
 author_profile: true
 sidebar: 
@@ -24,6 +25,8 @@ classes: wide
 ---
 
 {% include audio_player.html %} 
+
+{% include video id="841359263" provider="vimeo" %}
 
 Did you know that the closest star to us has a planet around it that may be habitable? In 2016 astronomers discovered a planet around the red-dwarf star Proxima Centauri, which lies a short hop away astronomically speaking at 4 light years from Earth.  This planet, called Proxima Centauri b, is the closest planet to us from outside the solar system.
 

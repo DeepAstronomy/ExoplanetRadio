@@ -24,6 +24,44 @@
 		
 
         <item>
+            <title>Proxima Centauri-b: The Closest Exoplanet to Earth</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/proxima-b/Proxima_b_final.mp3" length="6300000" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/Proxima-Centauri-b/</guid>
+	    <link>http://localhost:4000/exoplanets/Proxima-Centauri-b/</link>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>8</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>02:37</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life. Show Notes Available at http://localhost:4000/exoplanets/Proxima-Centauri-b/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>How Many Exoplanets Are There?</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How Many Exoplanets Are There?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3" length="5270538" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/how-many-exoplanets/</guid>
+	    <link>http://localhost:4000/science/how-many-exoplanets/</link>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>7</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:58</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Astronomers estimate there are more planets in our galaxy than there are stars.  Just how many is that?  Are we likely to travel to them? Show Notes Available at http://localhost:4000/science/how-many-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>JWST Measures Temperature of TRAPPIST-1b</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: JWST Measures Temperature of TRAPPIST-1b</itunes:subtitle>

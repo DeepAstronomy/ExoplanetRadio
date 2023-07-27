@@ -34,4 +34,16 @@ var store = [{
         "tags": [],
         "url": "/discoveries/jwst-measures-trappist-1b-temp/",
         "teaser": null
+      },{
+        "title": "How Many Exoplanets Are There?",
+        "excerpt":"Episode for July 26th, 2023 Download We live on a pale blue dot, a tiny oasis of life in a vast and silent cosmos. But are we alone? Are there other worlds like ours, orbiting other stars, in other parts of our galaxy? The answer is yes. There are billions...","categories": ["science"],
+        "tags": [],
+        "url": "/science/how-many-exoplanets/",
+        "teaser": null
+      },{
+        "title": "Proxima Centauri-b: The Closest Exoplanet to Earth",
+        "excerpt":"Episode for July 27th, 2023 Download Did you know that the closest star to us has a planet around it that may be habitable? In 2016 astronomers discovered a planet around the red-dwarf star Proxima Centauri, which lies a short hop away astronomically speaking at 4 light years from Earth....","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/Proxima-Centauri-b/",
+        "teaser": null
       }]
