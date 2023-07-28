@@ -46,4 +46,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/Proxima-Centauri-b/",
         "teaser": null
+      },{
+        "title": "An Exoplanet That Shouldn't Exist",
+        "excerpt":"Episode for July 28th, 2023 Download Astronomers have found a planet around a red giant star that should have been destroyed, yet it still exists, leaving astronomers to wonder why the planet is still there. So what’s the puzzle? Well, stars change as they age. Once a star has used...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/an-exoplanet-that-shouldnt-exist/",
+        "teaser": null
       }]

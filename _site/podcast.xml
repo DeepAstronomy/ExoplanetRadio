@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>An Exoplanet That Shouldn&apos;t Exist</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: An Exoplanet That Shouldn&apos;t Exist</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/the-exoplanet-that-shouldnt-exist-final/TheExoplanetThatShouldntExist_final.mp3" length="4448491" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</guid>
+	    <link>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</link>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>9</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:19</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Astronomers have found a planet around a red giant star that should have been destroyed, yet it still exists, leaving astronomers to wonder why the planet is still there. Show Notes Available at http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Proxima Centauri-b: The Closest Exoplanet to Earth</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
