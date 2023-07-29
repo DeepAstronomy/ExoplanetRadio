@@ -52,4 +52,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/an-exoplanet-that-shouldnt-exist/",
         "teaser": null
+      },{
+        "title": "TRAPPIST-1: A System Full of Hope",
+        "excerpt":"Episode for July 29th, 2023 Download Aside from our own solar system, one of the most studied stellar systems lies about 40 light-years away in the direction of the constellation Aquarius. Using ground and space based telescopes like Spitzer, Kepler, Hubble, and, now, the James Webb Space Telescope, astronomers are...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/trappist1-a-system-full-of-hope/",
+        "teaser": null
       }]

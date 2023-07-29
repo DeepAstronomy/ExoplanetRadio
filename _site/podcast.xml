@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>TRAPPIST-1: A System Full of Hope</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: TRAPPIST-1: A System Full of Hope</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/asystem-full-of-hope-final/ASystemFullOfHope_final.mp3" length="5307045" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</guid>
+	    <link>http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</link>
+            <pubDate>Sat, 29 Jul 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>12</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Aside from our own solar system, one of the most studied stellar systems lies about 40 light-years away in the direction of the constellation Aquarius. Using ground and space based telescopes like Spitzer, Kepler, Hubble, and, now, the James Webb Space Telescope, astronomers are looking hard at the seven rocky exoplanets orbiting the TRAPPIST-1 star. Show Notes Available at http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>An Exoplanet That Shouldn&apos;t Exist</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: An Exoplanet That Shouldn&apos;t Exist</itunes:subtitle>
