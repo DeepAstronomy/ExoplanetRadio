@@ -1,6 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-07-29T15:43:23-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">TRAPPIST-1: A System Full of Hope</title><link href="http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/" rel="alternate" type="text/html" title="TRAPPIST-1: A System Full of Hope" /><published>2023-07-29T00:00:00-04:00</published><updated>2023-07-29T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope</id><content type="html" xml:base="http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-04T10:21:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Finding Exoplanets</title><link href="http://localhost:4000/science/finding-exoplanets/" rel="alternate" type="text/html" title="Finding Exoplanets" /><published>2023-08-04T00:00:00-04:00</published><updated>2023-08-04T00:00:00-04:00</updated><id>http://localhost:4000/science/finding-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/finding-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
 
- Episode for July 29th, 2023
+ Episode for August 4th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We are a species of wonder. We have always looked up at the stars and wondered if we are alone in the universe. Are there other worlds out there, with other beings who look up at the stars and wonder about us?&lt;/p&gt;
+
+&lt;p&gt;The search for exoplanets is our best chance of finding out. Exoplanets are planets that orbit stars other than the Sun. They are incredibly faint compared to their parent stars, but scientists have come up with some clever methods to find them.&lt;/p&gt;
+
+&lt;p&gt;One way is to measure the radial velocity of a star. This is the speed at which the star is moving towards or away from us. If a planet is orbiting the star, the gravitational pull of the planet will cause the star to wobble a little bit as it goes around. This wobble can be detected by looking at the movement of the spectrum of the star, measuring the star’s radial velocity.&lt;/p&gt;
+
+&lt;p&gt;Another way to find exoplanets is to look for transits. This is when a planet passes in front of its star, blocking out a little bit of the star’s light.  As the planet passes in front a tiny dip in brightness of the star is measured by very sensitive telescopes.  The amount of light blocked by the star gives us important information, such as the size of the planet, it’s distance from the star as well as the length of time to complete one orbit around the star.&lt;/p&gt;
+
+&lt;p&gt;Recently, it has become possible to use direct imaging to find exoplanets. This requires some of the best telescopes ever built and very sophisticated processing techniques, but optics, detectors and computer software have become so good that we can actually see the planets themselves. This is the most difficult method of finding exoplanets, but it’s the only way to see what they actually look like.&lt;/p&gt;
+
+&lt;p&gt;Microlensing is also used by astronomers to look for the temporary brightening of a star caused by the gravitational lensing of a passing planet.  As a relatively dark planet passes in front of a star, its gravitational field causes the star to brighten as the light passes by. This brightening is very small, but it can be detected with sensitive telescopes.&lt;/p&gt;
+
+&lt;p&gt;There are a few other methods that scientists use to find exoplanets, but these are the most common. As technology improves, we’re likely to discover more and more exoplanets using a variety of methods.&lt;/p&gt;
+
+&lt;p&gt;So far, scientists have discovered over 5,000 exoplanets. And they’re finding more all the time. We’re learning that there are all sorts of exoplanets out there, from gas giants to rocky worlds that could potentially support life.&lt;/p&gt;
+
+&lt;p&gt;The search for exoplanets is one of the most exciting and inspiring quests in human history. And who knows what we might discover in the years to come? We might find Earth-like planets that could potentially support life. We might even find evidence of extraterrestrial intelligence.&lt;/p&gt;
+
+&lt;p&gt;The search for exoplanets is a search for our place in the universe. It’s a search for our destiny.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">How do astronomers find exoplanets? This episode explores the various ways planets around other stars reveal themselves.</summary></entry><entry><title type="html">WASP-39b: A Hot, Jupiter-sized World</title><link href="http://localhost:4000/exoplanets/wasp39b-hot-jupiter/" rel="alternate" type="text/html" title="WASP-39b: A Hot, Jupiter-sized World" /><published>2023-08-03T00:00:00-04:00</published><updated>2023-08-03T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/wasp39b-hot-jupiter</id><content type="html" xml:base="http://localhost:4000/exoplanets/wasp39b-hot-jupiter/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 3rd, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/wasp-39b-final/WASP-39b_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/wasp-39b-final/WASP-39b_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Today, we are going to visit WASP-39 b a gas giant planet that orbits a Sun-like star 700 light-years away.&lt;/p&gt;
+
+&lt;p&gt;WASP-39 b is a hot and puffy planet with a mass roughly one-quarter that of Jupiter and a diameter 1.3 times greater than Jupiter. Its extreme puffiness is related in part to its high temperature of about 1,600 degrees Fahrenheit or 900 degrees Celsius. Unlike the cooler, more compact gas giants in our solar system, WASP-39 b orbits very close to its star – only about one-eighth the distance between the Sun and Mercury – completing one circuit in just over four Earth-days.&lt;/p&gt;
+
+&lt;p&gt;Because it is so close to its host star, it is likely to be tidally locked, which means one side of the planet faces the star at all times.&lt;/p&gt;
+
+&lt;p&gt;WASP-39 b was discovered in 2011 based on ground-based detections of the subtle, periodic dimming of light from its host star as the planet transits, or passes in front of the star. Since then, it has been studied by various telescopes, including NASA’s Hubble and Spitzer space telescopes, which revealed the presence of water vapor, sodium, and potassium in the planet’s atmosphere.&lt;/p&gt;
+
+&lt;p&gt;But the most exciting discovery came in July 2022, when WASP-39 b became the first exoplanet to be studied by NASA’s James Webb Space Telescope. The Webb Space Telescope captured the first clear evidence for carbon dioxide in the atmosphere of a planet outside the solar system. This observation provides important insights into the composition and formation of the planet. In November 2022, five science papers reported on WASP-39 b discoveries made using JWST. Those included the first observation of sulfur dioxide and photochemistry (chemical changes influenced by starlight) in an exoplanet atmosphere.&lt;/p&gt;
+
+&lt;p&gt;WASP-39 b is a fascinating example of how diverse and complex exoplanets can be. By studying its atmosphere with Webb, we can learn more about how this planet formed and evolved, and how it compares to other gas giants in our galaxy. WASP-39 b is also a promising target for future observations with Webb, which may be able to detect and measure carbon dioxide in the thinner atmospheres of smaller rocky planets.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">WASP-39 b is a fascinating example of how diverse and complex exoplanets can be.</summary></entry><entry><title type="html">TRAPPIST-1: A System Full of Hope</title><link href="http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/" rel="alternate" type="text/html" title="TRAPPIST-1: A System Full of Hope" /><published>2023-08-02T00:00:00-04:00</published><updated>2023-08-02T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope</id><content type="html" xml:base="http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 2nd, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
         &lt;source src=&quot;https://archive.org/download/asystem-full-of-hope-final/ASystemFullOfHope_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
  &lt;/audio&gt;
@@ -29,7 +91,71 @@
 
 &lt;p&gt;Astronomers say we now know more about the TRAPPIST-1 system of planets than any other planetary system apart from our own.  The excitement and hope that we may find life here is growing with every new observation.&lt;/p&gt;
 
-&lt;p&gt;While data from Hubble and Webb Space Telescopes have yet to confirm the existence of any atmospheres on any of these worlds, we have only just begun looking and hope abides with each new glance at this incredible system.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">While data from Hubble and Webb Space Telescopes have yet to confirm the existence of any atmospheres on any of these worlds, we have only just begun looking and hope abides with each new glance at this incredible system</summary></entry><entry><title type="html">An Exoplanet That Shouldn’t Exist</title><link href="http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/" rel="alternate" type="text/html" title="An Exoplanet That Shouldn’t Exist" /><published>2023-07-28T00:00:00-04:00</published><updated>2023-07-28T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist</id><content type="html" xml:base="http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/">&lt;div class=&quot;plyr&quot;&gt;
+&lt;p&gt;While data from Hubble and Webb Space Telescopes have yet to confirm the existence of any atmospheres on any of these worlds, we have only just begun looking and hope abides with each new glance at this incredible system.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">While data from Hubble and Webb Space Telescopes have yet to confirm the existence of any atmospheres on any of these worlds, we have only just begun looking and hope abides with each new glance at this incredible system</summary></entry><entry><title type="html">Exoplanet Detected in Another Galaxy?</title><link href="http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/" rel="alternate" type="text/html" title="Exoplanet Detected in Another Galaxy?" /><published>2023-08-01T00:00:00-04:00</published><updated>2023-08-01T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/exoplanet-detected-another-galaxy</id><content type="html" xml:base="http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 1st, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/exoplanet-another-galaxy-final/ExoplanetAnotherGalaxy_final.wav&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/exoplanet-another-galaxy-final/ExoplanetAnotherGalaxy_final.wav&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Astronomers have found evidence of a possible planet outside of our Milky Way galaxy. If confirmed, this is the first time that a planet has been detected in another galaxy. It is located in the spiral galaxy Messier 51, also called the Whirlpool Galaxy.&lt;/p&gt;
+
+&lt;p&gt;Exoplanets are defined as planets outside of our Solar System. Until now, astronomers have found all other known exoplanets and exoplanet candidates in the Milky Way galaxy, almost all of them less than about 3,000 light-years from Earth. An exoplanet in M51 would be about 28 million light-years away, meaning it would be thousands of times farther away than those in the Milky Way.&lt;/p&gt;
+
+&lt;p&gt;These observations were made using NASA’s Chandra X-Ray Space Telescope.&lt;/p&gt;
+
+&lt;p&gt;Astronomers estimate the planet is about the size of Saturn and orbits a neutron star or black hole at about twice the distance of Saturn from the Sun. The planet was discovered when dips in the brightness of X-rays were observed from the binary system M51-ULS-1.&lt;/p&gt;
+
+&lt;p&gt;This is fascinating because it’s the first time X-rays have been used to detect exoplanet transits and offers exciting possibilities for detecting these worlds that are outside of our galaxy.&lt;/p&gt;
+
+&lt;p&gt;The researchers are not totally sure if the dimming seen here was caused by a planet, it could have been a passing cloud of gas and dust. However, they believe that the dimming is more likely caused by a planet because the characteristics of the event are not consistent with the passage of a cloud of gas and dust.&lt;/p&gt;
+
+&lt;p&gt;Because the region producing bright X-rays is so small, a planet passing in front of it could block most or all of the X-rays, making x-ray transits easier to spot because the X-rays can completely disappear, they would simply “blink out” as the planet passes by. This allows exoplanets to be detected at much greater distances than current optical light transits, which must be able to detect tiny decreases in light because the nearby planets only block a tiny fraction of the star.&lt;/p&gt;
+
+&lt;p&gt;If the dimming was caused by a planet, it would be the first planet ever discovered outside of the Milky Way galaxy. However, more data is needed to confirm the discovery. Because of the calculated orbit of the object, we will need to wait about 70 years for it to cross in front of its binary partner again.&lt;/p&gt;
+
+&lt;p&gt;This possible planet is exciting because it opens up a new way to search for exoplanets. In the past, astronomers have only been able to find exoplanets in our own galaxy. However, by looking for X-ray transits in other galaxies, astronomers can now search for exoplanets much farther away.&lt;/p&gt;
+
+&lt;p&gt;The researchers are hopeful that they will be able to find more exoplanet candidates in other galaxies. They are also planning to search for X-ray transits in Milky Way X-ray sources to discover new nearby planets in unusual environments.&lt;/p&gt;
+
+&lt;p&gt;This discovery is a major step forward in the search for exoplanets. It shows that there are likely many planets out there in other galaxies, and it opens up a new way to find them&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Astronomers have found evidence of a possible planet outside of our Milky Way galaxy</summary></entry><entry><title type="html">The First Exoplanet of JWST</title><link href="http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/" rel="alternate" type="text/html" title="The First Exoplanet of JWST" /><published>2023-07-31T00:00:00-04:00</published><updated>2023-07-31T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/the-first-exoplanet-of-jwst</id><content type="html" xml:base="http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for July 31st, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/the-first-exoplanet-of-jwst-final/TheFirstExoplanetOfJWST_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/the-first-exoplanet-of-jwst-final/TheFirstExoplanetOfJWST_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We have long wondered if we are alone in the cosmos. If there are other worlds like ours, where life might flourish. Now, a new eye in the sky has given us a glimpse of one such world. The James Webb Space Telescope has detected its first exoplanet. Its name is LHS 475b, and astronomers believe it is remarkably similar to our own home planet. It is roughly the same size as Earth, only slightly smaller by a mere 1%.&lt;/p&gt;
+
+&lt;p&gt;How did JWST find this distant world?  As LHS 475b orbits its star, it sometimes passes in front of it, blocking some of its light. By analyzing the spectrum of that light, and measuring the decrease in brightness of the star as the planet moves in front, we can see the size and infer the density of the planet, and even infer something about its atmosphere if it has one - astronomers aren’t sure yet about that. This is the first exoplanet confirmed by this massive space telescope.&lt;/p&gt;
+
+&lt;p&gt;But what kind of world is LHS 475b? Is it a place where life could exist? We do not know for sure yet, but we can make some educated guesses. All we know right now are its size, distance from its star, its density and some details of its spectrum, but we can glean a few things from this small amount of information.&lt;/p&gt;
+
+&lt;p&gt;Because of its size, we know that it is a rocky world, not a gas giant. We know that it is very close to its star, much closer than Mercury is to our Sun. This means that it is very hot, perhaps too hot for liquid water to exist on its surface. If it has an atmosphere, the spectrum tells us it is unlikely to be rich in methane, like Titan’s. It may be more like Venus, with a thick blanket of carbon dioxide and clouds.&lt;/p&gt;
+
+&lt;p&gt;LHS 475b orbits a red dwarf star, one of the most common types of stars in the galaxy. It is located 41 light years away from us, in the southern constellation of Octans. It is a faint star and much cooler than our Sun. But even so, it provides enough energy for its planet to shine in the infrared spectrum. And that is how the Webb Space Telescope saw it.&lt;/p&gt;
+
+&lt;p&gt;This is just the beginning of our exploration of LHS 475b. We hope to learn more about its atmosphere, its climate, and its potential for life. We hope to find out if it is truly an Earth-like world, or if it is something else entirely. We hope to answer one of the oldest questions of humanity: are we alone? Or are there others out there, waiting for us to discover them?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">This is the First Exoplanet Confirmed by JWST</summary></entry><entry><title type="html">An Exoplanet That Shouldn’t Exist</title><link href="http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/" rel="alternate" type="text/html" title="An Exoplanet That Shouldn’t Exist" /><published>2023-07-28T00:00:00-04:00</published><updated>2023-07-28T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist</id><content type="html" xml:base="http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for July 28th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -178,126 +304,4 @@
 
 &lt;p&gt;Of all these types of exoplanets, the most common found so far are the Super-Earths.  These are rocky planets that are between two and up to ten times the mass of our planet.  We find most exoplanets by measuring dips in brightness from the star when the planet blocks light as it passes between the star and the telescope.  Because of this technique, we may be preferentially seeing more of this type of planet than others.  We need to keep looking.&lt;/p&gt;
 
-&lt;p&gt;One thing is certain however: ever since we’ve been looking for these distant planets around other stars, we’ve discovered that they are everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">More planets than stars</summary></entry><entry><title type="html">Kepler-22b: A Planet with a lot of Promise</title><link href="http://localhost:4000/exoplanets/kepler-22b/" rel="alternate" type="text/html" title="Kepler-22b: A Planet with a lot of Promise" /><published>2023-07-23T00:00:00-04:00</published><updated>2023-07-23T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kepler-22b</id><content type="html" xml:base="http://localhost:4000/exoplanets/kepler-22b/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 23rd, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://player.vimeo.com/video/841359014?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;Today, we are going to explore a remarkable world that lies beyond our solar system: Kepler-22b. This planet is one of the first confirmed exoplanets in the habitable zone of its star, where liquid water could exist on its surface. But what is this world like? How far is it from us, and from its sun? And could it harbor life?&lt;/p&gt;
-
-&lt;p&gt;Kepler-22b orbits a star that is very similar to our own sun, but slightly smaller and cooler. The star is called Kepler-22, and it is located about 640 light-years away from Earth in the constellation of Cygnus, the swan. That means that the light we see from this star today left it when Europe was in the last throes of the Middle Ages. To travel there with our current technology would take millions of years.&lt;/p&gt;
-
-&lt;p&gt;The planet itself is about twice the size of Earth, but its mass and composition are unknown. It could be a rocky world like ours, or a water world covered in a global ocean, or even a gas giant with no solid surface at all. The only way to find out for sure is to observe it more closely with future telescopes.&lt;/p&gt;
-
-&lt;p&gt;Kepler-22b takes about 290 days to complete one orbit around its star, which is about the same as our year. Its distance from its star is a little less than the Earth is from the Sun. And it receives about the same amount of sunlight that Earth does, making this a promising place for life as we know it.&lt;/p&gt;
-
-&lt;p&gt;But there is a catch: Kepler-22b may not have a stable climate like Earth does.  Astronomers have noticed that this planet moves in a highly inclined orbit, roughly 90 degrees from the orbits of the other planets.  If it runs out to have a highly elliptical orbit as well, then this could create extreme temperature differences between day and night, and possibly strong winds and storms. However, if Kepler-22b has a thick atmosphere or a large moon, then it could have a more moderate rotation and seasons.&lt;/p&gt;
-
-&lt;p&gt;The question of life on Kepler-22b is still open, there is so much we don’t know. If it has liquid water on its surface, it could be a potential harbor for living organisms. But water alone is not enough: life also needs energy, nutrients, and protection from harmful radiation. We do not know if Kepler-22b has any of these characteristics, or if it is compatible with our form of life.&lt;/p&gt;
-
-&lt;p&gt;Kepler-22b is a fascinating example of the diversity and wonder of the cosmos. It challenges us to imagine what other worlds may exist out there, and what forms of life may inhabit them. It also reminds us of how precious and unique our own planet is, and how much we have to learn about it and ourselves.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/exoplanets/Kepler-22bSystemIllustration.jpg&quot; alt=&quot;Kepler-22b&quot; /&gt;&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Kepler-22b has lots of promise for life</summary></entry><entry><title type="html">Not All Exoplanets Orbit Stars</title><link href="http://localhost:4000/discoveries/not-all-stars-have-exoplanets/" rel="alternate" type="text/html" title="Not All Exoplanets Orbit Stars" /><published>2023-07-22T00:00:00-04:00</published><updated>2023-07-22T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/not-all-stars-have-exoplanets</id><content type="html" xml:base="http://localhost:4000/discoveries/not-all-stars-have-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 22nd, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;One of the most exciting recent discoveries in astronomy has been the existence of planets around other stars.  Called exoplanets, they vary wildly in their characteristics, appearance and behavior.&lt;/p&gt;
-
-&lt;p&gt;Most of the over 5000 exoplanets discovered so far are in orbit around other stars, some whiz around their home sun in a matter of only days while others have orbits that last decades or hundred of years.&lt;/p&gt;
-
-&lt;p&gt;But there is another interesting class of exoplanets that do not have a home sun.  These rogue worlds travel the distance between the stars, they live in the cold, dark interstellar regions of the galaxy.&lt;/p&gt;
-
-&lt;p&gt;Free floating planets like this are very difficult to spot.  Since we have found most exoplanets by looking at them indirectly, like watching the star’s brightness dip as it passes in front or makes the star wobble as it pulls it in its orbit, there is not much to go on to find the roaming exoplanets around no star at all - we do not have the technology to image them directly.&lt;/p&gt;
-
-&lt;p&gt;Still, amazingly, astronomers have found some, over 70 exoplanets that do not have a host star have been found roaming the galaxy.  Using over 20 years worth of data from dozens of telescopes, astronomers have uncovered some of the dimmest objects in our Milky Way, and some of them are planets.&lt;/p&gt;
-
-&lt;p&gt;Most interesting of all, if any of these free floating planets happen to have a moon around it, and the exoplanet itself is large enough, like Jupiter say, astronomers surmise that the heat generated by the gravity of these systems might actually be enough to harbor life on the revolving moon. If we could find life on a world like that, it would be a strong argument that life in the universe is everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Astronomers have detected many rogue planets</summary></entry><entry><title type="html">What is an Exoplanet?</title><link href="http://localhost:4000/science/what-is-an-exoplanet/" rel="alternate" type="text/html" title="What is an Exoplanet?" /><published>2023-07-21T00:00:00-04:00</published><updated>2023-07-21T00:00:00-04:00</updated><id>http://localhost:4000/science/what-is-an-exoplanet</id><content type="html" xml:base="http://localhost:4000/science/what-is-an-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 21st, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://player.vimeo.com/video/841358892?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;For most of human history, we had no idea if there were other worlds beyond our own. We gazed at the stars and wondered: are we alone in this vast and awesome cosmos? Or is there life out there, perhaps even intelligent life, with whom we could someday communicate?&lt;/p&gt;
-
-&lt;p&gt;We still do not know the answer to that question, but we have made some progress. We have explored our own solar system, a family of planets and other bodies that orbit our Sun. We have discovered eight major planets, some with moons of their own, and many smaller objects like asteroids and comets. We are even searching for a possible ninth planet, far beyond the orbit of Neptune. But these are all our neighbors, our kin. We share a common origin and a common destiny with them.&lt;/p&gt;
-
-&lt;p&gt;Exoplanets are different. They are worlds that orbit other stars, far away from our Sun. They are strangers, unknown and mysterious. And they are very numerous. In the past few decades, we have detected over five thousand of them, using various methods and instruments. And we suspect there are many more, perhaps billions or even trillions in our galaxy alone.&lt;/p&gt;
-
-&lt;p&gt;Exoplanets come in all shapes and sizes. Some are huge and hot, like Jupiter but much more so. They circle their stars so closely that they are scorched by their heat and radiation. Some are smaller and colder, like Neptune or Uranus. They may have thick atmospheres of gas and ice. And some are rocky and terrestrial, like Earth or Mars. They may have solid surfaces and perhaps even oceans and continents.&lt;/p&gt;
-
-&lt;p&gt;The most intriguing exoplanets are those that resemble Earth in some way. They are not too big or too small, not too hot or too cold. They orbit their stars in a zone where liquid water could exist on their surface. Water is essential for life as we know it. And so we wonder: could these exoplanets harbor life? Could they be oases of green and blue in the desert of space? Could they be home to creatures that think and feel and dream?&lt;/p&gt;
-
-&lt;p&gt;We do not know yet. But we are trying to find out. We are building new telescopes and instruments that will allow us to study these exoplanets in more detail. We will look for signs of water, oxygen, methane and other molecules that could indicate the presence of life. We will listen for signals that could be sent by intelligent beings. We will try to make contact with our cosmic cousins, if they exist.&lt;/p&gt;
-
-&lt;p&gt;We are on the verge of a new era of discovery and exploration. We are about to learn more about our place in the universe and our connection to other worlds. We are about to answer one of the oldest and most profound questions of our species: are we the only ones?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">There are many types of planets around other stars</summary></entry><entry><title type="html">Welcome to Exoplanet Radio</title><link href="http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/" rel="alternate" type="text/html" title="Welcome to Exoplanet Radio" /><published>2023-07-13T00:00:00-04:00</published><updated>2023-07-13T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/welcome-to-exoplanet-radio</id><content type="html" xml:base="http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 13th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Hello and welcome to Exoplanet Radio, the podcast that takes you on a journey to the most fascinating worlds beyond our solar system. Every day, we bring you the latest news, discoveries, and stories about exoplanets, the planets that orbit other stars.&lt;/p&gt;
-
-&lt;p&gt;There are thousands of these planets known to us, and many more waiting to be found. They come in all shapes and sizes, from giant gas balls to rocky Earth-like worlds. Some of them are scorching hot, some are freezing cold, and some are just right for liquid water and maybe even life. We explore their diversity, their mysteries, and their potential for life.&lt;/p&gt;
-
-&lt;p&gt;We also look at the science behind searching for these distant worlds, using powerful telescopes and clever techniques. We will explore how we find these planets, how we study their atmospheres, climates, and geology, and we try to answer the big questions: How did these planets form? How do they evolve? And are we alone in the universe?&lt;/p&gt;
-
-&lt;p&gt;Whether you are an astronomy enthusiast, a science fiction fan, or just curious about the universe, this podcast is for you. No prior knowledge needed! All episodes are presented in an easy to understand way.  Join us as we discover new horizons, new possibilities, and new wonders in the sky. This is Exoplanet Radio, your daily dose of cosmic inspiration.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Delve into the mysteries of exotic planets in our galaxy!</summary></entry></feed>
+&lt;p&gt;One thing is certain however: ever since we’ve been looking for these distant planets around other stars, we’ve discovered that they are everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">More planets than stars</summary></entry></feed>

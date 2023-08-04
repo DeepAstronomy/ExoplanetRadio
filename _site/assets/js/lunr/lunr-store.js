@@ -53,9 +53,33 @@ var store = [{
         "url": "/exoplanets/an-exoplanet-that-shouldnt-exist/",
         "teaser": null
       },{
+        "title": "The First Exoplanet of JWST",
+        "excerpt":"Episode for July 31st, 2023 Download We have long wondered if we are alone in the cosmos. If there are other worlds like ours, where life might flourish. Now, a new eye in the sky has given us a glimpse of one such world. The James Webb Space Telescope has...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/the-first-exoplanet-of-jwst/",
+        "teaser": null
+      },{
+        "title": "Exoplanet Detected in Another Galaxy?",
+        "excerpt":"Episode for August 1st, 2023 Download Astronomers have found evidence of a possible planet outside of our Milky Way galaxy. If confirmed, this is the first time that a planet has been detected in another galaxy. It is located in the spiral galaxy Messier 51, also called the Whirlpool Galaxy....","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/exoplanet-detected-another-galaxy/",
+        "teaser": null
+      },{
         "title": "TRAPPIST-1: A System Full of Hope",
-        "excerpt":"Episode for July 29th, 2023 Download Aside from our own solar system, one of the most studied stellar systems lies about 40 light-years away in the direction of the constellation Aquarius. Using ground and space based telescopes like Spitzer, Kepler, Hubble, and, now, the James Webb Space Telescope, astronomers are...","categories": ["exoplanets"],
+        "excerpt":"Episode for August 2nd, 2023 Download Aside from our own solar system, one of the most studied stellar systems lies about 40 light-years away in the direction of the constellation Aquarius. Using ground and space based telescopes like Spitzer, Kepler, Hubble, and, now, the James Webb Space Telescope, astronomers are...","categories": ["exoplanets"],
         "tags": [],
         "url": "/exoplanets/trappist1-a-system-full-of-hope/",
+        "teaser": null
+      },{
+        "title": "WASP-39b: A Hot, Jupiter-sized World",
+        "excerpt":"Episode for August 3rd, 2023 Download Today, we are going to visit WASP-39 b a gas giant planet that orbits a Sun-like star 700 light-years away. WASP-39 b is a hot and puffy planet with a mass roughly one-quarter that of Jupiter and a diameter 1.3 times greater than Jupiter....","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/wasp39b-hot-jupiter/",
+        "teaser": null
+      },{
+        "title": "Finding Exoplanets",
+        "excerpt":"Episode for August 4th, 2023 Download We are a species of wonder. We have always looked up at the stars and wondered if we are alone in the universe. Are there other worlds out there, with other beings who look up at the stars and wonder about us? The search...","categories": ["science"],
+        "tags": [],
+        "url": "/science/finding-exoplanets/",
         "teaser": null
       }]
