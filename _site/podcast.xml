@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>The First Exoplanets: The Discovery That Forever Changed Us</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: The First Exoplanets: The Discovery That Forever Changed Us</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3" length="5387962" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/the-first-exoplanets/</guid>
+	    <link>http://localhost:4000/discoveries/the-first-exoplanets/</link>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>15</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:46</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Our galaxy likely holds hundreds of billions of planets around other stars but when and how did we begin finding them?  What was the first exoplanet detected?  It turns out that the first discovery wasn’t one, but two planets in the same system. Show Notes Available at http://localhost:4000/discoveries/the-first-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Finding Exoplanets</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Finding Exoplanets</itunes:subtitle>

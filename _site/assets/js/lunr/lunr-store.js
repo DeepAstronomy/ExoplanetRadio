@@ -82,4 +82,10 @@ var store = [{
         "tags": [],
         "url": "/science/finding-exoplanets/",
         "teaser": null
+      },{
+        "title": "The First Exoplanets: The Discovery That Forever Changed Us",
+        "excerpt":"Episode for August 7th, 2023 Download Our galaxy likely holds hundreds of billions of planets around other stars but when and how did we begin finding them? What was the first exoplanet detected? It turns out that the first discovery wasn’t one, but two planets in the same system. The...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/the-first-exoplanets/",
+        "teaser": null
       }]

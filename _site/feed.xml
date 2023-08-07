@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-04T10:21:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Finding Exoplanets</title><link href="http://localhost:4000/science/finding-exoplanets/" rel="alternate" type="text/html" title="Finding Exoplanets" /><published>2023-08-04T00:00:00-04:00</published><updated>2023-08-04T00:00:00-04:00</updated><id>http://localhost:4000/science/finding-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/finding-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-07T10:43:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">The First Exoplanets: The Discovery That Forever Changed Us</title><link href="http://localhost:4000/discoveries/the-first-exoplanets/" rel="alternate" type="text/html" title="The First Exoplanets: The Discovery That Forever Changed Us" /><published>2023-08-07T00:00:00-04:00</published><updated>2023-08-07T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/the-first-exoplanets</id><content type="html" xml:base="http://localhost:4000/discoveries/the-first-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 7th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Our galaxy likely holds hundreds of billions of planets around other stars but when and how did we begin finding them?  What was the first exoplanet detected?  It turns out that the first discovery wasn’t one, but two planets in the same system.&lt;/p&gt;
+
+&lt;p&gt;The steady drumbeat of exoplanet discovery began in 1992 when astronomers Aleksander Wolszczan and Dale Frail found two rocky planets orbiting a type of neutron star known as a pulsar, a rapidly spinning stellar corpse that pulses with millisecond bursts of searing radiation.&lt;/p&gt;
+
+&lt;p&gt;Measuring slight changes in the timing of the pulses is what allowed scientists to reveal the two rocky planets in orbit around the pulsar.The planets were named Poltergeist and Phobetor, and they were about the size of Earth and Neptune, respectively. They orbited the pulsar at distances of about where the asteroid belt and Uranus is in our solar system.&lt;/p&gt;
+
+&lt;p&gt;These first two planets found by humans on Earth are not habitable. They are too close to the pulsar, and are constantly bombarded by radiation. However, their discovery showed that planets can exist around other stars, and it opened up the possibility that there may be habitable planets out there.&lt;/p&gt;
+
+&lt;p&gt;Finding these planets around this spinning star essentially opened the floodgates, and hinted that there must be planets everywhere because if we can find planets around a neutron star, which is a very harsh environment, then the planet production process must be very robust.&lt;/p&gt;
+
+&lt;p&gt;A little bit later astronomers started looking for planets like ours and the first planet detected around a Sun-like star was in 1995, and turned out to be a hot Jupiter: a gas giant about half the mass of our own Jupiter in an extremely close, four-day orbit around its star. A year on this planet, in other words, lasts only four days.&lt;/p&gt;
+
+&lt;p&gt;From these exciting beginnings, over 5,000 exoplanets have since been discovered and some of them are located in the habitable zone of their stars, which is the region around a star where liquid water could exist on the surface of a planet. Some of these planets are even Earth-sized, which makes them even more likely to be habitable.&lt;/p&gt;
+
+&lt;p&gt;The discovery of exoplanets has opened up a new chapter in our understanding of the universe. We now know that planets are not just a unique feature of our own solar system, but are common throughout the galaxy.&lt;/p&gt;
+
+&lt;p&gt;We are on the cusp of a new era of discovery, and the possibilities are endless. We are on a quest that will hopefully answer some of the most fundamental questions about our place in the universe, and that could also change the course of human history.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">The observations of planets around other stars is very recent and it changed our view of humanity&apos;s place in the universe forever.</summary></entry><entry><title type="html">Finding Exoplanets</title><link href="http://localhost:4000/science/finding-exoplanets/" rel="alternate" type="text/html" title="Finding Exoplanets" /><published>2023-08-04T00:00:00-04:00</published><updated>2023-08-04T00:00:00-04:00</updated><id>http://localhost:4000/science/finding-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/finding-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for August 4th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -279,29 +312,4 @@
 
 &lt;p&gt;But this is just the beginning. Webb will soon observe the other planets in TRAPPIST-1, and reveal their secrets. We may find clues to their atmospheres, their climates, and their potential for life. We may find out if we have neighbors in this cosmic oasis, or if we are alone in the vastness of space.&lt;/p&gt;
 
-&lt;p&gt;TRAPPIST-1 is a star system that inspires us to dream, to explore, and to discover. It is a star system that challenges us to ask: are we alone?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">JWST has measured the surface temperature of exoplanet TRAPPIST-1b</summary></entry><entry><title type="html">Exoplanets are Everywhere</title><link href="http://localhost:4000/science/exoplanets-are-everywhere/" rel="alternate" type="text/html" title="Exoplanets are Everywhere" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/science/exoplanets-are-everywhere</id><content type="html" xml:base="http://localhost:4000/science/exoplanets-are-everywhere/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 24th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Did you know that the discovery of other planets in orbit around other stars is a very recent one?  Only 25 years ago, we had no idea there were any planets in our galaxy besides those in our solar system.  Now, not only have we discovered them, but astronomers estimate there are trillions of them.  There are so many exoplanets out there that every star in our galaxy could have at least one.&lt;/p&gt;
-
-&lt;p&gt;Of course, not every star has a planet in orbit around it.  Some stars have no planets, others can have 3, 4, 9, 10 or more.&lt;/p&gt;
-
-&lt;p&gt;So far, astronomers have confirmed over 5,000 exoplanets and there are many different kinds:  there are hot Jupiters - large, massive planets that dwarf even our own Jupiter, Neptune-like planets that are similar to Uranus or Neptune, Super-Earths - large, rocky planets more massive than the Earth with gravity that would squash the strongest human, and Terrestrial planets, small, rocky worlds about the size of Earth or smaller.&lt;/p&gt;
-
-&lt;p&gt;Of all these types of exoplanets, the most common found so far are the Super-Earths.  These are rocky planets that are between two and up to ten times the mass of our planet.  We find most exoplanets by measuring dips in brightness from the star when the planet blocks light as it passes between the star and the telescope.  Because of this technique, we may be preferentially seeing more of this type of planet than others.  We need to keep looking.&lt;/p&gt;
-
-&lt;p&gt;One thing is certain however: ever since we’ve been looking for these distant planets around other stars, we’ve discovered that they are everywhere.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">More planets than stars</summary></entry></feed>
+&lt;p&gt;TRAPPIST-1 is a star system that inspires us to dream, to explore, and to discover. It is a star system that challenges us to ask: are we alone?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">JWST has measured the surface temperature of exoplanet TRAPPIST-1b</summary></entry></feed>
