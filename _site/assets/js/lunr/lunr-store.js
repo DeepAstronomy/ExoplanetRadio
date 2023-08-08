@@ -88,4 +88,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/the-first-exoplanets/",
         "teaser": null
+      },{
+        "title": "A Giant Planet Found Orbiting a Small Star",
+        "excerpt":"Episode for August 8th, 2023 Download A massive, Jupiter-sized exoplanet has been discovered orbiting a small, low-mass star and this discovery is challenging theories on how planets form around their stars. The planet, called TOI-4860 b, is about the same size as Jupiter and orbits its star once every 1.5...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/giant-planet-around-small-star/",
+        "teaser": null
       }]

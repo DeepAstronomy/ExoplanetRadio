@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>A Giant Planet Found Orbiting a Small Star</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: A Giant Planet Found Orbiting a Small Star</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/015-giant-planet-small-star-final/015_GiantPlanetSmallStar_final.mp3" length="4655561" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/giant-planet-around-small-star/</guid>
+	    <link>http://localhost:4000/discoveries/giant-planet-around-small-star/</link>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>16</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>03:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> A massive, Jupiter-sized exoplanet has been discovered orbiting a small, low-mass star and this discovery is challenging theories on how planets form around their stars. The planet, called TOI-4860 b, is about the same size as Jupiter and orbits its star once every 1.5 Earth days, classifying it as a warm Jupiter. This is unusual because planets this large are not supposed to form around low-mass stars. Show Notes Available at http://localhost:4000/discoveries/giant-planet-around-small-star/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The First Exoplanets: The Discovery That Forever Changed Us</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: The First Exoplanets: The Discovery That Forever Changed Us</itunes:subtitle>

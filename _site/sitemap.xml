@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://localhost:4000/discoveries/giant-planet-around-small-star/</loc>
+      
+        <lastmod>2023-08-08T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/discoveries/the-first-exoplanets/</loc>
       
         <lastmod>2023-08-07T00:00:00-04:00</lastmod>
@@ -246,7 +261,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -291,7 +306,7 @@
     <url>
       <loc>http://localhost:4000/episodes/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -306,7 +321,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -353,7 +368,7 @@
     <url>
       <loc>http://localhost:4000/portfolio/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -370,7 +385,7 @@
     <url>
       <loc>http://localhost:4000/assets/css/main.css</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -385,7 +400,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-en.js</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -400,7 +415,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-gr.js</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -415,7 +430,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-store.js</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -430,7 +445,7 @@
     <url>
       <loc>http://localhost:4000/categories/exoplanets/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -445,7 +460,7 @@
     <url>
       <loc>http://localhost:4000/categories/science/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -460,7 +475,7 @@
     <url>
       <loc>http://localhost:4000/categories/discoveries/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -520,7 +535,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -535,7 +550,7 @@
     <url>
       <loc>http://localhost:4000/page2/</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -550,7 +565,7 @@
     <url>
       <loc>http://localhost:4000/robots.txt</loc>
       
-        <lastmod>2023-08-07T10:43:21-04:00</lastmod>
+        <lastmod>2023-08-08T09:34:56-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
