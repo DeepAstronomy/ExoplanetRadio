@@ -94,4 +94,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/giant-planet-around-small-star/",
         "teaser": null
+      },{
+        "title": "How Long Would it Take to Travel to Proxima Centauri b?",
+        "excerpt":"Episode for August 9th, 2023 Download Throughout the course of this podcast, we’ve established the idea that there are a lot of exoplanets in our universe. Some are big, some are small, some are close to their stars, others are very far away. One thing we haven’t said much about...","categories": ["science"],
+        "tags": [],
+        "url": "/science/how-long-to-proxima-b/",
+        "teaser": null
       }]

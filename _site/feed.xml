@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-08T09:34:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">A Giant Planet Found Orbiting a Small Star</title><link href="http://localhost:4000/discoveries/giant-planet-around-small-star/" rel="alternate" type="text/html" title="A Giant Planet Found Orbiting a Small Star" /><published>2023-08-08T00:00:00-04:00</published><updated>2023-08-08T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/giant-planet-around-small-star</id><content type="html" xml:base="http://localhost:4000/discoveries/giant-planet-around-small-star/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-09T10:38:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">How Long Would it Take to Travel to Proxima Centauri b?</title><link href="http://localhost:4000/science/how-long-to-proxima-b/" rel="alternate" type="text/html" title="How Long Would it Take to Travel to Proxima Centauri b?" /><published>2023-08-09T00:00:00-04:00</published><updated>2023-08-09T00:00:00-04:00</updated><id>http://localhost:4000/science/how-long-to-proxima-b</id><content type="html" xml:base="http://localhost:4000/science/how-long-to-proxima-b/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 9th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/016-travel-time-proximab-final/016_TravelTimeProximab_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/016-travel-time-proximab-final/016_TravelTimeProximab_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Throughout the course of this podcast, we’ve established the idea that there are a lot of exoplanets in our universe.  Some are big, some are small, some are close to their stars, others are very far away.  One thing we haven’t said much about though is just how far away they all are.&lt;/p&gt;
+
+&lt;p&gt;Many people feel that it’s very important for humanity’s long term survival that we become a multiplanet species.  Traveling to and possibly even inhabiting other planets in our solar system is not only possible with our current levels of technology, but compared to going to the stars, it’s downright easy.&lt;/p&gt;
+
+&lt;p&gt;But what about traveling to exoplanets?  Can we reach the stars?&lt;/p&gt;
+
+&lt;p&gt;With the way things are now with our rocket technology, it’s not looking good.  Let’s use traveling to the closest exoplanet to us as an example.  How long would it take to get to Proxima Centaui b?&lt;/p&gt;
+
+&lt;p&gt;To get anywhere in the galaxy at anything resembling a reasonable time, we need to go fast - some fraction of light speed would be best.  Proxima Centauri is 4.3 light years away, so even the fastest thing we know about - light - takes years to get there.  So far, the fastest spaceship we have ever built is the New Horizons Probe and it’s going along at 58,000 kilometers per hour. At that speed, it would take roughly 80,000 years to get to Proxima Centauri b.  The Voyager 1 and II probes are also going fast, they aren’t heading toward Proxima b, but they are going really fast too, 61,000 and 55,000 kilometers per hour respectively.&lt;/p&gt;
+
+&lt;p&gt;So if they were pointed at Proxima b, then we’re looking at about 80,000 years for the Voyager probes too.&lt;/p&gt;
+
+&lt;p&gt;More recently, the Parker Solar Probe managed speeds of 700,000 kilometers per hour at closest approach around the Sun, but it did that at very short intervals.  Still that’s .06% the speed of light, so we’re getting there, but it wasn’t sustainable for long distance stellar flight.&lt;/p&gt;
+
+&lt;p&gt;We’ll need to do a lot better than that if we want to get to the closest exoplanet to us in any reasonable amount of time.  Chemical rockets, the kind we’re using right now, won’t get anywhere near fast enough and are very problematic because we need to carry all that fuel with us as we go, and that reduces efficiency a lot.&lt;/p&gt;
+
+&lt;p&gt;Fusion rockets are very promising, but we don’t have any of those yet.  Still, if we could use the energy of fusing Helium-3 isotopes and Deuterium we might be able to reach sustained speeds on order of the Parker Solar Probe of 0.06% the speed of light and arrive at Proxima b in about 25,000 years.&lt;/p&gt;
+
+&lt;p&gt;The sweet spot would be if we could somehow attain speeds of about 10% the speed of light.  If we could do that, then travel to Proxima b, 4.3 light years away would take 44 years or so.  That’s well within a normal human lifespan.&lt;/p&gt;
+
+&lt;p&gt;Slightly less appealing but still remarkable would be if humanity could achieve 1% light speed.  It would still take 436 years to reach our closest exoplanet, but one can imagine technologies, like cryogenics, that might help us get through the journey intact.&lt;/p&gt;
+
+&lt;p&gt;Space is big, there’s no doubt about it.  And looking at the big picture, that’s probably a good thing.  Still, it would be nice if we could figure out technologies that can get us to appreciable percentages of light speed to cover these vast interstellar distances in reasonable times.  Of course, we might discover new physics that allows us to traverse the galaxy, but for now we are confined by relativity and technologies that keep us well below light speeds and the distant exoplanets out of our reach.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">We’ll need to do a lot better than that if we want to get to the closest exoplanet to us in any reasonable amount of time.</summary></entry><entry><title type="html">A Giant Planet Found Orbiting a Small Star</title><link href="http://localhost:4000/discoveries/giant-planet-around-small-star/" rel="alternate" type="text/html" title="A Giant Planet Found Orbiting a Small Star" /><published>2023-08-08T00:00:00-04:00</published><updated>2023-08-08T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/giant-planet-around-small-star</id><content type="html" xml:base="http://localhost:4000/discoveries/giant-planet-around-small-star/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for August 8th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -281,39 +320,4 @@
 
 &lt;p&gt;Red dwarf stars like Proxima Centauri are tiny compared to the Sun.  They are also the most common stars in the universe and live for trillions of years.  The long life of red dwarf stars provides a lot of time for life to form on any planets that may orbit them.  Because of this, some astronomers believe that red dwarf stars are the most likely place to find evidence of life elsewhere in the universe.&lt;/p&gt;
 
-&lt;p&gt;Now, even though Proxima Centauri is our closest star, it is still four light years away.  It would take five million years to get there at typical airline speeds, and our current rocket technology is nowhere near ready to take us there, so for now, travel to Proxima Centauri b remains a dream.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Proxima Centauri-b is an exoplanet right next door.</summary></entry><entry><title type="html">How Many Exoplanets Are There?</title><link href="http://localhost:4000/science/how-many-exoplanets/" rel="alternate" type="text/html" title="How Many Exoplanets Are There?" /><published>2023-07-26T00:00:00-04:00</published><updated>2023-07-26T00:00:00-04:00</updated><id>http://localhost:4000/science/how-many-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/how-many-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 26th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;We live on a pale blue dot, a tiny oasis of life in a vast and silent cosmos. But are we alone? Are there other worlds like ours, orbiting other stars, in other parts of our galaxy?&lt;/p&gt;
-
-&lt;p&gt;The answer is yes. There are billions of them.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the remarkable achievements of space telescopes like Kepler and TESS, we have discovered over 5,000 exoplanets – planets beyond our solar system – and thousands more await confirmation. These exoplanets come in all shapes and sizes, from gas giants larger than Jupiter to rocky worlds smaller than Earth. Some are scorching hot, some are freezing cold, and some are just right.&lt;/p&gt;
-
-&lt;p&gt;How do we know which ones are just right? We look for the ones that orbit within the habitable zone of their stars – the range of distances where liquid water could exist on the surface. Liquid water is essential for life as we know it, and it is also a good indicator of a planet’s climate and geology.  They are the best candidates for finding life in our galaxy.&lt;/p&gt;
-
-&lt;p&gt;But how many exoplanets are in the habitable zone? A recent study estimated that there could be 300 million habitable planets in the Milky Way. Some are just 30 light years from the Sun, which means that if we could travel at the speed of light, it would take us only 30 years to reach them. Of course, we can’t travel at that speed, but we can still observe them with our telescopes and learn more about their properties and potential for life.&lt;/p&gt;
-
-&lt;p&gt;But even 300 million is just a fraction of the total number of exoplanets in our galaxy. The study extrapolated that figure from a sample of stars observed by Kepler, which only covered only one section of the sky in the constellation of Cygnus the Swan.  Astronomers estimate based on Kepler observations, that every star in the Milky Way has at least one planet, and there are roughly 400 billion stars in the galaxy, which means there are hundreds of billions of planets in our home galaxy.&lt;/p&gt;
-
-&lt;p&gt;That’s an astonishing number. NASA estimates that there are at least 1,500 planets within just 50 light years of Earth.&lt;/p&gt;
-
-&lt;p&gt;But our galaxy is not alone. There are billions of other galaxies in the observable universe, each with billions of stars and planets of their own. The number of exoplanets in the cosmos is beyond our imagination.&lt;/p&gt;
-
-&lt;p&gt;We may never be able to visit them all, or even detect them all, but we can still marvel at their existence and wonder about their mysteries. We can still dream of finding another pale blue dot, another oasis of life, another civilization among the stars.&lt;/p&gt;
-
-&lt;p&gt;We are not alone. We are part of a cosmic family, a galaxy of worlds.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">There are an average of 1.6 planets for every star in our galaxy</summary></entry></feed>
+&lt;p&gt;Now, even though Proxima Centauri is our closest star, it is still four light years away.  It would take five million years to get there at typical airline speeds, and our current rocket technology is nowhere near ready to take us there, so for now, travel to Proxima Centauri b remains a dream.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Proxima Centauri-b is an exoplanet right next door.</summary></entry></feed>

@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>How Long Would it Take to Travel to Proxima Centauri b?</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How Long Would it Take to Travel to Proxima Centauri b?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/016-travel-time-proximab-final/016_TravelTimeProximab_final.mp3" length="5931882" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/how-long-to-proxima-b/</guid>
+	    <link>http://localhost:4000/science/how-long-to-proxima-b/</link>
+            <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>16</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Many people feel that it’s very important for humanity’s long term survival that we become a multiplanet species.  Traveling to and possibly even inhabiting other planets in our solar system is not only possible with our current levels of technology, but compared to going to the stars, it’s downright easy.  But what about traveling to exoplanets?  Can we reach the stars? Show Notes Available at http://localhost:4000/science/how-long-to-proxima-b/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>A Giant Planet Found Orbiting a Small Star</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: A Giant Planet Found Orbiting a Small Star</itunes:subtitle>
