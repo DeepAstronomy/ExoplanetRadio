@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Life in the Dark: How Moons of Rogue Planets Could Harbor Life</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Life in the Dark: How Moons of Rogue Planets Could Harbor Life</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/017-life-in-the-dark-final/017_LifeInTheDark_final.mp3" length="5198686" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/life-in-the-dark/</guid>
+	    <link>http://localhost:4000/science/life-in-the-dark/</link>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>17</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> In our galaxy, there are many planets that wander alone in the dark, without a star to orbit. These rogue planets could have formed from the same material that makes stars, or they could have been kicked out of their original star systems by gravitational interactions. Some of these rogue planets could have moons which remain in tow, and these moons could be more than just cold and barren rocks. Show Notes Available at http://localhost:4000/science/life-in-the-dark/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>How Long Would it Take to Travel to Proxima Centauri b?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Long Would it Take to Travel to Proxima Centauri b?</itunes:subtitle>

@@ -100,4 +100,10 @@ var store = [{
         "tags": [],
         "url": "/science/how-long-to-proxima-b/",
         "teaser": null
+      },{
+        "title": "Life in the Dark: How Moons of Rogue Planets Could Harbor Life",
+        "excerpt":"Episode for August 10th, 2023 Download There might be many places in the universe where habitable conditions can exist. But just having those conditions isn’t enough, in order for life to thrive, it also needs stability. It took life on Earth about a billion years to appear, but to last,...","categories": ["science"],
+        "tags": [],
+        "url": "/science/life-in-the-dark/",
+        "teaser": null
       }]
