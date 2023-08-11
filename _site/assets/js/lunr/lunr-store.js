@@ -106,4 +106,10 @@ var store = [{
         "tags": [],
         "url": "/science/life-in-the-dark/",
         "teaser": null
+      },{
+        "title": "James Webb Space Telescope Observes New Type of Brown Dwarf",
+        "excerpt":"Episode for August 11th, 2023 Download Imagine a planet that is so far away from us that it takes 40 years for its light to reach us. Now imagine that this planet has not one, but two stars that it orbits around. And finally, imagine that this planet has clouds...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/jwst-observes-new-brown-dwarf/",
+        "teaser": null
       }]

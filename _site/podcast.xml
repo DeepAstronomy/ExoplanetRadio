@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>James Webb Space Telescope Observes New Type of Brown Dwarf</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: James Webb Space Telescope Observes New Type of Brown Dwarf</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/018-jwstnew-type-brown-dwarf-final/018_JWSTNewTypeBrownDwarf_final.mp3" length="5803094" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-observes-new-brown-dwarf/</guid>
+	    <link>http://localhost:4000/discoveries/jwst-observes-new-brown-dwarf/</link>
+            <pubDate>Fri, 11 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>18</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:30</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Imagine a planet that is so far away from us that it takes 40 years for its light to reach us. Now imagine that this planet has not one, but two stars that it orbits around. And finally, imagine that this planet has clouds made of sand particles that change the brightness of its atmosphere wildly as they move in the air. Show Notes Available at http://localhost:4000/discoveries/jwst-observes-new-brown-dwarf/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Life in the Dark: How Moons of Rogue Planets Could Harbor Life</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Life in the Dark: How Moons of Rogue Planets Could Harbor Life</itunes:subtitle>

@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-10T11:35:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Life in the Dark: How Moons of Rogue Planets Could Harbor Life</title><link href="http://localhost:4000/science/life-in-the-dark/" rel="alternate" type="text/html" title="Life in the Dark: How Moons of Rogue Planets Could Harbor Life" /><published>2023-08-10T00:00:00-04:00</published><updated>2023-08-10T00:00:00-04:00</updated><id>http://localhost:4000/science/life-in-the-dark</id><content type="html" xml:base="http://localhost:4000/science/life-in-the-dark/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-11T10:51:26-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">James Webb Space Telescope Observes New Type of Brown Dwarf</title><link href="http://localhost:4000/discoveries/jwst-observes-new-brown-dwarf/" rel="alternate" type="text/html" title="James Webb Space Telescope Observes New Type of Brown Dwarf" /><published>2023-08-11T00:00:00-04:00</published><updated>2023-08-11T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/jwst-observes-new-brown-dwarf</id><content type="html" xml:base="http://localhost:4000/discoveries/jwst-observes-new-brown-dwarf/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 11th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/018-jwstnew-type-brown-dwarf-final/018_JWSTNewTypeBrownDwarf_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/018-jwstnew-type-brown-dwarf-final/018_JWSTNewTypeBrownDwarf_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Imagine a planet that is so far away from us that it takes 40 years for its light to reach us. Now imagine that this planet has not one, but two stars that it orbits around. And finally, imagine that this planet has clouds made of sand particles that change the brightness of its atmosphere wildly as they move in the air.&lt;/p&gt;
+
+&lt;p&gt;This planet, VHS 1256 b, has recently been observed by the James Webb Space Telescope  and it is a very interesting world. It is not like any of the planets in our solar system, or even like most of the planets that we have found outside our solar system. It is a type of planet called a brown dwarf, which is somewhere between a giant gas planet and a small star. Brown dwarfs are very hard to study, because they are very faint and cold compared to stars, and very bright and hot compared to planets.&lt;/p&gt;
+
+&lt;p&gt;But VHS 1256 b is different from other brown dwarfs, because it has some features that make it easier to observe. First of all, it is very young, only 150 million years old, which is much younger than our sun, at 4.6 billion years old. This means that it is still hot and glowing from its formation, and has not cooled down yet, making it very bright in the infrared.&lt;/p&gt;
+
+&lt;p&gt;Second, it is very far away from its two stars, about four times farther than Pluto is from our sun. This means that it does not get much light or heat from its host stars, and also that its light does not get mixed with the light from its stars when we look at it from Earth.&lt;/p&gt;
+
+&lt;p&gt;Third, it has a very fast rotation, spinning around once every 22 hours. This means that its atmosphere is constantly changing and moving, creating different patterns and colors on its surface.&lt;/p&gt;
+
+&lt;p&gt;These features make VHS 1256 b a perfect target for the James Webb Space Telescope. JWST is the most powerful and advanced telescope ever built, and it can see things that no other telescope can see. It can see infrared light, which is invisible to our eyes, but which reveals a lot of information about the temperature, composition, and structure of objects in space. It can also see very faint and distant objects, like VHS 1256 b, with great clarity and detail.&lt;/p&gt;
+
+&lt;p&gt;Using Webb, scientists have been able to see some amazing things about VHS 1256 b’s atmosphere. They have found that it has clouds made of silicate dust, which are tiny particles of rocks like quartz or sand. These clouds are very high in the air, where the temperature is about 1,500 degrees Fahrenheit (830 degrees Celsius), which is way hotter than an oven. The clouds have different sizes of dust grains, some as small as smoke and some as large as sand. The size of the dust grains affects how they reflect and scatter light, creating different colors and brightness levels on the planet.&lt;/p&gt;
+
+&lt;p&gt;Webb has also been able to see what gasses are in VHS 1256 b’s air. It has found water, methane, carbon monoxide, and maybe carbon dioxide. This is the first time that so many gases are found on a brown dwarf or a planet outside our solar system. These gasses tell us about the chemistry and history of the planet, and how it formed and evolved over time.&lt;/p&gt;
+
+&lt;p&gt;VHS 1256 b is a fascinating example of how diverse and complex the universe is. It shows us that there are many types of planets out there that we have not seen before, and that we can learn a lot from them using new technologies like Webb. It also challenges us to think about what makes a planet a planet, and what makes life possible on a planet. VHS 1256 b may not be habitable for us or any other life forms that we know of, but it may have some secrets or surprises that we have not discovered yet.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">VHS 1256 b is a fascinating example of how diverse and complex the universe is. It shows us that there are many types of planets out there that we have not seen before, and that we can learn a lot from them using new technologies like JWST.</summary></entry><entry><title type="html">Life in the Dark: How Moons of Rogue Planets Could Harbor Life</title><link href="http://localhost:4000/science/life-in-the-dark/" rel="alternate" type="text/html" title="Life in the Dark: How Moons of Rogue Planets Could Harbor Life" /><published>2023-08-10T00:00:00-04:00</published><updated>2023-08-10T00:00:00-04:00</updated><id>http://localhost:4000/science/life-in-the-dark</id><content type="html" xml:base="http://localhost:4000/science/life-in-the-dark/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for August 10th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -291,35 +324,4 @@
 
 &lt;p&gt;LHS 475b orbits a red dwarf star, one of the most common types of stars in the galaxy. It is located 41 light years away from us, in the southern constellation of Octans. It is a faint star and much cooler than our Sun. But even so, it provides enough energy for its planet to shine in the infrared spectrum. And that is how the Webb Space Telescope saw it.&lt;/p&gt;
 
-&lt;p&gt;This is just the beginning of our exploration of LHS 475b. We hope to learn more about its atmosphere, its climate, and its potential for life. We hope to find out if it is truly an Earth-like world, or if it is something else entirely. We hope to answer one of the oldest questions of humanity: are we alone? Or are there others out there, waiting for us to discover them?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">This is the First Exoplanet Confirmed by JWST</summary></entry><entry><title type="html">An Exoplanet That Shouldn’t Exist</title><link href="http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/" rel="alternate" type="text/html" title="An Exoplanet That Shouldn’t Exist" /><published>2023-07-28T00:00:00-04:00</published><updated>2023-07-28T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist</id><content type="html" xml:base="http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for July 28th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/the-exoplanet-that-shouldnt-exist-final/TheExoplanetThatShouldntExist_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/the-exoplanet-that-shouldnt-exist-final/TheExoplanetThatShouldntExist_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Astronomers have found a planet around a red giant star that should have been destroyed, yet it still exists, leaving astronomers to wonder why the planet is still there.  So what’s the puzzle?&lt;/p&gt;
-
-&lt;p&gt;Well, stars change as they age. Once a star has used up all its hydrogen fuel in the core, it begins to shrink, while the outer envelope expands as the star cools.&lt;/p&gt;
-
-&lt;p&gt;When our Sun enters this stage in about 5 billion years, it will grow so large that it will engulf Mercury, Venus, and possibly Earth.  The Sun will become a Red Giant.&lt;/p&gt;
-
-&lt;p&gt;The planet in question is 8 Ursa Minoris b and was discovered in 2015 by Korean astronomers using the “Doppler wobble” technique, which measures the gravitational pull of the planet on the star.  It is a red giant star 530 light years away in the constellation of Ursa Minor, the Little Bear. The star was named Baekdu and the planet was named Halla after the tallest mountains on the Korean peninsula.&lt;/p&gt;
-
-&lt;p&gt;Halla is very close, twice as close as the Earth is to the Sun and orbits Baekdu once every 93 days and is about 1.3 times the mass of Jupiter.&lt;/p&gt;
-
-&lt;p&gt;So what is going on here?  How can a planet survive the expansion of its star into a Red Giant?  How did it not get swallowed up being so close to it?&lt;/p&gt;
-
-&lt;p&gt;Astronomers think that one of two things is going on. Either Baekdu was one star in a binary system and the merger of these two stars may have prevented the expansion of either star to a size large enough to engulf planet Halla. Or Halla may be a relatively newborn planet. The violent collision between the two stars may have produced a cloud of gas and dust from which the planet could have formed. In other words, the planet Halla may be a recently born so-called “second generation” planet.&lt;/p&gt;
-
-&lt;p&gt;Nature always seems to have a way of surprising us, throwing us curve balls just when we think we know what’s going on. The discovery of a planet orbiting a helium-burning red giant star shows that exoplanets can appear in places where we didn’t think they could exist. When it comes to the 8 Ursa Minoris system, whether it’s due to the merger of two stars or the formation of a cloud of gas and dust from which the planet could have formed, or something else altogether, we can always count on nature to find a way to surprise us.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">How can a planet survive the expansion of its star into a Red Giant?</summary></entry></feed>
+&lt;p&gt;This is just the beginning of our exploration of LHS 475b. We hope to learn more about its atmosphere, its climate, and its potential for life. We hope to find out if it is truly an Earth-like world, or if it is something else entirely. We hope to answer one of the oldest questions of humanity: are we alone? Or are there others out there, waiting for us to discover them?&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">This is the First Exoplanet Confirmed by JWST</summary></entry></feed>
