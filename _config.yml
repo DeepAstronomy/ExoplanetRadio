@@ -26,7 +26,7 @@ url                      : "https://exoplanetradio.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DeepAstronomy/ExoplanetRadio"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/ExoplanetRadioLogo_100px.png"
+logo                     : "/assets/images/ExoplanetRadioLogo.png"
 masthead_title           : "Exoplanet Radio"
 email                    : "exoplanetradio@deepastronomy.com"
 # breadcrumbs            : false # true, false (default)

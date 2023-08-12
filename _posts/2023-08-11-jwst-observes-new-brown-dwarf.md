@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: VHS 1256 b is a fascinating example of how diverse and complex the universe is. It shows us that there are many types of planets out there that we have not seen before, and that we can learn a lot from them using new technologies like JWST.
 author_profile: true
+image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
 sidebar: 
   nav: "latest"
 classes: wide
