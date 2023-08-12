@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Not All Exoplanets Orbit Stars"
+title:  "Rogue Planets: Not All Exoplanets Orbit Stars"
 file: https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3
 duration: "02:37"
 length: "3394871"
@@ -9,7 +9,7 @@ block: "no"
 host: "Tony Darnell"
 episode: "3"
 season: "1"
-keywords: "astronomy, exoplanets, rogue"
+keywords: "astronomy, exoplanets, rogue planets"
 categories: discoveries
 description: Amazingly, astronomers have found planets in space that do not have a host star.
 header:
