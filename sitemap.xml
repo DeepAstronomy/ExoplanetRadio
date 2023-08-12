@@ -24,6 +24,14 @@ layout: null
       {% else %}
         <priority>0.5</priority>
       {% endif %}
+	<news:news>
+          <news:publication>
+            <news:name>Exoplanet Radio</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
+	  <news:title>{{ post.title }}</news:title>
+        </news:news>
     </url>
     {% endunless %}
   {% endfor %}
