@@ -11,7 +11,7 @@ var store = [{
         "url": "/science/what-is-an-exoplanet/",
         "teaser": null
       },{
-        "title": "Not All Exoplanets Orbit Stars",
+        "title": "Rogue Planets: Not All Exoplanets Orbit Stars",
         "excerpt":"Episode for July 22nd, 2023 Download One of the most exciting recent discoveries in astronomy has been the existence of planets around other stars. Called exoplanets, they vary wildly in their characteristics, appearance and behavior. Most of the over 5000 exoplanets discovered so far are in orbit around other stars,...","categories": ["discoveries"],
         "tags": [],
         "url": "/discoveries/not-all-stars-have-exoplanets/",

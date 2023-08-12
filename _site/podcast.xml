@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en-US">
 
     <channel>
-		<atom:link href="http://localhost:4000/podcast.rss" type="application/rss+xml" />
+		<atom:link href="https://exoplanetradio.com/podcast.rss" type="application/rss+xml" />
 		<title>Exoplanet Radio</title>
-		<link>http://localhost:4000</link>
+		<link>https://exoplanetradio.com</link>
 		<language>en-US</language>
         <copyright>&#xA9; 2023 Exoplanet Radio</copyright>
 		<itunes:subtitle>Exotic Worlds Beyond Our Solar System</itunes:subtitle>
@@ -16,7 +16,7 @@
 			<itunes:name>Deep Astronomy, LLC</itunes:name>
 			<itunes:email>exoplanetradio@deepastronomy.com</itunes:email>
 	</itunes:owner>
-	<itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	<itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
 	<itunes:category text="Science">
 		<itunes:category text="Astronomy" />
 	</itunes:category>
@@ -28,16 +28,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: James Webb Space Telescope Observes New Type of Brown Dwarf</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/018-jwstnew-type-brown-dwarf-final/018_JWSTNewTypeBrownDwarf_final.mp3" length="5803094" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/jwst-observes-new-brown-dwarf/</guid>
-	    <link>http://localhost:4000/exoplanets/jwst-observes-new-brown-dwarf/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/jwst-observes-new-brown-dwarf/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/jwst-observes-new-brown-dwarf/</link>
             <pubDate>Fri, 11 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>18</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:30</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Imagine a planet that is so far away from us that it takes 40 years for its light to reach us. Now imagine that this planet has not one, but two stars that it orbits around. And finally, imagine that this planet has clouds made of sand particles that change the brightness of its atmosphere wildly as they move in the air. Show Notes Available at http://localhost:4000/exoplanets/jwst-observes-new-brown-dwarf/.</description>
+            <description> Imagine a planet that is so far away from us that it takes 40 years for its light to reach us. Now imagine that this planet has not one, but two stars that it orbits around. And finally, imagine that this planet has clouds made of sand particles that change the brightness of its atmosphere wildly as they move in the air. Show Notes Available at https://exoplanetradio.com/exoplanets/jwst-observes-new-brown-dwarf/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -47,16 +47,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Life in the Dark: How Moons of Rogue Planets Could Harbor Life</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/017-life-in-the-dark-final/017_LifeInTheDark_final.mp3" length="5198686" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/life-in-the-dark/</guid>
-	    <link>http://localhost:4000/science/life-in-the-dark/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/science/life-in-the-dark/</guid>
+	    <link>https://exoplanetradio.com/science/life-in-the-dark/</link>
             <pubDate>Thu, 10 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>17</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> In our galaxy, there are many planets that wander alone in the dark, without a star to orbit. These rogue planets could have formed from the same material that makes stars, or they could have been kicked out of their original star systems by gravitational interactions. Some of these rogue planets could have moons which remain in tow, and these moons could be more than just cold and barren rocks. Show Notes Available at http://localhost:4000/science/life-in-the-dark/.</description>
+            <description> In our galaxy, there are many planets that wander alone in the dark, without a star to orbit. These rogue planets could have formed from the same material that makes stars, or they could have been kicked out of their original star systems by gravitational interactions. Some of these rogue planets could have moons which remain in tow, and these moons could be more than just cold and barren rocks. Show Notes Available at https://exoplanetradio.com/science/life-in-the-dark/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -66,16 +66,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Long Would it Take to Travel to Proxima Centauri b?</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/016-travel-time-proximab-final/016_TravelTimeProximab_final.mp3" length="5931882" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/how-long-to-proxima-b/</guid>
-	    <link>http://localhost:4000/science/how-long-to-proxima-b/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/science/how-long-to-proxima-b/</guid>
+	    <link>https://exoplanetradio.com/science/how-long-to-proxima-b/</link>
             <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>16</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Many people feel that it’s very important for humanity’s long term survival that we become a multiplanet species.  Traveling to and possibly even inhabiting other planets in our solar system is not only possible with our current levels of technology, but compared to going to the stars, it’s downright easy.  But what about traveling to exoplanets?  Can we reach the stars? Show Notes Available at http://localhost:4000/science/how-long-to-proxima-b/.</description>
+            <description> Many people feel that it’s very important for humanity’s long term survival that we become a multiplanet species.  Traveling to and possibly even inhabiting other planets in our solar system is not only possible with our current levels of technology, but compared to going to the stars, it’s downright easy.  But what about traveling to exoplanets?  Can we reach the stars? Show Notes Available at https://exoplanetradio.com/science/how-long-to-proxima-b/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -85,16 +85,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: A Giant Planet Found Orbiting a Small Star</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/015-giant-planet-small-star-final/015_GiantPlanetSmallStar_final.mp3" length="4655561" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/giant-planet-around-small-star/</guid>
-	    <link>http://localhost:4000/discoveries/giant-planet-around-small-star/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/discoveries/giant-planet-around-small-star/</guid>
+	    <link>https://exoplanetradio.com/discoveries/giant-planet-around-small-star/</link>
             <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>16</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> A massive, Jupiter-sized exoplanet has been discovered orbiting a small, low-mass star and this discovery is challenging theories on how planets form around their stars. The planet, called TOI-4860 b, is about the same size as Jupiter and orbits its star once every 1.5 Earth days, classifying it as a warm Jupiter. This is unusual because planets this large are not supposed to form around low-mass stars. Show Notes Available at http://localhost:4000/discoveries/giant-planet-around-small-star/.</description>
+            <description> A massive, Jupiter-sized exoplanet has been discovered orbiting a small, low-mass star and this discovery is challenging theories on how planets form around their stars. The planet, called TOI-4860 b, is about the same size as Jupiter and orbits its star once every 1.5 Earth days, classifying it as a warm Jupiter. This is unusual because planets this large are not supposed to form around low-mass stars. Show Notes Available at https://exoplanetradio.com/discoveries/giant-planet-around-small-star/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -104,16 +104,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: The First Exoplanets: The Discovery That Forever Changed Us</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3" length="5387962" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/the-first-exoplanets/</guid>
-	    <link>http://localhost:4000/discoveries/the-first-exoplanets/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/discoveries/the-first-exoplanets/</guid>
+	    <link>https://exoplanetradio.com/discoveries/the-first-exoplanets/</link>
             <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>15</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:46</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Our galaxy likely holds hundreds of billions of planets around other stars but when and how did we begin finding them?  What was the first exoplanet detected?  It turns out that the first discovery wasn’t one, but two planets in the same system. Show Notes Available at http://localhost:4000/discoveries/the-first-exoplanets/.</description>
+            <description> Our galaxy likely holds hundreds of billions of planets around other stars but when and how did we begin finding them?  What was the first exoplanet detected?  It turns out that the first discovery wasn’t one, but two planets in the same system. Show Notes Available at https://exoplanetradio.com/discoveries/the-first-exoplanets/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -123,16 +123,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Finding Exoplanets</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3" length="5411371" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/finding-exoplanets/</guid>
-	    <link>http://localhost:4000/science/finding-exoplanets/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/science/finding-exoplanets/</guid>
+	    <link>https://exoplanetradio.com/science/finding-exoplanets/</link>
             <pubDate>Fri, 04 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>14</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:01</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Finding exoplanets is not an easy endeavor, but it is nonetheless very important.  Finding planets around other stars is vital for humanity to understand its place in the cosmos. Show Notes Available at http://localhost:4000/science/finding-exoplanets/.</description>
+            <description> Finding exoplanets is not an easy endeavor, but it is nonetheless very important.  Finding planets around other stars is vital for humanity to understand its place in the cosmos. Show Notes Available at https://exoplanetradio.com/science/finding-exoplanets/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -142,16 +142,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: WASP-39b: A Hot, Jupiter-sized World</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/wasp-39b-final/WASP-39b_final.mp3" length="4499447" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/wasp39b-hot-jupiter/</guid>
-	    <link>http://localhost:4000/exoplanets/wasp39b-hot-jupiter/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/wasp39b-hot-jupiter/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/wasp39b-hot-jupiter/</link>
             <pubDate>Thu, 03 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>13</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:10</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> WASP-39 b is a hot and puffy planet with a mass roughly one-quarter that of Jupiter and a diameter 1.3 times greater than Jupiter Show Notes Available at http://localhost:4000/exoplanets/wasp39b-hot-jupiter/.</description>
+            <description> WASP-39 b is a hot and puffy planet with a mass roughly one-quarter that of Jupiter and a diameter 1.3 times greater than Jupiter Show Notes Available at https://exoplanetradio.com/exoplanets/wasp39b-hot-jupiter/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -161,16 +161,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: TRAPPIST-1: A System Full of Hope</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/asystem-full-of-hope-final/ASystemFullOfHope_final.mp3" length="5307045" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</guid>
-	    <link>http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/trappist1-a-system-full-of-hope/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/trappist1-a-system-full-of-hope/</link>
             <pubDate>Wed, 02 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>12</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Aside from our own solar system, one of the most studied stellar systems lies about 40 light-years away in the direction of the constellation Aquarius. Using ground and space based telescopes like Spitzer, Kepler, Hubble, and, now, the James Webb Space Telescope, astronomers are looking hard at the seven rocky exoplanets orbiting the TRAPPIST-1 star. Show Notes Available at http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/.</description>
+            <description> Aside from our own solar system, one of the most studied stellar systems lies about 40 light-years away in the direction of the constellation Aquarius. Using ground and space based telescopes like Spitzer, Kepler, Hubble, and, now, the James Webb Space Telescope, astronomers are looking hard at the seven rocky exoplanets orbiting the TRAPPIST-1 star. Show Notes Available at https://exoplanetradio.com/exoplanets/trappist1-a-system-full-of-hope/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -180,16 +180,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Exoplanet Detected in Another Galaxy?</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/exoplanet-another-galaxy-final/ExoplanetAnotherGalaxy_final.wav" length="62182504" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/</guid>
-	    <link>http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/discoveries/exoplanet-detected-another-galaxy/</guid>
+	    <link>https://exoplanetradio.com/discoveries/exoplanet-detected-another-galaxy/</link>
             <pubDate>Tue, 01 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>11</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:02</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Astronomers have found evidence of a possible planet outside of our Milky Way galaxy. If confirmed, this is the first time that a planet has been detected in another galaxy. It is located in the spiral galaxy Messier 51, also called the Whirlpool Galaxy Show Notes Available at http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/.</description>
+            <description> Astronomers have found evidence of a possible planet outside of our Milky Way galaxy. If confirmed, this is the first time that a planet has been detected in another galaxy. It is located in the spiral galaxy Messier 51, also called the Whirlpool Galaxy Show Notes Available at https://exoplanetradio.com/discoveries/exoplanet-detected-another-galaxy/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -199,16 +199,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: The First Exoplanet of JWST</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/the-first-exoplanet-of-jwst-final/TheFirstExoplanetOfJWST_final.mp3" length="4927911" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/</guid>
-	    <link>http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/discoveries/the-first-exoplanet-of-jwst/</guid>
+	    <link>https://exoplanetradio.com/discoveries/the-first-exoplanet-of-jwst/</link>
             <pubDate>Mon, 31 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>10</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:38</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> The Webb Space Telescope observed this planet as it passed between the telescope and the host star, LHS 475.  By watching the spectra of that star over two orbits, astronomers were able to measure the diameter of LHS 475b and get an idea of its density.  This is the first exoplanet confirmed by the James Webb space telescope. Show Notes Available at http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/.</description>
+            <description> The Webb Space Telescope observed this planet as it passed between the telescope and the host star, LHS 475.  By watching the spectra of that star over two orbits, astronomers were able to measure the diameter of LHS 475b and get an idea of its density.  This is the first exoplanet confirmed by the James Webb space telescope. Show Notes Available at https://exoplanetradio.com/discoveries/the-first-exoplanet-of-jwst/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -218,16 +218,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: An Exoplanet That Shouldn&apos;t Exist</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/the-exoplanet-that-shouldnt-exist-final/TheExoplanetThatShouldntExist_final.mp3" length="4448491" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</guid>
-	    <link>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/an-exoplanet-that-shouldnt-exist/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/an-exoplanet-that-shouldnt-exist/</link>
             <pubDate>Fri, 28 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>9</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:19</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Astronomers have found a planet around a red giant star that should have been destroyed, yet it still exists, leaving astronomers to wonder why the planet is still there. Show Notes Available at http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/.</description>
+            <description> Astronomers have found a planet around a red giant star that should have been destroyed, yet it still exists, leaving astronomers to wonder why the planet is still there. Show Notes Available at https://exoplanetradio.com/exoplanets/an-exoplanet-that-shouldnt-exist/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -237,16 +237,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Proxima Centauri-b: The Closest Exoplanet to Earth</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/proxima-b/Proxima_b_final.mp3" length="6300000" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/Proxima-Centauri-b/</guid>
-	    <link>http://localhost:4000/exoplanets/Proxima-Centauri-b/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/Proxima-Centauri-b/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/Proxima-Centauri-b/</link>
             <pubDate>Thu, 27 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>8</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>02:37</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life. Show Notes Available at http://localhost:4000/exoplanets/Proxima-Centauri-b/.</description>
+            <description> Proxima Centauri-b is only 4.5 light years away and may be a good candidate for life. Show Notes Available at https://exoplanetradio.com/exoplanets/Proxima-Centauri-b/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -256,16 +256,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Many Exoplanets Are There?</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3" length="5270538" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/how-many-exoplanets/</guid>
-	    <link>http://localhost:4000/science/how-many-exoplanets/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/science/how-many-exoplanets/</guid>
+	    <link>https://exoplanetradio.com/science/how-many-exoplanets/</link>
             <pubDate>Wed, 26 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>7</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Astronomers estimate there are more planets in our galaxy than there are stars.  Just how many is that?  Are we likely to travel to them? Show Notes Available at http://localhost:4000/science/how-many-exoplanets/.</description>
+            <description> Astronomers estimate there are more planets in our galaxy than there are stars.  Just how many is that?  Are we likely to travel to them? Show Notes Available at https://exoplanetradio.com/science/how-many-exoplanets/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -275,16 +275,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: JWST Measures Temperature of TRAPPIST-1b</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3" length="4329121" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</guid>
-	    <link>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/discoveries/jwst-measures-trappist-1b-temp/</guid>
+	    <link>https://exoplanetradio.com/discoveries/jwst-measures-trappist-1b-temp/</link>
             <pubDate>Tue, 25 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>6</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:18</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b Show Notes Available at http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/.</description>
+            <description> JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b Show Notes Available at https://exoplanetradio.com/discoveries/jwst-measures-trappist-1b-temp/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -294,16 +294,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Exoplanets are Everywhere</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3" length="5087281" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/exoplanets-are-everywhere/</guid>
-	    <link>http://localhost:4000/science/exoplanets-are-everywhere/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/science/exoplanets-are-everywhere/</guid>
+	    <link>https://exoplanetradio.com/science/exoplanets-are-everywhere/</link>
             <pubDate>Mon, 24 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>5</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>02:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> We have only known there are planets around other stars for about 25 years.  Now we know they are everywhere. Show Notes Available at http://localhost:4000/science/exoplanets-are-everywhere/.</description>
+            <description> We have only known there are planets around other stars for about 25 years.  Now we know they are everywhere. Show Notes Available at https://exoplanetradio.com/science/exoplanets-are-everywhere/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -313,36 +313,36 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Kepler-22b: A Planet with a lot of Promise</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3" length="6300000" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kepler-22b/</guid>
-	    <link>http://localhost:4000/exoplanets/kepler-22b/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/kepler-22b/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/kepler-22b/</link>
             <pubDate>Sun, 23 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>4</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:55</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Kepler-22b was the first exoplanet confirmed by the Kepler Space Telescope.  It may also harbor life Show Notes Available at http://localhost:4000/exoplanets/kepler-22b/.</description>
+            <description> Kepler-22b was the first exoplanet confirmed by the Kepler Space Telescope.  It may also harbor life Show Notes Available at https://exoplanetradio.com/exoplanets/kepler-22b/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
         <item>
-            <title>Not All Exoplanets Orbit Stars</title>
+            <title>Rogue Planets: Not All Exoplanets Orbit Stars</title>
 	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: Not All Exoplanets Orbit Stars</itunes:subtitle>
+            <itunes:subtitle>Exoplanet Radio: Rogue Planets: Not All Exoplanets Orbit Stars</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3" length="3394871" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</guid>
-	    <link>http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/discoveries/not-all-stars-have-exoplanets/</guid>
+	    <link>https://exoplanetradio.com/discoveries/not-all-stars-have-exoplanets/</link>
             <pubDate>Sat, 22 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>3</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>02:37</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Amazingly, astronomers have found planets in space that do not have a host star. Show Notes Available at http://localhost:4000/discoveries/not-all-stars-have-exoplanets/.</description>
-            <itunes:keywords>astronomy, exoplanets, rogue</itunes:keywords>
+            <description> Amazingly, astronomers have found planets in space that do not have a host star. Show Notes Available at https://exoplanetradio.com/discoveries/not-all-stars-have-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets, rogue planets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
@@ -351,16 +351,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: What is an Exoplanet?</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3" length="9014787" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/science/what-is-an-exoplanet/</guid>
-	    <link>http://localhost:4000/science/what-is-an-exoplanet/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/science/what-is-an-exoplanet/</guid>
+	    <link>https://exoplanetradio.com/science/what-is-an-exoplanet/</link>
             <pubDate>Fri, 21 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>2</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Welcome to the first episode of Exoplanet Radio!  Let&apos;s get started by defining what an exoplanet is.  What types are there? Show Notes Available at http://localhost:4000/science/what-is-an-exoplanet/.</description>
+            <description> Welcome to the first episode of Exoplanet Radio!  Let&apos;s get started by defining what an exoplanet is.  What types are there? Show Notes Available at https://exoplanetradio.com/science/what-is-an-exoplanet/.</description>
             <itunes:keywords>astronomy, exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -370,16 +370,16 @@
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Welcome to Exoplanet Radio</itunes:subtitle>
             <itunes:summary></itunes:summary>
-	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+	    <itunes:image href="https://exoplanetradio.com/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3" length="2538614" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</guid>
-	    <link>http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</link>
+	    <guid isPermaLink="true">https://exoplanetradio.com/exoplanets/welcome-to-exoplanet-radio/</guid>
+	    <link>https://exoplanetradio.com/exoplanets/welcome-to-exoplanet-radio/</link>
             <pubDate>Thu, 13 Jul 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>1</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>01:51</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description> Your Daily Dose of Exoplanet Wonder! Show Notes Available at http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/.</description>
+            <description> Your Daily Dose of Exoplanet Wonder! Show Notes Available at https://exoplanetradio.com/exoplanets/welcome-to-exoplanet-radio/.</description>
             <itunes:keywords>astronomy, exoplanets, rogue</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
