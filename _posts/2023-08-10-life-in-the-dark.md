@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: If a moon has a thick atmosphere, such as carbon dioxide, and some water, it could create a greenhouse effect that traps heat and keeps the surface warm. The heat could also come from the tidal forces of the planet, which stretch and squeeze the moon as it orbits around it. 
 author_profile: true
+image: /assets/images/ExoMoon.png
 sidebar: 
   nav: "latest"
 classes: wide

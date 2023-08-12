@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: We’ll need to do a lot better than that if we want to get to the closest exoplanet to us in any reasonable amount of time. 
 author_profile: true
+image: /assets/images/GirlAlienLandscape.jpg
 sidebar: 
   nav: "latest"
 classes: wide

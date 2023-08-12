@@ -19,6 +19,7 @@ header:
      provider: vimeo
 excerpt: There are many types of planets around other stars
 author_profile: true
+image: /assets/images/ExoplanetLandscape.jpg
 sidebar: 
   nav: "latest"
 classes: wide

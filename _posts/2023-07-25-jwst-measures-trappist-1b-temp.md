@@ -19,6 +19,7 @@ header:
       url: /episodes/ 
 excerpt: JWST has measured the surface temperature of exoplanet TRAPPIST-1b
 author_profile: true
+image: /assets/images/HotRockyExoplanet.png
 sidebar: 
   nav: "latest"
 classes: wide

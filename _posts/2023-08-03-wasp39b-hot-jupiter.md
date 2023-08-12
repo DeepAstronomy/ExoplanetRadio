@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: WASP-39 b is a fascinating example of how diverse and complex exoplanets can be.
 author_profile: true
+image: /assets/images/GenericGasGiant.png
 sidebar: 
   nav: "latest"
 classes: wide

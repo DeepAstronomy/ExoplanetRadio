@@ -19,6 +19,7 @@ header:
      url: /episodes/
 excerpt: Delve into the mysteries of exotic planets in our galaxy!
 author_profile: true
+image: /assets/images/GirlAlienLandscape.jpg
 sidebar: 
    nav: "latest"
 classes: wide

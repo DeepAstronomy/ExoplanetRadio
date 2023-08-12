@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: While data from Hubble and Webb Space Telescopes have yet to confirm the existence of any atmospheres on any of these worlds, we have only just begun looking and hope abides with each new glance at this incredible system
 author_profile: true
+image: /assets/images/exoplanets/TRAPPIST-1fLandscape.jpg
 sidebar: 
   nav: "latest"
 classes: wide

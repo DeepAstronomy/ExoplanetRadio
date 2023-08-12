@@ -19,6 +19,7 @@ header:
       url: /episodes/ 
 excerpt: More planets than stars
 author_profile: true
+image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
 sidebar: 
   nav: "latest"
 classes: wide

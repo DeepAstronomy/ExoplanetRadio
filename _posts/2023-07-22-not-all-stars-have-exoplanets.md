@@ -18,6 +18,7 @@ header:
    - label: "All Episodes"
      url: /episodes/
 excerpt: Astronomers have detected many rogue planets
+image: /assets/images/GirlAlienLandscape.jpg
 author_profile: true
 sidebar: 
    nav: "latest"

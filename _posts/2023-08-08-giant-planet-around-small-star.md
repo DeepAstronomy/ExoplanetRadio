@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: Finding planets in locations we don’t expect and in regions that defy our current understanding is an important reason why astronomers scan the heavens in search of other worlds
 author_profile: true
+image: /assets/images/GenericGasGiant.png
 sidebar: 
   nav: "latest"
 classes: wide

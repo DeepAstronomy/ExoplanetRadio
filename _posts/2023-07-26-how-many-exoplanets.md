@@ -19,6 +19,7 @@ header:
       url: /episodes/ 
 excerpt: There are an average of 1.6 planets for every star in our galaxy
 author_profile: true
+image: /assets/images/JWST_TRAPPIST-1b.jpeg
 sidebar: 
   nav: "latest"
 classes: wide

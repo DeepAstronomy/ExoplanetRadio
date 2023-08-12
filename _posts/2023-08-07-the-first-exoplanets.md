@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: The observations of planets around other stars is very recent and it changed our view of humanity's place in the universe forever.
 author_profile: true
+image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
 sidebar: 
   nav: "latest"
 classes: wide

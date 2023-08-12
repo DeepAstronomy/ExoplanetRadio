@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: Proxima Centauri-b is an exoplanet right next door.
 author_profile: true
+image: /assets/images/exoplanets/Proxima_b_nasa.png
 sidebar: 
   nav: "latest"
 classes: wide

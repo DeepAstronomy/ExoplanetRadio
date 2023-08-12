@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: How can a planet survive the expansion of its star into a Red Giant?
 author_profile: true
+image: /assets/images/exoplanets/8_UrsaeMinoris_b.png
 sidebar: 
   nav: "latest"
 classes: wide

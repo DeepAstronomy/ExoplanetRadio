@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: This is the First Exoplanet Confirmed by JWST
 author_profile: true
+image: /assets/images/HotRockyExoplanet.png
 sidebar: 
   nav: "latest"
 classes: wide

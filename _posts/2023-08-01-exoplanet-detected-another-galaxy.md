@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: Astronomers have found evidence of a possible planet outside of our Milky Way galaxy
 author_profile: true
+image: /assets/images/WhirlpoolGalaxy.png
 sidebar: 
   nav: "latest"
 classes: wide

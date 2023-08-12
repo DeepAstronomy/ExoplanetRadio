@@ -19,6 +19,7 @@ header:
       url: /episodes/
 excerpt: How do astronomers find exoplanets?  This episode explores the various ways planets around other stars reveal themselves.
 author_profile: true
+image: /assets/images/AlienLandscapeCartoon.jpeg
 sidebar: 
   nav: "latest"
 classes: wide
