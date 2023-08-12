@@ -306,7 +306,7 @@
     <url>
       <loc>https://exoplanetradio.com/404.html</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -336,7 +336,7 @@
     <url>
       <loc>https://exoplanetradio.com/categories/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -366,7 +366,7 @@
     <url>
       <loc>https://exoplanetradio.com/episodes/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -381,7 +381,7 @@
     <url>
       <loc>https://exoplanetradio.com/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -413,7 +413,7 @@
     <url>
       <loc>https://exoplanetradio.com/portfolio/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -428,7 +428,7 @@
     <url>
       <loc>https://exoplanetradio.com/sitemap.xml</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -443,7 +443,7 @@
     <url>
       <loc>https://exoplanetradio.com/assets/css/main.css</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -458,7 +458,7 @@
     <url>
       <loc>https://exoplanetradio.com/assets/js/lunr/lunr-en.js</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -473,7 +473,7 @@
     <url>
       <loc>https://exoplanetradio.com/assets/js/lunr/lunr-gr.js</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -488,7 +488,7 @@
     <url>
       <loc>https://exoplanetradio.com/assets/js/lunr/lunr-store.js</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -503,7 +503,7 @@
     <url>
       <loc>https://exoplanetradio.com/categories/exoplanets/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -518,7 +518,7 @@
     <url>
       <loc>https://exoplanetradio.com/categories/science/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -533,7 +533,7 @@
     <url>
       <loc>https://exoplanetradio.com/categories/discoveries/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -593,7 +593,7 @@
     <url>
       <loc>https://exoplanetradio.com/feed.xml</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -608,7 +608,22 @@
     <url>
       <loc>https://exoplanetradio.com/page2/</loc>
       
-        <lastmod>2023-08-12T14:43:56-04:00</lastmod>
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://exoplanetradio.com/robots.txt</loc>
+      
+        <lastmod>2023-08-12T14:48:07-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
