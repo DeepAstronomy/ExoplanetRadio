@@ -112,4 +112,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/jwst-observes-new-brown-dwarf/",
         "teaser": null
+      },{
+        "title": "Finding Exoplanets with Direct Imaging",
+        "excerpt":"Episode for August 14th, 2023 Download One of the reasons we’ve created Exoplanet Radio is that Exoplanets are awesome. The idea that there are planets in orbit around stars outside our solar system - and even rogue planets that do not orbit a star meandering through interstellar space - is...","categories": ["science"],
+        "tags": [],
+        "url": "/science/direct-imaging-exoplanets/",
+        "teaser": null
       }]
