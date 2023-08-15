@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>TRAPPIST-1d: A World on the Edge of Life</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: TRAPPIST-1d: A World on the Edge of Life</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/020-trappist-1d-the-edgeof-life-final/020_TRAPPIST-1dTheEdgeofLife_final.mp3" length="5676569" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/trappist1d-world-edge-of-life/</guid>
+	    <link>http://localhost:4000/exoplanets/trappist1d-world-edge-of-life/</link>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>20</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:07</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Tucked inside a quiet solar system, in the area of sky outlined by the constellation Aquarius, orbits a planet named TRAPPIST-1d, the third of seven planets in a system positioned 41 light years from our vantage point.  TRAPPIST-1d is a rocky, Earth-like planet, meaning that it is roughly the same size and mass as our home. Show Notes Available at http://localhost:4000/exoplanets/trappist1d-world-edge-of-life/.</description>
+            <itunes:keywords>astronomy, exoplanets, trappist-1d</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Finding Exoplanets with Direct Imaging</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Finding Exoplanets with Direct Imaging</itunes:subtitle>

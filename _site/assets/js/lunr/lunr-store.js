@@ -118,4 +118,10 @@ var store = [{
         "tags": [],
         "url": "/science/direct-imaging-exoplanets/",
         "teaser": null
+      },{
+        "title": "TRAPPIST-1d: A World on the Edge of Life",
+        "excerpt":"Episode for August 15th, 2023 Download Tucked inside a quiet solar system, in the area of sky outlined by the constellation Aquarius, orbits a planet named TRAPPIST-1d, the third of seven planets in a system positioned 41 light years from our vantage point. TRAPPIST-1d is a rocky, Earth-like planet, meaning...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/trappist1d-world-edge-of-life/",
+        "teaser": null
       }]
