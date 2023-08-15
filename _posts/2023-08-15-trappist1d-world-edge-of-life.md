@@ -19,7 +19,7 @@ header:
       url: /episodes/
 excerpt: "Tucked inside a quiet solar system, in the area of sky outlined by the constellation Aquarius, orbits a planet named TRAPPIST-1d, the third of seven planets in a system positioned 41 light years from our vantage point.  TRAPPIST-1d is a rocky, Earth-like planet, meaning that it is roughly the same size and mass as our home."
 author_profile: true
-image: /assets/images/eso0515a_2m107.jpg
+image: /assets/images/TRAPPIST-1d_Surface.png
 sidebar: 
   nav: "latest"
 classes: wide
