@@ -43,6 +43,25 @@
 		</item>
 
         <item>
+            <title>JWST Takes First Direct Image of an Exoplanet</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: JWST Takes First Direct Image of an Exoplanet</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/021-jwstdirectly-image-exoplanet-final/021_JWSTDirectlyImageExoplanet_final.mp3" length="5632636" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/</guid>
+	    <link>http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/</link>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>21</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:07</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> The launch and deployment of the James Webb Space Telescope in July 2022, marked the beginning of a new era in exoplanet science.  Never before had humanity launched a more powerful and technologically advanced instrument into orbit that had the capabilities that JWST does. Show Notes Available at http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/.</description>
+            <itunes:keywords>astronomy, exoplanets, james webb space telescope, direct image exoplanet</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Finding Exoplanets with Direct Imaging</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Finding Exoplanets with Direct Imaging</itunes:subtitle>

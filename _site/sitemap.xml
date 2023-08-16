@@ -27,6 +27,29 @@
   
     
     <url>
+      <loc>http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/</loc>
+      
+        <lastmod>2023-08-15T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+	<news:news>
+          <news:publication>
+            <news:name>Exoplanet Radio</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-15T00:00:00-04:00</news:publication_date>
+	  <news:title>JWST Takes First Direct Image of an Exoplanet</news:title>
+        </news:news>
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/science/direct-imaging-exoplanets/</loc>
       
         <lastmod>2023-08-14T00:00:00-04:00</lastmod>
@@ -505,7 +528,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -535,7 +558,7 @@
     <url>
       <loc>http://localhost:4000/categories/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -565,7 +588,7 @@
     <url>
       <loc>http://localhost:4000/episodes/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -580,7 +603,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -612,7 +635,7 @@
     <url>
       <loc>http://localhost:4000/portfolio/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -627,7 +650,7 @@
     <url>
       <loc>http://localhost:4000/sitemap.xml</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -642,7 +665,7 @@
     <url>
       <loc>http://localhost:4000/assets/css/main.css</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -657,7 +680,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-en.js</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -672,7 +695,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-gr.js</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -687,7 +710,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-store.js</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -702,7 +725,7 @@
     <url>
       <loc>http://localhost:4000/categories/exoplanets/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -717,7 +740,7 @@
     <url>
       <loc>http://localhost:4000/categories/science/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -732,7 +755,7 @@
     <url>
       <loc>http://localhost:4000/categories/discoveries/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -792,7 +815,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -807,7 +830,7 @@
     <url>
       <loc>http://localhost:4000/page2/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -822,7 +845,7 @@
     <url>
       <loc>http://localhost:4000/page3/</loc>
       
-        <lastmod>2023-08-15T10:58:52-04:00</lastmod>
+        <lastmod>2023-08-16T11:00:21-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
