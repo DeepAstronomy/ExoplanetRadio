@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "KELT-9b: The Hottest Known Exoplanet
+title:  "KELT-9b: The Hottest Known Exoplanet"
 file: https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3
 duration: "04:00"
 length: "5589417"
