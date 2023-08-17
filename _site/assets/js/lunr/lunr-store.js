@@ -119,15 +119,15 @@ var store = [{
         "url": "/science/direct-imaging-exoplanets/",
         "teaser": null
       },{
-        "title": "JWST Takes First Direct Image of an Exoplanet",
-        "excerpt":"Episode for August 15th, 2023 Download The launch and deployment of the James Webb Space Telescope in July 2022, marked the beginning of a new era in exoplanet science. Never before had humanity launched a more powerful and technologically advanced instrument into orbit that had the capabilities that JWST does....","categories": ["discoveries"],
-        "tags": [],
-        "url": "/discoveries/jwst-takes-first-direct-image-exoplanet/",
-        "teaser": null
-      },{
         "title": "TRAPPIST-1d: A World on the Edge of Life",
         "excerpt":"Episode for August 15th, 2023 Download Tucked inside a quiet solar system, in the area of sky outlined by the constellation Aquarius, orbits a planet named TRAPPIST-1d, the third of seven planets in a system positioned 41 light years from our vantage point. TRAPPIST-1d is a rocky, Earth-like planet, meaning...","categories": ["exoplanets"],
         "tags": [],
         "url": "/exoplanets/trappist1d-world-edge-of-life/",
+        "teaser": null
+      },{
+        "title": "JWST Takes First Direct Image of an Exoplanet",
+        "excerpt":"Episode for August 16th, 2023 Download The launch and deployment of the James Webb Space Telescope in July 2022, marked the beginning of a new era in exoplanet science. Never before had humanity launched a more powerful and technologically advanced instrument into orbit that had the capabilities that JWST does....","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/jwst-takes-first-direct-image-exoplanet/",
         "teaser": null
       }]
