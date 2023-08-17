@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/jwst-takes-first-direct-image-exoplanet/",
         "teaser": null
+      },{
+        "title": "HAt-P-67 b: The Largest Exoplanet Known",
+        "excerpt":"Episode for August 17th, 2023 Download Exoplanet astronomy is a new science, astronomers have only confirmed there are planets around other stars only 31 years ago with the discovery of two rocky planets orbiting a type of neutron star known as a pulsar in 1992. It has been an amazing...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/largest-known-exoplanet/",
+        "teaser": null
       }]
