@@ -10,7 +10,7 @@ host: "Tony Darnell"
 episode: "22"
 season: "1"
 keywords: "astronomy, exoplanets, largest exoplanet"
-categories: discoveries
+categories: exoplanets
 description: "
 HAT-P-67-b seems to fit the bill.  It is 1,200 light years from Earth and has a radius that is a little over twice that of Jupiters’.  It orbits its host star very closely, only 10 million kilometers away and has a year that is almost 5 days long.  The star itself,  HAT-P-67, is an F-type star that is one and a half times the mass of the Sun and about two and a half times larger"
 header:
@@ -34,7 +34,7 @@ It has been an amazing ride since then.  As of today, we’ve discovered over 5,
 
 Whenever humans start cataloging and classifying things, whether it be plants, animals, stars or exoplanets, we naturally become interested in the extrema: what is the smallest thing found, what’s the largest?  So, in the spirit of being human, let’s take a look at the largest exoplanet found so far.
 
-According to the NASA exoplanet archive, HAT-P-67 b holds the distinction of being the largest exoplanet in terms of size.  With exoplanet classification, one always needs to be careful - especially when it comes to size and mass - because there is a fuzzy boundary with large planets where if they become too large, they are considered a brown dwarf star.  This is a body that almost made it to star status but doesn’t have enough mass or material for nuclean fusion to take place.
+According to the NASA exoplanet archive, HAT-P-67 b holds the distinction of being the largest exoplanet in terms of size.  With exoplanet classification, one always needs to be careful - especially when it comes to size and mass - because there is a fuzzy boundary with large planets where if they become too large, they are considered a brown dwarf star.  This is a body that almost made it to star status but doesn’t have enough mass or material for nuclear fusion to take place.
 
 HAT-P-67-b seems to fit the bill.  It is 1,200 light years from Earth and has a radius that is a little over twice that of Jupiters’.  It orbits its host star very closely, only 10 million kilometers away and has a year that is almost 5 days long.  The star itself,  HAT-P-67, is an F-type star that is one and a half times the mass of the Sun and about two and a half times larger.
 

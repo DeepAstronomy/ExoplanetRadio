@@ -24,20 +24,20 @@
 		
 
         <item>
-            <title>HAt-P-67 b: The Largest Exoplanet Known</title>
+            <title>HAT-P-67 b: The Largest Exoplanet Known</title>
 	    <itunes:author>Tony Darnell</itunes:author>
-            <itunes:subtitle>Exoplanet Radio: HAt-P-67 b: The Largest Exoplanet Known</itunes:subtitle>
+            <itunes:subtitle>Exoplanet Radio: HAT-P-67 b: The Largest Exoplanet Known</itunes:subtitle>
             <itunes:summary></itunes:summary>
 	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
             <enclosure url="https://archive.org/download/022-the-largest-exopplanet-final/022_TheLargestExopplanet_final.mp3" length="5434888" type="audio/mp3"/>
-	    <guid isPermaLink="true">http://localhost:4000/discoveries/largest-known-exoplanet/</guid>
-	    <link>http://localhost:4000/discoveries/largest-known-exoplanet/</link>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/largest-known-exoplanet/</guid>
+	    <link>http://localhost:4000/exoplanets/largest-known-exoplanet/</link>
             <pubDate>Thu, 17 Aug 2023 00:00:00 -0400</pubDate>
 	    <itunes:episode>22</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>  HAT-P-67-b seems to fit the bill.  It is 1,200 light years from Earth and has a radius that is a little over twice that of Jupiters’.  It orbits its host star very closely, only 10 million kilometers away and has a year that is almost 5 days long.  The star itself,  HAT-P-67, is an F-type star that is one and a half times the mass of the Sun and about two and a half times larger Show Notes Available at http://localhost:4000/discoveries/largest-known-exoplanet/.</description>
+            <description>  HAT-P-67-b seems to fit the bill.  It is 1,200 light years from Earth and has a radius that is a little over twice that of Jupiters’.  It orbits its host star very closely, only 10 million kilometers away and has a year that is almost 5 days long.  The star itself,  HAT-P-67, is an F-type star that is one and a half times the mass of the Sun and about two and a half times larger Show Notes Available at http://localhost:4000/exoplanets/largest-known-exoplanet/.</description>
             <itunes:keywords>astronomy, exoplanets, largest exoplanet</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
