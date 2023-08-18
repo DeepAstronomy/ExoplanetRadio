@@ -136,4 +136,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/largest-known-exoplanet/",
         "teaser": null
+      },{
+        "title": "KELT-9b: The Hottest Known Exoplanet",
+        "excerpt":"Episode for August 18th, 2023 Download In this episode, we are going to take a look at an extreme planet. Kelt-9b is a gas giant planet that orbits a star 670 light-years from Earth. It is so close to its star that its dayside temperature is 7,800 degrees Fahrenheit (4,300...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/kelt9b-hottest-known-exoplanet/",
+        "teaser": null
       }]

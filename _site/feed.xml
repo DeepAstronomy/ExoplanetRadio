@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-17T19:34:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">HAT-P-67 b: The Largest Exoplanet Known</title><link href="http://localhost:4000/exoplanets/largest-known-exoplanet/" rel="alternate" type="text/html" title="HAT-P-67 b: The Largest Exoplanet Known" /><published>2023-08-17T00:00:00-04:00</published><updated>2023-08-17T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/largest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/largest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-18T07:59:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">KELT-9b: The Hottest Known Exoplanet</title><link href="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/" rel="alternate" type="text/html" title="KELT-9b: The Hottest Known Exoplanet" /><published>2023-08-18T00:00:00-04:00</published><updated>2023-08-18T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 18th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In this episode, we are going to take a look at an extreme planet.&lt;/p&gt;
+
+&lt;p&gt;Kelt-9b is a gas giant planet that orbits a star 670 light-years from Earth. It is so close to its star that its dayside temperature is 7,800 degrees Fahrenheit (4,300 degrees Celsius), hotter than some stars. This heat is so intense that it rips apart the molecules in the planet’s atmosphere, including hydrogen gas.&lt;/p&gt;
+
+&lt;p&gt;But its star, called KELT-9, is even hotter – a blue A-type star that is likely unraveling the planet through evaporation.  The KELT-9 is only 300 million years old, which is young for a star. It is more than twice as large, and nearly twice as hot, as our sun. Given that the planet’s atmosphere is constantly blasted with high levels of ultraviolet radiation, the planet may even be shedding a tail of evaporated planetary material like a comet.&lt;/p&gt;
+
+&lt;p&gt;The discovery of Kelt-9b was announced in 2017 by a team of astronomers using the Kilodegree Extremely Little Telescope (KELT) system. The KELT system is a network of two robotic telescopes that are used to search for exoplanets.&lt;/p&gt;
+
+&lt;p&gt;Kelt-9b is a very massive planet, with a mass that is about three times that of Jupiter. The heat is caused by the proximity of the planet to its star. Kelt-9b orbits its star in just 36 hours, which means that it is constantly bathed in the star’s heat.  The planet is also unusual in that it orbits perpendicular to the spin axis of the star. That would be analogous to the planet orbiting perpendicular to the plane of our solar system.&lt;/p&gt;
+
+&lt;p&gt;The extreme heat of Kelt-9b has a profound effect on its atmosphere. The heat is so intense that it rips apart the molecules in the atmosphere, including hydrogen gas. This process is called photodissociation. The broken-up atoms then flow to the nightside of the planet, where it is cooler. On the nightside, the atoms can recombine to form molecules again.&lt;/p&gt;
+
+&lt;p&gt;With each orbit, KELT-9 b twice experiences the full range of stellar temperatures, producing what amounts to a peculiar seasonal sequence. The planet experiences “summer” when it swings over each hot pole and “winter” when it passes over the star’s cooler midsection. So KELT-9 b experiences two summers and two winters every orbit, with each season about nine hours.&lt;/p&gt;
+
+&lt;p&gt;This process is happening constantly on Kelt-9b, which means that the planet’s atmosphere is constantly being recycled. This makes it very difficult for any life to exist on the planet.&lt;/p&gt;
+
+&lt;p&gt;The study of Kelt-9b and other hot Jupiters is helping astronomers to better understand the formation and evolution of exoplanets. It is also helping them to learn more about the limits of habitability in the universe.&lt;/p&gt;
+
+&lt;p&gt;In addition to being the hottest exoplanet known, Kelt-9b is also one of the brightest. This makes it a valuable target for further study. Astronomers are using telescopes like the James Webb Space Telescope to learn more about the atmosphere of Kelt-9b.&lt;/p&gt;
+
+&lt;p&gt;The study of Kelt-9b is just one example of the exciting discoveries that are being made in the field of exoplanet research. As astronomers continue to study these distant worlds, they are learning more about the diversity of planets that exist beyond our solar system. This knowledge is helping us to better understand our own place in the universe.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Kelt-9b is a gas giant planet that orbits a star 670 light-years from Earth. It is so close to its star that its dayside temperature is 7,800 degrees Fahrenheit (4,300 degrees Celsius), hotter than some stars. This heat is so intense that it rips apart the molecules in the planet&apos;s atmosphere, including hydrogen gas</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/KELT-9b.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/KELT-9b.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HAT-P-67 b: The Largest Exoplanet Known</title><link href="http://localhost:4000/exoplanets/largest-known-exoplanet/" rel="alternate" type="text/html" title="HAT-P-67 b: The Largest Exoplanet Known" /><published>2023-08-17T00:00:00-04:00</published><updated>2023-08-17T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/largest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/largest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for August 17th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -301,39 +338,4 @@
 
 &lt;p&gt;The discovery of exoplanets has opened up a new chapter in our understanding of the universe. We now know that planets are not just a unique feature of our own solar system, but are common throughout the galaxy.&lt;/p&gt;
 
-&lt;p&gt;We are on the cusp of a new era of discovery, and the possibilities are endless. We are on a quest that will hopefully answer some of the most fundamental questions about our place in the universe, and that could also change the course of human history.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">The observations of planets around other stars is very recent and it changed our view of humanity&apos;s place in the universe forever.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png" /><media:content medium="image" url="http://localhost:4000/assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Finding Exoplanets</title><link href="http://localhost:4000/science/finding-exoplanets/" rel="alternate" type="text/html" title="Finding Exoplanets" /><published>2023-08-04T00:00:00-04:00</published><updated>2023-08-04T00:00:00-04:00</updated><id>http://localhost:4000/science/finding-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/finding-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for August 4th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;We are a species of wonder. We have always looked up at the stars and wondered if we are alone in the universe. Are there other worlds out there, with other beings who look up at the stars and wonder about us?&lt;/p&gt;
-
-&lt;p&gt;The search for exoplanets is our best chance of finding out. Exoplanets are planets that orbit stars other than the Sun. They are incredibly faint compared to their parent stars, but scientists have come up with some clever methods to find them.&lt;/p&gt;
-
-&lt;p&gt;One way is to measure the radial velocity of a star. This is the speed at which the star is moving towards or away from us. If a planet is orbiting the star, the gravitational pull of the planet will cause the star to wobble a little bit as it goes around. This wobble can be detected by looking at the movement of the spectrum of the star, measuring the star’s radial velocity.&lt;/p&gt;
-
-&lt;p&gt;Another way to find exoplanets is to look for transits. This is when a planet passes in front of its star, blocking out a little bit of the star’s light.  As the planet passes in front a tiny dip in brightness of the star is measured by very sensitive telescopes.  The amount of light blocked by the star gives us important information, such as the size of the planet, it’s distance from the star as well as the length of time to complete one orbit around the star.&lt;/p&gt;
-
-&lt;p&gt;Recently, it has become possible to use direct imaging to find exoplanets. This requires some of the best telescopes ever built and very sophisticated processing techniques, but optics, detectors and computer software have become so good that we can actually see the planets themselves. This is the most difficult method of finding exoplanets, but it’s the only way to see what they actually look like.&lt;/p&gt;
-
-&lt;p&gt;Microlensing is also used by astronomers to look for the temporary brightening of a star caused by the gravitational lensing of a passing planet.  As a relatively dark planet passes in front of a star, its gravitational field causes the star to brighten as the light passes by. This brightening is very small, but it can be detected with sensitive telescopes.&lt;/p&gt;
-
-&lt;p&gt;There are a few other methods that scientists use to find exoplanets, but these are the most common. As technology improves, we’re likely to discover more and more exoplanets using a variety of methods.&lt;/p&gt;
-
-&lt;p&gt;So far, scientists have discovered over 5,000 exoplanets. And they’re finding more all the time. We’re learning that there are all sorts of exoplanets out there, from gas giants to rocky worlds that could potentially support life.&lt;/p&gt;
-
-&lt;p&gt;The search for exoplanets is one of the most exciting and inspiring quests in human history. And who knows what we might discover in the years to come? We might find Earth-like planets that could potentially support life. We might even find evidence of extraterrestrial intelligence.&lt;/p&gt;
-
-&lt;p&gt;The search for exoplanets is a search for our place in the universe. It’s a search for our destiny.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">How do astronomers find exoplanets? This episode explores the various ways planets around other stars reveal themselves.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/AlienLandscapeCartoon.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/AlienLandscapeCartoon.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;We are on the cusp of a new era of discovery, and the possibilities are endless. We are on a quest that will hopefully answer some of the most fundamental questions about our place in the universe, and that could also change the course of human history.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">The observations of planets around other stars is very recent and it changed our view of humanity&apos;s place in the universe forever.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png" /><media:content medium="image" url="http://localhost:4000/assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

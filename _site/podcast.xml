@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>KELT-9b: The Hottest Known Exoplanet</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: KELT-9b: The Hottest Known Exoplanet</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3" length="5589417" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/</guid>
+	    <link>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/</link>
+            <pubDate>Fri, 18 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>23</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Kelt-9b is a gas giant planet that orbits a star 670 light-years from Earth. It is so close to its star that its dayside temperature is 7,800 degrees Fahrenheit (4,300 degrees Celsius), hotter than some stars. This heat is so intense that it rips apart the molecules in the planet&apos;s atmosphere, including hydrogen gas. Show Notes Available at http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/.</description>
+            <itunes:keywords>astronomy, exoplanets, hottest exoplanet</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>HAT-P-67 b: The Largest Exoplanet Known</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: HAT-P-67 b: The Largest Exoplanet Known</itunes:subtitle>
