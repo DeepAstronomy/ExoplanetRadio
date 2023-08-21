@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "TRAPPIST-1d: A World on the Edge of Life"
+show_date: true
 file: https://archive.org/download/020-trappist-1d-the-edgeof-life-final/020_TRAPPIST-1dTheEdgeofLife_final.mp3
 duration: "04:07"
 length: "5676569"

@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Finding Exoplanets with Direct Imaging"
+show_date: true
 file: https://archive.org/download/019-direct-imaging-exoplanets-final/019_DirectImagingExoplanets_final.mp3
 duration: "03:48"
 length: "5199482"

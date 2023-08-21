@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "JWST Takes First Direct Image of an Exoplanet"
+show_date: true
 file: https://archive.org/download/021-jwstdirectly-image-exoplanet-final/021_JWSTDirectlyImageExoplanet_final.mp3
 duration: "04:07"
 length: "5632636"

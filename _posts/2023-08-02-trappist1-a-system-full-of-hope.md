@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "TRAPPIST-1: A System Full of Hope"
+show_date: true
 file: https://archive.org/download/asystem-full-of-hope-final/ASystemFullOfHope_final.mp3
 duration: "03:33"
 length: "5307045"

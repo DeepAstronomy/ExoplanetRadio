@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "The First Exoplanets: The Discovery That Forever Changed Us"
+show_date: true
 file: https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3
 duration: "03:46"
 length: "5387962"

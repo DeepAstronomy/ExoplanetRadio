@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "HAT-P-67 b: The Largest Exoplanet Known" 
+show_date: true
 file: https://archive.org/download/022-the-largest-exopplanet-final/022_TheLargestExopplanet_final.mp3
 duration: "04:00"
 length: "5434888"

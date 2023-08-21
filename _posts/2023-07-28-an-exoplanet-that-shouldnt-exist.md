@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "An Exoplanet That Shouldn't Exist"
+show_date: true
 file: https://archive.org/download/the-exoplanet-that-shouldnt-exist-final/TheExoplanetThatShouldntExist_final.mp3
 duration: "03:19"
 length: "4448491"

@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Rogue Planets: Not All Exoplanets Orbit Stars"
+show_date: true
 file: https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3
 duration: "02:37"
 length: "3394871"

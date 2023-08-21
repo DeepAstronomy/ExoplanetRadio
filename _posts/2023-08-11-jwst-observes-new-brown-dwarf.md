@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "James Webb Space Telescope Observes New Type of Brown Dwarf"
+show_date: true
 file: https://archive.org/download/018-jwstnew-type-brown-dwarf-final/018_JWSTNewTypeBrownDwarf_final.mp3
 duration: "04:30"
 length: "5803094"

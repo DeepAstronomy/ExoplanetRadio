@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Exoplanets are Everywhere"
+show_date: true
 file: https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3
 duration: "02:33"
 length: "5087281"

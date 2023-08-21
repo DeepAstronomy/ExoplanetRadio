@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Life in the Dark: How Moons of Rogue Planets Could Harbor Life"
+show_date: true
 file: https://archive.org/download/017-life-in-the-dark-final/017_LifeInTheDark_final.mp3
 duration: "04:00"
 length: "5198686"

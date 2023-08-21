@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "JWST Measures Temperature of TRAPPIST-1b"
+show_date: true
 file: https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3
 duration: "03:18"
 length: "4329121"
@@ -9,7 +10,7 @@ block: "no"
 host: "Tony Darnell"
 episode: "6"
 season: "1"
-keywords: "astronomy, exoplanets"
+keywords: "astronomy, exoplanets, james webb space telescope exoplanets"
 categories: discoveries
 description: JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b
 header:

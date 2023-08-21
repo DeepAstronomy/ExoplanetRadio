@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Proxima Centauri-b: The Closest Exoplanet to Earth"
+show_date: true
 file: https://archive.org/download/proxima-b/Proxima_b_final.mp3
 duration: "02:37"
 length: "6300000"

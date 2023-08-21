@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "The First Exoplanet of JWST"
+show_date: true
 file: https://archive.org/download/the-first-exoplanet-of-jwst-final/TheFirstExoplanetOfJWST_final.mp3
 duration: "03:38"
 length: "4927911"
@@ -9,7 +10,7 @@ block: "no"
 host: "Tony Darnell"
 episode: "10"
 season: "1"
-keywords: "astronomy, exoplanets"
+keywords: "astronomy, exoplanets, james webb space telescope exoplanets"
 categories: discoveries
 description: The Webb Space Telescope observed this planet as it passed between the telescope and the host star, LHS 475.  By watching the spectra of that star over two orbits, astronomers were able to measure the diameter of LHS 475b and get an idea of its density.  This is the first exoplanet confirmed by the James Webb space telescope.
 header:

@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "A Giant Planet Found Orbiting a Small Star"
+show_date: true
 file: https://archive.org/download/015-giant-planet-small-star-final/015_GiantPlanetSmallStar_final.mp3
 duration: "03:33"
 length: "4655561"

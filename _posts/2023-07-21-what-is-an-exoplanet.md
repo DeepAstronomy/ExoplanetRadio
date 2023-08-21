@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "What is an Exoplanet?"
+show_date: true
 file: https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3
 duration: "03:45"
 length: "9014787"

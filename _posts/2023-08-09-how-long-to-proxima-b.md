@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "How Long Would it Take to Travel to Proxima Centauri b?"
+show_date: true
 file: https://archive.org/download/016-travel-time-proximab-final/016_TravelTimeProximab_final.mp3
 duration: "04:33"
 length: "5931882"

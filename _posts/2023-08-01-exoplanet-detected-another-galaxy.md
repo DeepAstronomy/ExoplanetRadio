@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Exoplanet Detected in Another Galaxy?"
+show_date: true
 file: https://archive.org/download/exoplanet-another-galaxy-final/ExoplanetAnotherGalaxy_final.wav
 duration: "04:02"
 length: "62182504"

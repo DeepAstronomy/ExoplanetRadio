@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Welcome to Exoplanet Radio"
+show_date: true
 file: https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3
 duration: "01:51"
 length: "2538614"

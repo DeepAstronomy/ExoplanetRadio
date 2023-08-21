@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Finding Exoplanets"
+show_date: true
 file: https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3
 duration: "04:01"
 length: "5411371"
