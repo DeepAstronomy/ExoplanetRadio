@@ -17,6 +17,10 @@ excerpt: "About Exoplanet Radio"
 permalink: /about/
 #tagline: "tagline"
 ---
+# This Site is Written by a Person
+
+Let's get this out of the way first: this site is not automatically generated, scraped from other websites, algorithmically correct, nor written by an AI.  This site is written, episodes recorded, and site maintained by me, the guy on the left margin of this page.  While this is a one-man operation for now, I do not plan for it to stay that way.  Deep Astronomy is growing, we are creating new projects and content all the time and all of it by human beings who are thinking about what gets published.  OK, back to our regularly scheduled About Page:
+
 # What's All This Then?
 
 As of this writing, things are just getting started so please [Contact Us](/contact/) with any questions or ideas for episodes.  We are excited to be producing this new podcast and can't wait to hear what people think!

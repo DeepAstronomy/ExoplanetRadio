@@ -304,7 +304,7 @@
             <itunes:duration>03:38</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description> The Webb Space Telescope observed this planet as it passed between the telescope and the host star, LHS 475.  By watching the spectra of that star over two orbits, astronomers were able to measure the diameter of LHS 475b and get an idea of its density.  This is the first exoplanet confirmed by the James Webb space telescope. Show Notes Available at http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:keywords>astronomy, exoplanets, james webb space telescope exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
@@ -380,7 +380,7 @@
             <itunes:duration>03:18</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description> JWST has turned its Instruments of the fascinating TRAPPIST-1 system and made its first set of observations by measuring the surface temperature of TRAPPIST-1b Show Notes Available at http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/.</description>
-            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:keywords>astronomy, exoplanets, james webb space telescope exoplanets</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
