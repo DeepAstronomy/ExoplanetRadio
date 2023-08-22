@@ -142,4 +142,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/kelt9b-hottest-known-exoplanet/",
         "teaser": null
+      },{
+        "title": "How Common are Habitable Exoplanets?",
+        "excerpt":"Episode for August 22nd, 2023 Download One of the big questions we are trying to answer in exoplanet astronomy is: Just how common are habitable planets? We already know that exoplanets themselves are extremely common: Astronomers tell us there are on average 1.6 planets for every star in our galaxy,...","categories": ["science"],
+        "tags": [],
+        "url": "/science/how-common-habitable-exoplanets/",
+        "teaser": null
       }]

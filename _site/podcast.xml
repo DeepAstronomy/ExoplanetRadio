@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>How Common are Habitable Exoplanets?</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How Common are Habitable Exoplanets?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/024-how-common-exoplanets-final/024_HowCommonExoplanets_final.mp3" length="5492883" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/how-common-habitable-exoplanets/</guid>
+	    <link>http://localhost:4000/science/how-common-habitable-exoplanets/</link>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>24</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> One of the big questions we are trying to answer in exoplanet astronomy is: Just how common are habitable planets?  We already know that exoplanets themselves are extremely common: Astronomers tell us there are on average 1.6 planets for every star in our galaxy, so there are more planets than stars out there. But what about life?  Habitable exoplanets? Show Notes Available at http://localhost:4000/science/how-common-habitable-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets, habitable exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>KELT-9b: The Hottest Known Exoplanet</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: KELT-9b: The Hottest Known Exoplanet</itunes:subtitle>

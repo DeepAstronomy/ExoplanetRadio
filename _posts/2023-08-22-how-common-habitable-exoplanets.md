@@ -14,13 +14,13 @@ keywords: "astronomy, exoplanets, habitable exoplanets"
 categories: science
 description: "One of the big questions we are trying to answer in exoplanet astronomy is: Just how common are habitable planets?  We already know that exoplanets themselves are extremely common: Astronomers tell us there are on average 1.6 planets for every star in our galaxy, so there are more planets than stars out there. But what about life?  Habitable exoplanets?"
 header:
-  overlay_image: /assets/images/exoplanets/WaterMoonAroundGasGiant.jpeg
+  overlay_image: /assets/images/WaterMoonAroundGasGiant.jpeg
   actions:
     - label: "All Episodes"
       url: /episodes/
 excerpt: "How common are habitable exoplanets?  Where's the life? Astronomers are using all tools at their disposal to answer this question."
 author_profile: true
-image: /assets/images/exoplanets/WaterMoonAroundGasGiant.jpeg
+image: /assets/images/WaterMoonAroundGasGiant.jpeg
 sidebar: 
   nav: "latest"
 classes: wide

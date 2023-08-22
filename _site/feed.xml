@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-21T07:47:22-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">KELT-9b: The Hottest Known Exoplanet</title><link href="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/" rel="alternate" type="text/html" title="KELT-9b: The Hottest Known Exoplanet" /><published>2023-08-18T00:00:00-04:00</published><updated>2023-08-18T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-22T09:43:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">How Common are Habitable Exoplanets?</title><link href="http://localhost:4000/science/how-common-habitable-exoplanets/" rel="alternate" type="text/html" title="How Common are Habitable Exoplanets?" /><published>2023-08-22T00:00:00-04:00</published><updated>2023-08-22T00:00:00-04:00</updated><id>http://localhost:4000/science/how-common-habitable-exoplanets</id><content type="html" xml:base="http://localhost:4000/science/how-common-habitable-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for August 22nd, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/024-how-common-exoplanets-final/024_HowCommonExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/024-how-common-exoplanets-final/024_HowCommonExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;One of the big questions we are trying to answer in exoplanet astronomy is: Just how common are habitable planets?  We already know that exoplanets themselves are extremely common: Astronomers tell us there are on average 1.6 planets for every star in our galaxy, so there are more planets than stars out there.&lt;/p&gt;
+
+&lt;p&gt;That by itself is pretty amazing, but what we really want to know is, where’s the life?  How common are planets that could potentially support life?&lt;/p&gt;
+
+&lt;p&gt;The answer so far has eluded us, and the news reports and studies coming out are a bit contradictory.  For example, as this recording is made, in July, 2023, over the course of just three days two studies were announced.  One is titled:&lt;/p&gt;
+
+&lt;p&gt;“Potentially Habitable Worlds are 100x times more common than We Thought” and a few day later: “Latest James Webb Space Telescope images hint that habitable planets are not common”&lt;/p&gt;
+
+&lt;p&gt;From these headlines, it’s pretty clear that we are still sorting out how common habitability is, which is understandable because we’ve only just started studying exoplanets.&lt;/p&gt;
+
+&lt;p&gt;What are astronomers looking for and how are they doing it?&lt;/p&gt;
+
+&lt;p&gt;Astronomers are using every tool at their disposal to understand the habitability question of exoplanets.  Space Telescopes like Webb, Spitzer, Hubble, Kepler, TESS, and many others are setting their sites on finding and confirming exoplanets, arranging them by size and whether they exist in a habitable zone of their host star.&lt;/p&gt;
+
+&lt;p&gt;Ground-based telescopes are measuring the wobble in the spectra of stars to determine planet masses and orbital periods.&lt;/p&gt;
+
+&lt;p&gt;But the real breakthrough will be measuring exoplanets directly and observing their disks when possible.  Right now, only the James Webb Space Telescope stands equipped to make those measurements.  Its mirror has the resolution necessary to see the exoplanets but more importantly it has a spectrograph that can measure the starlight as it travels through any atmosphere that might exist and give hints as to what it’s made of.&lt;/p&gt;
+
+&lt;p&gt;The main things JWST can show us with respect to the habitability of a given exoplanet are: whether it has an atmosphere, if it has one, what are some of the major chemical components of that atmosphere, including water, and crucially: are there any biosignatures in the atmosphere?&lt;/p&gt;
+
+&lt;p&gt;Biosignatures are those elements that are produced by life and accumulate in an atmosphere to detectable levels.  What are they?  Astronomers are taking the approach that since we know what compounds life on Earth produces, let’s look for those first.  What might the spectrum of Earth look like if it was transplanted to another, slightly different, Earth-like planet?&lt;/p&gt;
+
+&lt;p&gt;Things like an oxygen-rich atmosphere, certain methane compounds, ammonia and carbon monoxide are good things to see for a start.  The trick for JWST will be getting enough orbits to make good measurements.  Since time is precious on JWST, this means that looking for planets that go around their stars quickly, and a primary candidate is the fascinating system of TRAPPIST-1.  Home to several worlds that could harbor life, are close to their star and orbit quicky.&lt;/p&gt;
+
+&lt;p&gt;So, let’s not be too hard on astronomers this early in the search.  Right now our observations are preliminary and rough.  As they improve, our understanding of whether habitable planets are common or not will only get better.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">How common are habitable exoplanets? Where&apos;s the life? Astronomers are using all tools at their disposal to answer this question.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/WaterMoonAroundGasGiant.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/WaterMoonAroundGasGiant.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">KELT-9b: The Hottest Known Exoplanet</title><link href="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/" rel="alternate" type="text/html" title="KELT-9b: The Hottest Known Exoplanet" /><published>2023-08-18T00:00:00-04:00</published><updated>2023-08-18T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for August 18th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -305,37 +346,4 @@
 
 &lt;p&gt;The discovery of TOI-4860 b is a reminder that we still have a lot to learn about how planets form. This discovery is just one more piece of the puzzle, and it will be exciting to see what else we learn in the future.&lt;/p&gt;
 
-&lt;p&gt;Finding planets in locations we don’t expect and in regions that defy our current understanding is an important reason why astronomers scan the heavens in search of other worlds.  The universe is a vast and mysterious place and we have only just begun the quest for life in the universe and it all starts with these observations, performed by vigilant ground and space-based telescopes.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Finding planets in locations we don’t expect and in regions that defy our current understanding is an important reason why astronomers scan the heavens in search of other worlds</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/GenericGasGiant.png" /><media:content medium="image" url="http://localhost:4000/assets/images/GenericGasGiant.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The First Exoplanets: The Discovery That Forever Changed Us</title><link href="http://localhost:4000/discoveries/the-first-exoplanets/" rel="alternate" type="text/html" title="The First Exoplanets: The Discovery That Forever Changed Us" /><published>2023-08-07T00:00:00-04:00</published><updated>2023-08-07T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/the-first-exoplanets</id><content type="html" xml:base="http://localhost:4000/discoveries/the-first-exoplanets/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for August 7th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Our galaxy likely holds hundreds of billions of planets around other stars but when and how did we begin finding them?  What was the first exoplanet detected?  It turns out that the first discovery wasn’t one, but two planets in the same system.&lt;/p&gt;
-
-&lt;p&gt;The steady drumbeat of exoplanet discovery began in 1992 when astronomers Aleksander Wolszczan and Dale Frail found two rocky planets orbiting a type of neutron star known as a pulsar, a rapidly spinning stellar corpse that pulses with millisecond bursts of searing radiation.&lt;/p&gt;
-
-&lt;p&gt;Measuring slight changes in the timing of the pulses is what allowed scientists to reveal the two rocky planets in orbit around the pulsar.The planets were named Poltergeist and Phobetor, and they were about the size of Earth and Neptune, respectively. They orbited the pulsar at distances of about where the asteroid belt and Uranus is in our solar system.&lt;/p&gt;
-
-&lt;p&gt;These first two planets found by humans on Earth are not habitable. They are too close to the pulsar, and are constantly bombarded by radiation. However, their discovery showed that planets can exist around other stars, and it opened up the possibility that there may be habitable planets out there.&lt;/p&gt;
-
-&lt;p&gt;Finding these planets around this spinning star essentially opened the floodgates, and hinted that there must be planets everywhere because if we can find planets around a neutron star, which is a very harsh environment, then the planet production process must be very robust.&lt;/p&gt;
-
-&lt;p&gt;A little bit later astronomers started looking for planets like ours and the first planet detected around a Sun-like star was in 1995, and turned out to be a hot Jupiter: a gas giant about half the mass of our own Jupiter in an extremely close, four-day orbit around its star. A year on this planet, in other words, lasts only four days.&lt;/p&gt;
-
-&lt;p&gt;From these exciting beginnings, over 5,000 exoplanets have since been discovered and some of them are located in the habitable zone of their stars, which is the region around a star where liquid water could exist on the surface of a planet. Some of these planets are even Earth-sized, which makes them even more likely to be habitable.&lt;/p&gt;
-
-&lt;p&gt;The discovery of exoplanets has opened up a new chapter in our understanding of the universe. We now know that planets are not just a unique feature of our own solar system, but are common throughout the galaxy.&lt;/p&gt;
-
-&lt;p&gt;We are on the cusp of a new era of discovery, and the possibilities are endless. We are on a quest that will hopefully answer some of the most fundamental questions about our place in the universe, and that could also change the course of human history.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">The observations of planets around other stars is very recent and it changed our view of humanity&apos;s place in the universe forever.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png" /><media:content medium="image" url="http://localhost:4000/assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Finding planets in locations we don’t expect and in regions that defy our current understanding is an important reason why astronomers scan the heavens in search of other worlds.  The universe is a vast and mysterious place and we have only just begun the quest for life in the universe and it all starts with these observations, performed by vigilant ground and space-based telescopes.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Finding planets in locations we don’t expect and in regions that defy our current understanding is an important reason why astronomers scan the heavens in search of other worlds</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/GenericGasGiant.png" /><media:content medium="image" url="http://localhost:4000/assets/images/GenericGasGiant.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
