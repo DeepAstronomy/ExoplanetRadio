@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Trillions of Worlds Without Stars</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Trillions of Worlds Without Stars</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/025-trillions-of-worlds-without-stars-final/025_TrillionsOfWorldsWithoutStars_final.mp3" length="5677714" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/trillions-of-worlds-without-stars/</guid>
+	    <link>http://localhost:4000/discoveries/trillions-of-worlds-without-stars/</link>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>25</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> The nine year survey recently completed by astronomers found one Earth-sized rogue planet and the second discovery of its kind.  The study also analyzed the survey data and concluded that rogue planets are more abundant than all other planets in our galaxy. Show Notes Available at http://localhost:4000/discoveries/trillions-of-worlds-without-stars/.</description>
+            <itunes:keywords>astronomy, exoplanets, rogue exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>How Common are Habitable Exoplanets?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Common are Habitable Exoplanets?</itunes:subtitle>

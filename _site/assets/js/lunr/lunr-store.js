@@ -148,4 +148,10 @@ var store = [{
         "tags": [],
         "url": "/science/how-common-habitable-exoplanets/",
         "teaser": null
+      },{
+        "title": "Trillions of Worlds Without Stars",
+        "excerpt":"Episode for August 23rd, 2023 Download Astronomers estimate that there are more free roaming planets in our galaxy than there are planets in orbit around stars. In fact, rogue exoplanets - planets with no star whatsoever - far outnumber all other planets in our galaxy, by 20 times. Trillions of...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/trillions-of-worlds-without-stars/",
+        "teaser": null
       }]
