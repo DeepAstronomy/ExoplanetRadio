@@ -154,4 +154,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/trillions-of-worlds-without-stars/",
         "teaser": null
+      },{
+        "title": "Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not",
+        "excerpt":"Episode for August 24th, 2023 Download A team of astronomers used the James Webb Space Telescope to study the exoplanet TRAPPIST-1 c, which is one of seven rocky planets orbiting an ultracool red dwarf star 40 light-years from Earth. The team found that the planet’s atmosphere, if it exists at...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/jwst-trappist1c-no-thick-atmosphere/",
+        "teaser": null
       }]

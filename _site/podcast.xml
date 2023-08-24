@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/026-jwsttrappist-1c-final_202308/026_JWSTTRAPPIST-1c_final.mp3" length="5561711" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/</guid>
+	    <link>http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/</link>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>26</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> A team of astronomers used the James Webb Space Telescope to study the exoplanet TRAPPIST-1 c, which is one of seven rocky planets orbiting an ultracool red dwarf star 40 light-years from Earth. The team found that the planet&apos;s atmosphere, if it exists at all, is extremely thin Show Notes Available at http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/.</description>
+            <itunes:keywords>astronomy, exoplanets, trappist-1c</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Trillions of Worlds Without Stars</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Trillions of Worlds Without Stars</itunes:subtitle>
