@@ -160,4 +160,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/jwst-trappist1c-no-thick-atmosphere/",
         "teaser": null
+      },{
+        "title": "How the Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets",
+        "excerpt":"Episode for August 25th, 2023 Download We live in a golden age of exoplanet discovery. Not only are we searching for and finding new worlds around other stars all the time, but as our technology improves we are learning more about these exotic places and inexorably bearing down on the...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/nancy-grace-roman-space-telescope-exoplanets/",
+        "teaser": null
       }]

@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>How the Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How the Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/026-jwsttrappist-1c-final_202308/026_JWSTTRAPPIST-1c_final.mp3" length="5552335" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/nancy-grace-roman-space-telescope-exoplanets/</guid>
+	    <link>http://localhost:4000/discoveries/nancy-grace-roman-space-telescope-exoplanets/</link>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>27</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> The next big milestone in our study of exoplanets is  a telescope that can see beyond the limits of our eyes, beyond the boundaries of our solar system, beyond the frontiers of our knowledge. A telescope that can reveal the secrets of the stars and the mysteries of the planets. A telescope that can take us closer to finding another home in the cosmos Show Notes Available at http://localhost:4000/discoveries/nancy-grace-roman-space-telescope-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets, roman space telescope</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not</itunes:subtitle>

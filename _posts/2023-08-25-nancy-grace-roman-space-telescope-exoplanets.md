@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "How the Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets"
+title:  "The Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets"
 show_date: true
-file: https://archive.org/download/026-jwsttrappist-1c-final_202308/026_JWSTTRAPPIST-1c_final.mp3
+file: https://archive.org/download/027-roman-space-telescope-final/027_RomanSpaceTelescope_final.mp3
 duration: "04:00"
 length: "5552335"
 explicit: "no"
@@ -11,7 +11,7 @@ host: "Tony Darnell"
 episode: "27"
 season: "1"
 keywords: "astronomy, exoplanets, roman space telescope"
-categories: discoveries
+categories: science
 description: "The next big milestone in our study of exoplanets is  a telescope that can see beyond the limits of our eyes, beyond the boundaries of our solar system, beyond the frontiers of our knowledge. A telescope that can reveal the secrets of the stars and the mysteries of the planets. A telescope that can take us closer to finding another home in the cosmos"
 header:
   overlay_image: /assets/images/RomanSpaceTelescope.jpg
