@@ -14,13 +14,13 @@ keywords: "astronomy, exoplanets, starshade"
 categories: science
 description: "Most of the 5000 exoplanets discovered so far have been found using methods that don’t actually see the planet at all.  Brightness dimmings and star wobbles only get us so far.  They limit our ability to study them in detail and astronomers are working on gigantic starshades to resolve planets directly"
 header:
-  overlay_image: /assets/images/starshade-concept.jpg
+  overlay_image: /assets/images/StarshadeConcept.jpg
   actions:
     - label: "All Episodes"
       url: /episodes/
 excerpt: "Most of the 5000 exoplanets discovered so far have been found using methods that don’t actually see the planet at all.  Brightness dimmings and star wobbles only get us so far.  They limit our ability to study them in detail and astronomers are working on gigantic starshades to resolve planets directly"
 author_profile: true
-image: /assets/images/starshae-concept.jpg
+image: /assets/images/StarshadeConcept.jpg
 sidebar: 
   nav: "latest"
 classes: wide
