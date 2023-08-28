@@ -166,4 +166,10 @@ var store = [{
         "tags": [],
         "url": "/science/nancy-grace-roman-space-telescope-exoplanets/",
         "teaser": null
+      },{
+        "title": "How Starshades Can Help Us Find New Worlds",
+        "excerpt":"Episode for August 28th, 2023 Download Most of the 5000 exoplanets discovered so far have been found using methods that don’t actually see the planet at all. Brightness dimmings and star wobbles only get us so far. They limit our ability to study them in detail and astronomers are working...","categories": ["science"],
+        "tags": [],
+        "url": "/science/starshades-find-exoplanets/",
+        "teaser": null
       }]

@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>How Starshades Can Help Us Find New Worlds</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How Starshades Can Help Us Find New Worlds</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/028-starshades-final/028_Starshades_final.mp3" length="5442217" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/starshades-find-exoplanets/</guid>
+	    <link>http://localhost:4000/science/starshades-find-exoplanets/</link>
+            <pubDate>Mon, 28 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>28</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Most of the 5000 exoplanets discovered so far have been found using methods that don’t actually see the planet at all.  Brightness dimmings and star wobbles only get us so far.  They limit our ability to study them in detail and astronomers are working on gigantic starshades to resolve planets directly Show Notes Available at http://localhost:4000/science/starshades-find-exoplanets/.</description>
+            <itunes:keywords>astronomy, exoplanets, starshade</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: The Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets</itunes:subtitle>
