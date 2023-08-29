@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Meet TrES-2b: The Planet That Reflects Almost No Light</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Meet TrES-2b: The Planet That Reflects Almost No Light</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/028-starshades-final/028_Starshades_final.mp3" length="5639313" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/tres2b-planet-reflects-no-light/</guid>
+	    <link>http://localhost:4000/exoplanets/tres2b-planet-reflects-no-light/</link>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>29</itunes:episode>
+	    <itunes:season>1</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Here is a planet that is so dark that it reflects less than one percent of the sunlight falling on it. How can a planet be so black? What makes it glow like a burning ember? And what kind of weather does it have? Show Notes Available at http://localhost:4000/exoplanets/tres2b-planet-reflects-no-light/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>How Starshades Can Help Us Find New Worlds</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Starshades Can Help Us Find New Worlds</itunes:subtitle>

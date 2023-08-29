@@ -172,4 +172,10 @@ var store = [{
         "tags": [],
         "url": "/science/starshades-find-exoplanets/",
         "teaser": null
+      },{
+        "title": "Meet TrES-2b: The Planet That Reflects Almost No Light",
+        "excerpt":"Episode for August 29th, 2023 Download Today, we are going to visit TrES-2b, a planet that is so dark that it reflects less than one percent of the sunlight falling on it. How can a planet be so black? What makes it glow like a burning ember? And what kind...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/tres2b-planet-reflects-no-light/",
+        "teaser": null
       }]
