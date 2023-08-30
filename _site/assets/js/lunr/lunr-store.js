@@ -178,4 +178,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/tres2b-planet-reflects-no-light/",
         "teaser": null
+      },{
+        "title": "The Many Earth-Sized Worlds of TOI-700",
+        "excerpt":"Episode for August 30th, 2023 Download One of the most exciting exoplanetary systems discovered so far, and one we’ve talked about many times on Exoplanet Radio, is TRAPPIST-1, a system of of seven planets, all of them rocky and more or less Earth sized, and about three of them are...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/many-worlds-toi-700/",
+        "teaser": null
       }]

@@ -18,8 +18,7 @@ header:
   actions:
     - label: "All Episodes"
       url: /episodes/
-excerpt: "Move over TRAPPIST-1, there a new system that is just as exciting.  TOI-700 is a system of four rock
-y, Earth-sized worlds and some might be habitable"
+excerpt: "Move over TRAPPIST-1, there a new system that is just as exciting.  TOI-700 is a system of four rocky, Earth-sized worlds and some might be habitable"
 author_profile: true
 image: /assets/images/exoplanets/toi700e_art.jpg
 sidebar: 
