@@ -3,7 +3,7 @@ layout: single
 title:  "The Many Earth-Sized Worlds of TOI-700"
 show_date: true
 file: https://archive.org/download/030-toi-700-final/030_TOI-700_final.mp3
-duration: "04:00"
+duration: "05:00"
 length: "5579319"
 explicit: "no"
 block: "no"
