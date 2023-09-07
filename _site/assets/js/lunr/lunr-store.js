@@ -184,4 +184,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/many-worlds-toi-700/",
         "teaser": null
+      },{
+        "title": "Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet",
+        "excerpt":"Episode for September 6th, 2023 Download Astronomers have recently concluded an observation study of the closest exoplanet to Earth, Proxima Centauri b and found that the planet does not transit its star. These observations settle a question that astronomers have been asking since the exoplanet’s discovery in 2016 using the...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/proxima-centauri-b-not-transiting-exoplanet/",
+        "teaser": null
       }]
