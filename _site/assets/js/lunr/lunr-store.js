@@ -190,4 +190,16 @@ var store = [{
         "tags": [],
         "url": "/discoveries/proxima-centauri-b-not-transiting-exoplanet/",
         "teaser": null
+      },{
+        "title": "TESS's Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c",
+        "excerpt":"Episode for September 7th, 2023 Download Human beings have discovered over five thousand five hundred exoplanets. Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun. Some are even closer. Recent...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/TESS-finds-long-period-exoplanet/",
+        "teaser": null
+      },{
+        "title": "What is the Habitable Worlds Observatory?",
+        "excerpt":"Episode for September 8th, 2023 Download There’s no question that humanity is making fast progress in understanding, cataloging and classifying planets around other stars. So far we’ve found over five thousand five hundred of them. But let’s face it, we really want to know, maybe more than anything else, whether...","categories": ["science"],
+        "tags": [],
+        "url": "/science/habitable-worlds-observatory/",
+        "teaser": null
       }]

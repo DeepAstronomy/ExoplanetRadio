@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-06T11:19:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet</title><link href="http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/" rel="alternate" type="text/html" title="Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet" /><published>2023-09-06T00:00:00-04:00</published><updated>2023-09-06T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet</id><content type="html" xml:base="http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-08T11:23:01-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">What is the Habitable Worlds Observatory?</title><link href="http://localhost:4000/science/habitable-worlds-observatory/" rel="alternate" type="text/html" title="What is the Habitable Worlds Observatory?" /><published>2023-09-08T00:00:00-04:00</published><updated>2023-09-08T00:00:00-04:00</updated><id>http://localhost:4000/science/habitable-worlds-observatory</id><content type="html" xml:base="http://localhost:4000/science/habitable-worlds-observatory/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for September 8th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/033-what-is-hwo-final/033_WhatIsHWO_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/033-what-is-hwo-final/033_WhatIsHWO_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There’s no question that humanity is making fast progress in understanding, cataloging and classifying planets around other stars.  So far we’ve found over five thousand five hundred of them.  But let’s face it, we really want to know, maybe more than anything else, whether these planets have any life on them and whether they are habitable for us to, maybe, live on.&lt;/p&gt;
+
+&lt;p&gt;Finding habitable worlds has been a driving passion since we first learned there were other planets out there, and to find them, we are going to need a dedicated instrument that does nothing else but tries to locate and characterize them.&lt;/p&gt;
+
+&lt;p&gt;That’s where the Habitable Worlds Observatory comes in.  NASA says  “HWO is a concept for a NASA flagship mission, as recommended by the 2020 Astrophysics Decadal Survey, that would pursue a breadth of astrophysics goals, including searching for and characterizing potentially habitable planets beyond our solar system.”&lt;/p&gt;
+
+&lt;p&gt;The 2020 Astrophysics Decadal Survey - this is the body that helps astronomers prioritize what science they want to learn over the next ten years and recommends what to build to achieve those science goals.&lt;/p&gt;
+
+&lt;p&gt;They recommended HWO as NASA’s next flagship Astrophysics mission after the Nancy Grace Roman Space Telescope. HWO would be the first NASA mission designed specifically to look for signs of life on potentially habitable exoplanets, all while contributing to our broader understanding of the cosmos.&lt;/p&gt;
+
+&lt;p&gt;Astronomers from different institutions and agencies are convening now to decide what this telescope needs to be able to do in order to fulfill this mission.  This project is just getting started but it’s not starting from scratch.  Much work has already been done planning for another mission with a remarkably similar name: the Habitable Exoplanets Mission or HabEx.&lt;/p&gt;
+
+&lt;p&gt;HabEx was planned with virtually identical science goals in mind and the work done there will most likely be included with HWO.&lt;/p&gt;
+
+&lt;p&gt;But let’s you and I think for a minute, as a start, some of the things the observatory must be able to do, have the angular resolution to resolve the planet, which means that blocking out the light of the star is crucial.  This means HWO will probably have either an onboard coronagraph, or a starshade will be placed between the spacecraft and the star system being studied to block out the host star so we can see the reflected light from the planet.  That’s number 1.&lt;/p&gt;
+
+&lt;p&gt;Number 2: There will undoubtedly be a spectrograph of some sort that allows astronomers to tell if there is an atmosphere, and if so, what it’s made of.  It is that spectrum that will tell us the compounds that exist that might make the exoplanet habitable and if life might already be there.  Astronomers refer to these compounds as biosignatures: things that exist in the air that could only be put there by living organisms.&lt;/p&gt;
+
+&lt;p&gt;While there is no timetable for launch of this amazing mission yet, NASA is starting to get to work on our next flagship mission to study life elsewhere.  After the launch and deployment of the Nancy Grace Roman Space Telescope, the Habitable Worlds Observatory will be our next gateway to finding life on other worlds.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">Finding habitable worlds has been a driving passion since we first learned there were other planets out there, and to find them, we are going to need a dedicated instrument that does nothing else but tries to locate and characterize them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/StarshadeConcept.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/StarshadeConcept.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TESS’s Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c</title><link href="http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/" rel="alternate" type="text/html" title="TESS’s Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c" /><published>2023-09-07T00:00:00-04:00</published><updated>2023-09-07T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet</id><content type="html" xml:base="http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for September 7th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/032-tesslongest-period-planet-final_202309/032_TESSLongestPeriodPlanet_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/032-tesslongest-period-planet-final_202309/032_TESSLongestPeriodPlanet_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Human beings have discovered over five thousand five hundred exoplanets.  Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun.  Some are even closer.  Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days.&lt;/p&gt;
+
+&lt;p&gt;Why are we finding so many toasty worlds, so close to the star?  There are likely just as many planets farther out from their star that orbit with periods measured in hundreds of days, like the Earth does, but the reason we’ve seen so many of these types of planets comes down to the limits of our telescopes and how we are observing them.&lt;/p&gt;
+
+&lt;p&gt;Two of the most popular ways of finding exoplanets right now are the transit and radial velocity methods.  To use them, we have to actually watch the planet move around the star or between us and the star, and waiting around for that to happen is expensive.&lt;/p&gt;
+
+&lt;p&gt;Telescopes are in high demand, and to stare at a star for hundreds of days hoping to see a planet go around is not practical with the way telescope time is allocated, so we are only getting good data from planets that whiz around their star in a short time.  But of course astronomers realize that’s not the whole picture, there are no doubt many long period exoplanets out there, we just have to deploy an observing system capable of finding them.  More on that in a minute.&lt;/p&gt;
+
+&lt;p&gt;Back to TESS: The Transiting Exoplanet Survey Satellite.  It only looks at an area of the sky for about a month before it moves on to other parts of the sky.  The idea was to sacrifice getting complete orbits of planets for partial ones, all the while imaging the entire sky and flagging potential transits as “Objects of Interest” for further study by other telescopes.  TESS has amassed thousands of Objects of Interest, or TOI’s since its launch.&lt;/p&gt;
+
+&lt;p&gt;One of them, TOI-4600 is a rare system containing two long-period planets orbiting a nearby star that is 815 light years from Earth.&lt;/p&gt;
+
+&lt;p&gt;The TESS team discovered that the star hosts an inner planet with an orbit of 82 days, similar to that of Mercury, while a second outer planet circles every 482 days, placing its distance from its star somewhere between the orbits of Earth and Mars.&lt;/p&gt;
+
+&lt;p&gt;Both planets are likely gas giants, similar to Jupiter and Saturn, though the composition of the inner planet may be more of a mix of gas and ice. The two planets bridge the gap between “hot Jupiters” — the toasty, short-orbit planets that make up the majority of exoplanet discoveries — and the much colder, longer-period gas giants in our solar system.&lt;/p&gt;
+
+&lt;p&gt;Astronomers found the longer period planet by stacking up data from past searches of the sky to build up the light curve.  TESS has scanned the entire sky once already.  They also looked at the system using ground-based telescopes to get a fuller picture of the system.&lt;/p&gt;
+
+&lt;p&gt;What TESS is really good at though is for short searches over a wide area of sky.  This method of observing is great for getting these short period exoplanets.  An ideal scenario would be to look at the entire sky for a long time.&lt;/p&gt;
+
+&lt;p&gt;Luckily we have just such a program starting very soon with the Vera Rubin Telescope.  It will survey the entire sky several times a week looking for all sorts of things, one of them being exoplanet transits.  And it will do if for years, allowing astronomers to build a deep view of the heavens over a long time, seeing dips in brightness across the heavens.&lt;/p&gt;
+
+&lt;p&gt;Our window to more worlds around other stars is about to get a lot bigger.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Human beings have discovered over five thousand five hundred exoplanets. Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun. Some are even closer. Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet</title><link href="http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/" rel="alternate" type="text/html" title="Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet" /><published>2023-09-06T00:00:00-04:00</published><updated>2023-09-06T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet</id><content type="html" xml:base="http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for September 6th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -288,74 +362,4 @@
 
 &lt;p&gt;Things like an oxygen-rich atmosphere, certain methane compounds, ammonia and carbon monoxide are good things to see for a start.  The trick for JWST will be getting enough orbits to make good measurements.  Since time is precious on JWST, this means that looking for planets that go around their stars quickly, and a primary candidate is the fascinating system of TRAPPIST-1.  Home to several worlds that could harbor life, are close to their star and orbit quicky.&lt;/p&gt;
 
-&lt;p&gt;So, let’s not be too hard on astronomers this early in the search.  Right now our observations are preliminary and rough.  As they improve, our understanding of whether habitable planets are common or not will only get better.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">How common are habitable exoplanets? Where&apos;s the life? Astronomers are using all tools at their disposal to answer this question.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/WaterMoonAroundGasGiant.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/WaterMoonAroundGasGiant.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">KELT-9b: The Hottest Known Exoplanet</title><link href="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/" rel="alternate" type="text/html" title="KELT-9b: The Hottest Known Exoplanet" /><published>2023-08-18T00:00:00-04:00</published><updated>2023-08-18T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for August 18th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In this episode, we are going to take a look at an extreme planet.&lt;/p&gt;
-
-&lt;p&gt;Kelt-9b is a gas giant planet that orbits a star 670 light-years from Earth. It is so close to its star that its dayside temperature is 7,800 degrees Fahrenheit (4,300 degrees Celsius), hotter than some stars. This heat is so intense that it rips apart the molecules in the planet’s atmosphere, including hydrogen gas.&lt;/p&gt;
-
-&lt;p&gt;But its star, called KELT-9, is even hotter – a blue A-type star that is likely unraveling the planet through evaporation.  The KELT-9 is only 300 million years old, which is young for a star. It is more than twice as large, and nearly twice as hot, as our sun. Given that the planet’s atmosphere is constantly blasted with high levels of ultraviolet radiation, the planet may even be shedding a tail of evaporated planetary material like a comet.&lt;/p&gt;
-
-&lt;p&gt;The discovery of Kelt-9b was announced in 2017 by a team of astronomers using the Kilodegree Extremely Little Telescope (KELT) system. The KELT system is a network of two robotic telescopes that are used to search for exoplanets.&lt;/p&gt;
-
-&lt;p&gt;Kelt-9b is a very massive planet, with a mass that is about three times that of Jupiter. The heat is caused by the proximity of the planet to its star. Kelt-9b orbits its star in just 36 hours, which means that it is constantly bathed in the star’s heat.  The planet is also unusual in that it orbits perpendicular to the spin axis of the star. That would be analogous to the planet orbiting perpendicular to the plane of our solar system.&lt;/p&gt;
-
-&lt;p&gt;The extreme heat of Kelt-9b has a profound effect on its atmosphere. The heat is so intense that it rips apart the molecules in the atmosphere, including hydrogen gas. This process is called photodissociation. The broken-up atoms then flow to the nightside of the planet, where it is cooler. On the nightside, the atoms can recombine to form molecules again.&lt;/p&gt;
-
-&lt;p&gt;With each orbit, KELT-9 b twice experiences the full range of stellar temperatures, producing what amounts to a peculiar seasonal sequence. The planet experiences “summer” when it swings over each hot pole and “winter” when it passes over the star’s cooler midsection. So KELT-9 b experiences two summers and two winters every orbit, with each season about nine hours.&lt;/p&gt;
-
-&lt;p&gt;This process is happening constantly on Kelt-9b, which means that the planet’s atmosphere is constantly being recycled. This makes it very difficult for any life to exist on the planet.&lt;/p&gt;
-
-&lt;p&gt;The study of Kelt-9b and other hot Jupiters is helping astronomers to better understand the formation and evolution of exoplanets. It is also helping them to learn more about the limits of habitability in the universe.&lt;/p&gt;
-
-&lt;p&gt;In addition to being the hottest exoplanet known, Kelt-9b is also one of the brightest. This makes it a valuable target for further study. Astronomers are using telescopes like the James Webb Space Telescope to learn more about the atmosphere of Kelt-9b.&lt;/p&gt;
-
-&lt;p&gt;The study of Kelt-9b is just one example of the exciting discoveries that are being made in the field of exoplanet research. As astronomers continue to study these distant worlds, they are learning more about the diversity of planets that exist beyond our solar system. This knowledge is helping us to better understand our own place in the universe.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">Kelt-9b is a gas giant planet that orbits a star 670 light-years from Earth. It is so close to its star that its dayside temperature is 7,800 degrees Fahrenheit (4,300 degrees Celsius), hotter than some stars. This heat is so intense that it rips apart the molecules in the planet&apos;s atmosphere, including hydrogen gas</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/KELT-9b.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/KELT-9b.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HAT-P-67 b: The Largest Exoplanet Known</title><link href="http://localhost:4000/exoplanets/largest-known-exoplanet/" rel="alternate" type="text/html" title="HAT-P-67 b: The Largest Exoplanet Known" /><published>2023-08-17T00:00:00-04:00</published><updated>2023-08-17T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/largest-known-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/largest-known-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for August 17th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/022-the-largest-exopplanet-final/022_TheLargestExopplanet_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/022-the-largest-exopplanet-final/022_TheLargestExopplanet_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Exoplanet astronomy is a new science, astronomers have only confirmed there are planets around other stars only 31 years ago with the discovery of two rocky planets orbiting a type of neutron star known as a pulsar in 1992.&lt;/p&gt;
-
-&lt;p&gt;It has been an amazing ride since then.  As of today, we’ve discovered over 5,000 extrasolar planets of all shapes and sizes.&lt;/p&gt;
-
-&lt;p&gt;Whenever humans start cataloging and classifying things, whether it be plants, animals, stars or exoplanets, we naturally become interested in the extrema: what is the smallest thing found, what’s the largest?  So, in the spirit of being human, let’s take a look at the largest exoplanet found so far.&lt;/p&gt;
-
-&lt;p&gt;According to the NASA exoplanet archive, HAT-P-67 b holds the distinction of being the largest exoplanet in terms of size.  With exoplanet classification, one always needs to be careful - especially when it comes to size and mass - because there is a fuzzy boundary with large planets where if they become too large, they are considered a brown dwarf star.  This is a body that almost made it to star status but doesn’t have enough mass or material for nuclear fusion to take place.&lt;/p&gt;
-
-&lt;p&gt;HAT-P-67-b seems to fit the bill.  It is 1,200 light years from Earth and has a radius that is a little over twice that of Jupiters’.  It orbits its host star very closely, only 10 million kilometers away and has a year that is almost 5 days long.  The star itself,  HAT-P-67, is an F-type star that is one and a half times the mass of the Sun and about two and a half times larger.&lt;/p&gt;
-
-&lt;p&gt;Planets like this are relatively easy to find using the transit method.  Large planets that eclipse their stars many times a month can be spotted using space telescopes like TESS because they are looking at an area of the sky for a limited amount of time and they can see many transits during that time.&lt;/p&gt;
-
-&lt;p&gt;In contrast, it’s very hard to see a long period planet, one that takes many hundreds of days to transit its star.  A planet like Earth, for example, would only make one transit in 365 days to a distant observer so they would need to stare out at our Sun for a long time, especially if they wanted multiple transits.&lt;/p&gt;
-
-&lt;p&gt;But HAT-P-67-b was easy to spot.  It was discovered in 2017 and since it transits so often confirmation was relatively quick.  Because of its low density, astronomers consider this planet a Hot-Saturn, with a mass about half that of Jupiters.&lt;/p&gt;
-
-&lt;p&gt;As far as habitability goes, unless there are some moons orbiting this planet getting enough warmth to keep water liquid on its surface, there probably isn’t any life here.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="exoplanets" /><summary type="html">HAT-P-67-b seems to fit the bill. It is 1,200 light years from Earth and has a radius that is a little over twice that of Jupiters’. It orbits its host star very closely, only 10 million kilometers away and has a year that is almost 5 days long. The star itself, HAT-P-67, is an F-type star that is one and a half times the mass of the Sun and about two and a half times larger.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/HAT-P-67b.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/HAT-P-67b.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;So, let’s not be too hard on astronomers this early in the search.  Right now our observations are preliminary and rough.  As they improve, our understanding of whether habitable planets are common or not will only get better.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">How common are habitable exoplanets? Where&apos;s the life? Astronomers are using all tools at their disposal to answer this question.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/WaterMoonAroundGasGiant.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/WaterMoonAroundGasGiant.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

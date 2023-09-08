@@ -24,6 +24,44 @@
 		
 
         <item>
+            <title>What is the Habitable Worlds Observatory?</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: What is the Habitable Worlds Observatory?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/033-what-is-hwo-final/033_WhatIsHWO_final.mp3" length="5273746" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/habitable-worlds-observatory/</guid>
+	    <link>http://localhost:4000/science/habitable-worlds-observatory/</link>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>33</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Finding habitable worlds has been a driving passion since we first learned there were other planets out there, and to find them, we are going to need a dedicated instrument that does nothing else but tries to locate and characterize them. Show Notes Available at http://localhost:4000/science/habitable-worlds-observatory/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>TESS&apos;s Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: TESS&apos;s Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/032-tesslongest-period-planet-final_202309/032_TESSLongestPeriodPlanet_final.mp3" length="6185053" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/</guid>
+	    <link>http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/</link>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>32</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:40</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Human beings have discovered over five thousand five hundred exoplanets.  Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun.  Some are even closer.  Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days. Show Notes Available at http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet</itunes:subtitle>
