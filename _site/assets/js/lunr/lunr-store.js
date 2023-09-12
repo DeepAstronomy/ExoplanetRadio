@@ -202,4 +202,10 @@ var store = [{
         "tags": [],
         "url": "/science/habitable-worlds-observatory/",
         "teaser": null
+      },{
+        "title": "Tidally Locked Worlds: Life in the Twilight Zone",
+        "excerpt":"Episode for September 12th, 2023 Download Based on our experience here on Earth, we know life here to be tenacious and ubiquitous. Even in the harshest climates, if we look hard enough, we can usually find some sort of life there. We are hoping the same is true on worlds...","categories": ["science"],
+        "tags": [],
+        "url": "/science/exoplanet-terminator-zones/",
+        "teaser": null
       }]
