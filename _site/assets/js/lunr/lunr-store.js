@@ -208,4 +208,10 @@ var store = [{
         "tags": [],
         "url": "/science/exoplanet-terminator-zones/",
         "teaser": null
+      },{
+        "title": "TRAPPIST-1e: The Most Habitable Exoplanet?",
+        "excerpt":"Episode for September 13th, 2023 Download TRAPPIST-1e is a rocky, close-to-Earth-sized exoplanet orbiting within the habitable zone around the ultra-cool dwarf star TRAPPIST-1 approximately 40 light-years away from Earth in the constellation of Aquarius. It is the fourth of seven planets in the TRAPPIST-1 system, which is the most studied...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/trappist-1e-most-habitable-exoplanet/",
+        "teaser": null
       }]

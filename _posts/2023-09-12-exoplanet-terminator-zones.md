@@ -44,3 +44,4 @@ Why does water and surface matter? Well, water is essential for life as we know 
 While this is an interesting idea, there are still a lot of unknowns and challenges for life to survive on these extreme worlds. For example, how would life cope with the constant light or darkness? How would it deal with the strong winds and storms that could occur in the terminator zone? How would it adapt to the possible volcanic activity on the day side or the ice formation on the night side? How would it communicate and evolve in such diverse environments?
 
 These are some of the questions that astronomers hope to answer in the future, as they search for signs of life on these exotic planets.  Using telescopes like the James Webb Space Telescope and the future Habitable Worlds Telescope, maybe one day we will find out that we are not alone in this vast universe, and that life can thrive in places we never imagined.
+
