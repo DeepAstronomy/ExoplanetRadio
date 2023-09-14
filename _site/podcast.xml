@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>A Glimpse into the Early Stages of Planetary Evolution</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: A Glimpse into the Early Stages of Planetary Evolution</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final_202309/036_EarlyStagePlanetaryEvolution_final.mp3" length="5090283" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/glimpse-early-planet-formation/</guid>
+	    <link>http://localhost:4000/science/glimpse-early-planet-formation/</link>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>36</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>03:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Deep in the cosmos, NASA&apos;s Transiting Exoplanet Survey Satellite (TESS) has discovered four new worlds orbiting a pair of young stars. These planets are providing scientists with a glimpse into a little-understood stage of planetary evolution - the time when atmospheres are being formed. Show Notes Available at http://localhost:4000/science/glimpse-early-planet-formation/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>TRAPPIST-1e: The Most Habitable Exoplanet?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: TRAPPIST-1e: The Most Habitable Exoplanet?</itunes:subtitle>

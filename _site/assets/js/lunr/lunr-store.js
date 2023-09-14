@@ -214,4 +214,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/trappist-1e-most-habitable-exoplanet/",
         "teaser": null
+      },{
+        "title": "A Glimpse into the Early Stages of Planetary Evolution",
+        "excerpt":"Episode for September 14th, 2023 Download Deep in the cosmos, NASA’s Transiting Exoplanet Survey Satellite (TESS) has discovered four new worlds orbiting a pair of young stars. These planets are providing scientists with a glimpse into a little-understood stage of planetary evolution - the time when atmospheres are being formed....","categories": ["science"],
+        "tags": [],
+        "url": "/science/glimpse-early-planet-formation/",
+        "teaser": null
       }]

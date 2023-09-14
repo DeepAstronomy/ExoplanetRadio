@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-13T12:14:13-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">TRAPPIST-1e: The Most Habitable Exoplanet?</title><link href="http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/" rel="alternate" type="text/html" title="TRAPPIST-1e: The Most Habitable Exoplanet?" /><published>2023-09-13T00:00:00-04:00</published><updated>2023-09-13T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-14T11:05:36-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">A Glimpse into the Early Stages of Planetary Evolution</title><link href="http://localhost:4000/science/glimpse-early-planet-formation/" rel="alternate" type="text/html" title="A Glimpse into the Early Stages of Planetary Evolution" /><published>2023-09-14T00:00:00-04:00</published><updated>2023-09-14T00:00:00-04:00</updated><id>http://localhost:4000/science/glimpse-early-planet-formation</id><content type="html" xml:base="http://localhost:4000/science/glimpse-early-planet-formation/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for September 14th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final_202309/036_EarlyStagePlanetaryEvolution_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final_202309/036_EarlyStagePlanetaryEvolution_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Deep in the cosmos, NASA’s Transiting Exoplanet Survey Satellite (TESS) has discovered four new worlds orbiting a pair of young stars. These planets are providing scientists with a glimpse into a little-understood stage of planetary evolution - the time when atmospheres are being formed.&lt;/p&gt;
+
+&lt;p&gt;The stars TESS looked at are TOI 2076 and TOI 1807 and reside over 130 light-years away with some 30 light-years between them and are located in the northern constellations of Boötes and Canes Venatici. Both are K-type stars, dwarf stars more orange than our Sun, and around 200 million years old, or less than 5% of the Sun’s age.&lt;/p&gt;
+
+&lt;p&gt;In 2017, using data from ESA’s Gaia satellite, scientists showed that the stars are traveling through space in the same direction leading them to think they are related, born from the same cloud of gas..&lt;/p&gt;
+
+&lt;p&gt;These stars are hyperactive, experiencing stellar flares much more energetic and frequent than those produced by our own Sun.&lt;/p&gt;
+
+&lt;p&gt;Around TOI 2076, astronomers discovered three mini-Neptunes, worlds between the diameters of Earth and Neptune&lt;/p&gt;
+
+&lt;p&gt;The innermost planet, TOI 2076 b, circles its star once in only 10 days. The outer planets, c and d, have orbits exceeding 17 days.&lt;/p&gt;
+
+&lt;p&gt;TOI 1807 hosts only one known planet, TOI 1807 b and is the most extreme of the bunch. It orbits its star in an astonishingly fast 13 hours, making it one of the youngest ultra-short period planets ever discovered.&lt;/p&gt;
+
+&lt;p&gt;Theories suggest that planets initially have thick atmospheres left over from their formation. But stellar radiation can erode these atmospheres, leaving behind rocky cores. Some planets may then develop secondary atmospheres through planetary processes like volcanic activity.&lt;/p&gt;
+
+&lt;p&gt;The ages of the TOI 2076 and TOI 1807 systems suggest that their planets may be somewhere in the middle of this atmospheric evolution.&lt;/p&gt;
+
+&lt;p&gt;All of these planets are bombarded with UV radiation, making life here unlikely at this stage in their development.  TOI 2076 b receives 400 times more UV light from its star than Earth does from the Sun – and TOI 1807 b gets around 22,000 times more.&lt;/p&gt;
+
+&lt;p&gt;Scientists are currently working to measure the planets’ masses, but the interference from their hyperactive stars could make this challenging.&lt;/p&gt;
+
+&lt;p&gt;If scientists can discover the planets’ masses, that will help NASA’s James Webb space telescope determine if they have atmospheres and study them.&lt;/p&gt;
+
+&lt;p&gt;This discovery is a tantalizing glimpse into the early stages of planetary evolution. By studying these worlds, scientists can learn more about how planets form and how their atmospheres develop.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">Deep in the cosmos, NASA&apos;s Transiting Exoplanet Survey Satellite (TESS) has discovered four new worlds orbiting a pair of young stars. These planets are providing scientists with a glimpse into a little-understood stage of planetary evolution - the time when atmospheres are being formed.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/toi_1807_b_still_sml.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/toi_1807_b_still_sml.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TRAPPIST-1e: The Most Habitable Exoplanet?</title><link href="http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/" rel="alternate" type="text/html" title="TRAPPIST-1e: The Most Habitable Exoplanet?" /><published>2023-09-13T00:00:00-04:00</published><updated>2023-09-13T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for September 13th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -313,37 +354,4 @@
 
 &lt;p&gt;By using these complementary approaches, Roman will provide the most complete picture yet of the diversity and complexity of exoplanets. Roman will also take us another step closer to discovering another “pale blue dot” — a habitable, Earth-like planet orbiting a nearby star.&lt;/p&gt;
 
-&lt;p&gt;This is not just science fiction. This is science fact. This is what Roman will do for us. This is why Roman matters. This is how Roman will help advance knowledge about exoplanets.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">The next big milestone in our study of exoplanets is a telescope that can see beyond the limits of our eyes, beyond the boundaries of our solar system, beyond the frontiers of our knowledge. A telescope that can reveal the secrets of the stars and the mysteries of the planets. A telescope that can take us closer to finding another home in the cosmos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/RomanSpaceTelescope.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/RomanSpaceTelescope.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not</title><link href="http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/" rel="alternate" type="text/html" title="Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not" /><published>2023-08-24T00:00:00-04:00</published><updated>2023-08-24T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere</id><content type="html" xml:base="http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for August 24th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/026-jwsttrappist-1c-final_202308/026_JWSTTRAPPIST-1c_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/026-jwsttrappist-1c-final_202308/026_JWSTTRAPPIST-1c_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;A team of astronomers used the James Webb Space Telescope to study the exoplanet TRAPPIST-1 c, which is one of seven rocky planets orbiting an ultracool red dwarf star 40 light-years from Earth. The team found that the planet’s atmosphere, if it exists at all, is extremely thin.&lt;/p&gt;
-
-&lt;p&gt;TRAPPIST-1 c is about the same size as Venus and receives a similar amount of radiation from its host star as Venus gets from the Sun. This led scientists to believe that the planet might have a thick carbon dioxide atmosphere like Venus. However, the Webb observations suggest that this is not the case.&lt;/p&gt;
-
-&lt;p&gt;The team used the Mid-Infrared Instrument on the Webb space telescope to observe TRAPPIST-1 c as it moved behind its star.   Webb can detect the heat that comes from the planet when it passes behind the star, which is called a secondary eclipse. By comparing the brightness of the star when the planet was behind it to the brightness when the planet was in front of it, the team was able to measure the amount of heat energy coming from the planet’s dayside.&lt;/p&gt;
-
-&lt;p&gt;The amount of heat energy emitted by a planet is directly related to its temperature, which in turn is influenced by its atmosphere. Carbon dioxide gas preferentially absorbs heat energy at the wavelengths that MIRI is sensitive to, so if TRAPPIST-1 c had a thick carbon dioxide atmosphere, the team would have seen a smaller decrease in brightness when the planet moved behind its star.&lt;/p&gt;
-
-&lt;p&gt;However, the team did not see a significant decrease in brightness, which suggests that the planet’s atmosphere, if it exists at all, is very thin. The team estimates that the atmosphere of TRAPPIST-1 c is at least 100 times thinner than Earth’s atmosphere.&lt;/p&gt;
-
-&lt;p&gt;The lack of a thick atmosphere around TRAPPIST-1 c suggests that the planet may have formed with relatively little water. This is because water vapor is a major component of thick atmospheres, and if TRAPPIST-1 c had a lot of water vapor, it would have been easier for the planet to retain a thick atmosphere.&lt;/p&gt;
-
-&lt;p&gt;The absence of a thick atmosphere also makes it less likely that TRAPPIST-1 c is habitable. Habitable planets are thought to need thick atmospheres to protect them from harmful radiation and to help regulate their temperatures.&lt;/p&gt;
-
-&lt;p&gt;All is not lost however with regard to the TRAPPIST-1 system.  This planet is after all, very close to the star and just outside the region where liquid water could exist on the surface.  The observations of TRAPPIST-1c support the idea that planets close to their star have trouble holding on to an atmosphere, but that may not be the case with planets further out and actually inside the habitable zone, notably the planets TRAPPIST-1 e,f and g.&lt;/p&gt;
-
-&lt;p&gt;The findings of this study are a significant step forward in our understanding of exoplanets. The Webb space telescope is still in its early stages of operation, and scientists are excited to see what other discoveries it will make in the years to come.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">TRAPPIST-1 c may not have a thick atmosphere, or any atmosphere at all, but all is not lost on the habitability of the TRAPPIST-1 system</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/TRAPPIST-1c_Artist.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/TRAPPIST-1c_Artist.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;This is not just science fiction. This is science fact. This is what Roman will do for us. This is why Roman matters. This is how Roman will help advance knowledge about exoplanets.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">The next big milestone in our study of exoplanets is a telescope that can see beyond the limits of our eyes, beyond the boundaries of our solar system, beyond the frontiers of our knowledge. A telescope that can reveal the secrets of the stars and the mysteries of the planets. A telescope that can take us closer to finding another home in the cosmos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/RomanSpaceTelescope.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/RomanSpaceTelescope.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

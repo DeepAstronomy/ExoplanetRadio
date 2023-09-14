@@ -2,8 +2,8 @@
 layout: single
 title:  "A Glimpse into the Early Stages of Planetary Evolution"
 show_date: true
-file: https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final_202309/035_TRAPPIST-1eMostHabitableExoplanet_final.mp3
-duration: "04:04"
+file: https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final_202309/036_EarlyStagePlanetaryEvolution_final.mp3
+duration: "03:52"
 length: "5090283"
 explicit: "no"
 block: "no"
