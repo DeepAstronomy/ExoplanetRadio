@@ -220,4 +220,10 @@ var store = [{
         "tags": [],
         "url": "/science/glimpse-early-planet-formation/",
         "teaser": null
+      },{
+        "title": "Osiris: The Exoplanet That Changed Everything",
+        "excerpt":"Episode for September 15th, 2023 Download On September 9, 1999, a team of astronomers from the High Altitude Observatory made a groundbreaking discovery. Using the radial velocity method, they detected a massive, Jupiter-sized planet orbiting a Sun-like star HD 209458. This was the first exoplanet to be discovered using this...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/osiris-exoplanet-changed-everything/",
+        "teaser": null
       }]

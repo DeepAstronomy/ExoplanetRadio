@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Osiris: The Exoplanet That Changed Everything</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Osiris: The Exoplanet That Changed Everything</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/037-osiris-the-planet-that-changed-everything-final/037_OsirisThePlanetThatChangedEverything_final.mp3" length="6090482" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/osiris-exoplanet-changed-everything/</guid>
+	    <link>http://localhost:4000/exoplanets/osiris-exoplanet-changed-everything/</link>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>37</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:40</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> On September 9, 1999, a team of astronomers from the High Altitude Observatory made a groundbreaking discovery. Using the radial velocity method, they detected a massive, Jupiter-sized planet orbiting a Sun-like star HD 209458. This was the first exoplanet to be discovered using this method, and since that fateful day, this system has become a champion of firsts. Show Notes Available at http://localhost:4000/exoplanets/osiris-exoplanet-changed-everything/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>A Glimpse into the Early Stages of Planetary Evolution</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: A Glimpse into the Early Stages of Planetary Evolution</itunes:subtitle>
