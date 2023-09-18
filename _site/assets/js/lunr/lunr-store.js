@@ -226,4 +226,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/osiris-exoplanet-changed-everything/",
         "teaser": null
+      },{
+        "title": "The First Hycean World? JWST's Discovery of K2-18 b",
+        "excerpt":"Episode for September 18th, 2023 Download The James Webb Space Telescope has completed observations of an exoplanet that may contain an ocean-covered surface underneath a hydrogen-rich atmosphere. This discovery provides a fascinating glimpse into a planet unlike anything in our Solar System, and raises interesting prospects about potentially habitable worlds...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/first-hycean-world-jwst-discovery-k218b/",
+        "teaser": null
       }]
