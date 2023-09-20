@@ -12,7 +12,7 @@ header:
   show_overlay_excerpt: true
   #og_image:
   #overlay_color: green
-  caption: "Imagine the Possibilies"
+  caption: "Exoplanets and Life in the Universe: Imagine the Possibilies"
   actions:
     - label: "All Episodes"
       url: /episodes/
