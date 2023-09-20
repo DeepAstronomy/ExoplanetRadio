@@ -232,4 +232,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/first-hycean-world-jwst-discovery-k218b/",
         "teaser": null
+      },{
+        "title": "Biosignatures: The Search for Life Beyond Earth",
+        "excerpt":"Episode for September 20th, 2023 Download In recent years, scientists have made great strides in the search for extraterrestrial life. They have discovered thousands of exoplanets. And some of them are located in the habitable zone of their star, which means that liquid water could exist on their surface and...","categories": ["science"],
+        "tags": [],
+        "url": "/science/biosignatures-search-for-life/",
+        "teaser": null
       }]

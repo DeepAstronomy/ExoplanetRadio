@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Biosignatures: The Search for Life Beyond Earth</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Biosignatures: The Search for Life Beyond Earth</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/039-biosignatures-final/039_Biosignatures_final.mp3" length="6434754" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/biosignatures-search-for-life/</guid>
+	    <link>http://localhost:4000/science/biosignatures-search-for-life/</link>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>39</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:56</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> In recent years, scientists have made great strides in the search for extraterrestrial life. They have discovered thousands of exoplanets. And some of them are located in the habitable zone of their star, which means that liquid water could exist on their surface and is essential for life as we know it.  The search for life however, is a little more involved than finding planets, measuring their location and distance around the star and figuring out their location within a habitable zone.  Astronomers need more information to learn if life may be there. Show Notes Available at http://localhost:4000/science/biosignatures-search-for-life/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The First Hycean World? JWST&apos;s Discovery of K2-18 b</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: The First Hycean World? JWST&apos;s Discovery of K2-18 b</itunes:subtitle>
