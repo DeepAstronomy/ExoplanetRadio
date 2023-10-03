@@ -238,4 +238,10 @@ var store = [{
         "tags": [],
         "url": "/science/biosignatures-search-for-life/",
         "teaser": null
+      },{
+        "title": "TOI 1853 b: A Baffling Planet That Defies Explanation",
+        "excerpt":"Episode for October 3rd, 2023 Download Meet TOI-1853 b, one of the weirdest exoplanets ever discovered! It’s about the size of Neptune, but four times more massive. It orbits its star so closely that it completes a full orbit in just 1.24 days. This makes it very hot, and it’s...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/toi1853b-baffling-exoplanet/",
+        "teaser": null
       }]

@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>TOI 1853 b: A Baffling Planet That Defies Explanation</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: TOI 1853 b: A Baffling Planet That Defies Explanation</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/040-weirdest-exoplanet-final/040_WeirdestExoplanet_final.mp3" length="5975723" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/</guid>
+	    <link>http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/</link>
+            <pubDate>Tue, 03 Oct 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>40</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Meet TOI-1853 b, one of the weirdest exoplanets ever discovered! It&apos;s about the size of Neptune, but four times more massive. It orbits its star so closely that it completes a full orbit in just 1.24 days. This makes it very hot, and it&apos;s located in a region of space known as the &apos;hot Neptune desert&apos;, where astronomers have been looking for Hot Neptunes but unable to find any. Show Notes Available at http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Biosignatures: The Search for Life Beyond Earth</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Biosignatures: The Search for Life Beyond Earth</itunes:subtitle>
