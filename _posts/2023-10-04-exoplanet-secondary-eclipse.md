@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "What is an Exoplanet Secondary Eclipse?"
+title:  "Exoplanet Temperatures from Secondary Eclipses"
 show_date: true
 file: https://archive.org/download/040-weirdest-exoplanet-final_202310/041_SecondaryEclipses_final.mp3
 duration: "04:19"
