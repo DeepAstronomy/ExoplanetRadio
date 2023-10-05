@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-10-03T15:02:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">TOI 1853 b: A Baffling Planet That Defies Explanation</title><link href="http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/" rel="alternate" type="text/html" title="TOI 1853 b: A Baffling Planet That Defies Explanation" /><published>2023-10-03T00:00:00-04:00</published><updated>2023-10-03T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-10-05T09:01:43-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">What is an Exoplanet Secondary Eclipse?</title><link href="http://localhost:4000/science/exoplanet-secondary-eclipse/" rel="alternate" type="text/html" title="What is an Exoplanet Secondary Eclipse?" /><published>2023-10-04T00:00:00-04:00</published><updated>2023-10-04T00:00:00-04:00</updated><id>http://localhost:4000/science/exoplanet-secondary-eclipse</id><content type="html" xml:base="http://localhost:4000/science/exoplanet-secondary-eclipse/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for October 4th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/040-weirdest-exoplanet-final_202310/041_SecondaryEclipses_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/040-weirdest-exoplanet-final_202310/041_SecondaryEclipses_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+
+	&lt;h2&gt; Exoplanet HAT-P-11 b&lt;/h2&gt;
+
+ &lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;500px&quot; id=&quot;exo_pioneer_module&quot; scrolling=&quot;no&quot; src=&quot;https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-11_b&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Over the course of this show, we’ve talked many many times about the Transit Method for detecting exoplanets.  It is simply the measure of a star’s decrease in brightness as the star passes through our line of sight.  This once difficult measurement has now become commonplace and can even be done with advanced amateur astronomy equipment under a reasonably dark sky.&lt;/p&gt;
+
+&lt;p&gt;From this measurement, we can infer a few things about the planets passing by: we can get an indication of its size and if we measure several transits, we can get the period of the orbit around the host star.  We can also get an estimate of the period and eccentricity of the orbit by the width of the dip in the light curve.&lt;/p&gt;
+
+&lt;p&gt;But there is another, even more difficult measurement we can make using transit telescopes that are an important tool for learning about planets around other stars: exoplanet secondary eclipses.&lt;/p&gt;
+
+&lt;p&gt;To visualize a secondary eclipse is tricky.  When the planet passes in front of the star and blocks some of its light, we have a transit, or primary eclipse, that part isn’t so hard to visualize and this measurement is much easier to make.  But now imagine that as the planet travels in its orbit around the star the reflected light from the planet starts to add brightness to our observations that gets ever so slightly brighter as it travels around towards the back of the star.&lt;/p&gt;
+
+&lt;p&gt;The planet’s reflected light is at its brightest just as it begins to pass behind the star and the moment it begins to go behind it, the reflected light diminishes and shows up as a secondary dimming in the measurement from the telescope.&lt;/p&gt;
+
+&lt;p&gt;As you can imagine, this is a very difficult measurement to make and it requires extreme precision from the telescope, extraordinary detector sensitivity, and very careful calibration and processing of the images.&lt;/p&gt;
+
+&lt;p&gt;From the secondary eclipse, astronomers get information about the thermal structure of the atmosphere of the exoplanet.&lt;/p&gt;
+
+&lt;p&gt;As an example, in 2016 astronomers used the extensive Kepler data from the exoplanet HAT-P-11b - a Neptune like planet that orbits its star once every five days.  The data  spanned over five years of looking at the same spot in the sky.  Carefully analyzing these observations revealed a secondary eclipse.&lt;/p&gt;
+
+&lt;p&gt;From this tiny signal, astronomers inferred that the temperature of the planet varied a lot as it went around the sun; it had a highly eccentric orbit.  They deduced this because there were large temperature variations from the highly varied star-to-planet distances in the orbit.  The variations changed according to where in the orbit the planet was.&lt;/p&gt;
+
+&lt;p&gt;The analysis revealed that HAT-P-11b was hot, with a boiling sky.  The atmospheric temperature ranged from 300 Celsius to over 600 degrees Celsius.&lt;/p&gt;
+
+&lt;p&gt;Exoplanet secondary eclipses are brightest in the infrared and while astronomers have been able to tease out secondary eclipses from data archives of the Kepler and TESS Space Telescopes, with the deployment of the James Webb Space Telescope, which is specifically designed to look in the infrared, astronomers should begin to get more characteristics from explanets from their secondary eclipses.  Learning more about exoplanetary atmospheres from planets around the galaxy will fill in many blanks from these exotic worlds.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">Over the course of this show, we’ve talked many many times about the Transit Method for detecting exoplanets. It is simply the measure of a star&apos;s decrease in brightness as the star passes through our line of sight. This once difficult measurement has now become commonplace and can even be done with advanced amateur astronomy equipment under a reasonably dark sky.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ExoplanetSecondaryEclipse.png" /><media:content medium="image" url="http://localhost:4000/assets/images/ExoplanetSecondaryEclipse.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TOI 1853 b: A Baffling Planet That Defies Explanation</title><link href="http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/" rel="alternate" type="text/html" title="TOI 1853 b: A Baffling Planet That Defies Explanation" /><published>2023-10-03T00:00:00-04:00</published><updated>2023-10-03T00:00:00-04:00</updated><id>http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet</id><content type="html" xml:base="http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for October 3rd, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -321,41 +366,4 @@
 
 &lt;p&gt;Luckily we have just such a program starting very soon with the Vera Rubin Telescope.  It will survey the entire sky several times a week looking for all sorts of things, one of them being exoplanet transits.  And it will do if for years, allowing astronomers to build a deep view of the heavens over a long time, seeing dips in brightness across the heavens.&lt;/p&gt;
 
-&lt;p&gt;Our window to more worlds around other stars is about to get a lot bigger.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Human beings have discovered over five thousand five hundred exoplanets. Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun. Some are even closer. Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet</title><link href="http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/" rel="alternate" type="text/html" title="Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet" /><published>2023-09-06T00:00:00-04:00</published><updated>2023-09-06T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet</id><content type="html" xml:base="http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for September 6th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/031-proximab-no-transit-final/031_ProximabNoTransit_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/031-proximab-no-transit-final/031_ProximabNoTransit_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Astronomers have recently concluded an observation study of the closest exoplanet to Earth, Proxima Centauri b and found that the planet does not transit its star.  These observations settle a question that astronomers have been asking since the exoplanet’s discovery in 2016 using the radial velocity method.&lt;/p&gt;
-
-&lt;p&gt;Proxima Centauri b was discovered in August 2016 at the European Southern Observatory using a technique that watches the wobble of a star as the gravity from a planet in orbit around it, pulls the star to and fro.&lt;/p&gt;
-
-&lt;p&gt;By watching the star in this way, astronomers can tell several things: how many planets are there (in this case there’s just one), how massive they are (proxima b has roughly the same mass as the Earth), and how fast they go around the star (proxima b takes 11 days to go around the star once).&lt;/p&gt;
-
-&lt;p&gt;The thing is, astronomers also want a transit; they have never seen the planet pass between us and the star, leading astronomers to take a longer look at our nearest exoplanet neighbor.  Why is observing a transit such a big deal? When a planet passes in front of the star the light from that star can give us clues to the physical size of the planet, but more importantly, the James Webb Space Telescope can measure that light and tell us if there is an atmosphere present on the planet.&lt;/p&gt;
-
-&lt;p&gt;This would be great news because not only is Proxima b our closest neighbor at a little over four light years, but it lies in the habitable zone of Proxima Centauri.  If proxima b had an atmosphere, and if it had water, then that water could be liquid and may sustain life as we understand it.&lt;/p&gt;
-
-&lt;p&gt;So measuring a transit of Proxima Centauri b would give us very important data about the habitability of the planet.&lt;/p&gt;
-
-&lt;p&gt;The results of this recent study were disappointing however.  Looking at the system with data from the Spitzer Space telescope and instruments in operation on the ground at the European Southern Observatory, astronomers confirmed that the exoplanet, proxima centauri b does not transit the star, not even partially.&lt;/p&gt;
-
-&lt;p&gt;Surprisingly little has been learned about proxima b since its discovery. We don’t know how old it is,  whether it has an atmosphere, whether it is tidally locked, nor it’s precise size.  But because it is so close, it provides one of the best opportunities for learning about Earth-sized worlds around M-class dwarf stars.  This is important because there are a lot of systems like this and having one in our celestial backyard is an ideal laboratory.&lt;/p&gt;
-
-&lt;p&gt;Astronomers estimate that planets less than ten times the mass of Earth occur around M-class stars at a rate of about one per star. There is at least one rocky planet around every M dwarf, and there are more M-class stars than any other star out there.  The more we understand the Proxima Centauri system, the more we understand most of the exoplanets in our galaxy.&lt;/p&gt;
-
-&lt;p&gt;Although a transit event would have been ideal, we can still learn a lot about Proxima b from other sources of information.  For example, the star Proxima Centauri is a flaring M-class dwarf, and it flares, a lot,  over 60 times a day.  This, coupled with the assumption that it is tidally locked to the star, and that it orbits very close, the chance of keeping an atmosphere is low and that would make habitability seem rather a rather remote possibility.&lt;/p&gt;
-
-&lt;p&gt;We need to keep looking, observing, measuring and analyzing the closest exoplanet system to the Earth.  We have in our celestial backyard a pristine laboratory for understanding the question of habitability on planets around other stars.  Most of the planets in our galaxy orbit M-class stars like this, and we are sitting right next door to one.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Proxima Centauri b does not pass between us and the star, astronomers confirm. This will make determining habitability harder.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/Proxima_b.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/Proxima_b.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Our window to more worlds around other stars is about to get a lot bigger.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Human beings have discovered over five thousand five hundred exoplanets. Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun. Some are even closer. Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

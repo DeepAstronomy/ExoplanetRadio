@@ -244,4 +244,10 @@ var store = [{
         "tags": [],
         "url": "/exoplanets/toi1853b-baffling-exoplanet/",
         "teaser": null
+      },{
+        "title": "What is an Exoplanet Secondary Eclipse?",
+        "excerpt":"Episode for October 4th, 2023 Download Exoplanet HAT-P-11 b Over the course of this show, we’ve talked many many times about the Transit Method for detecting exoplanets. It is simply the measure of a star’s decrease in brightness as the star passes through our line of sight. This once difficult...","categories": ["science"],
+        "tags": [],
+        "url": "/science/exoplanet-secondary-eclipse/",
+        "teaser": null
       }]

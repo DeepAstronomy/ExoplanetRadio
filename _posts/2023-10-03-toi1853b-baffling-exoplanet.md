@@ -10,6 +10,8 @@ block: "no"
 host: "Tony Darnell"
 episode: "40"
 season: "2"
+exoplanet: "TOI-2406_b"
+exoplanetname : "TOI-1857 b"
 keywords: "astronomy, exoplanets"
 categories: exoplanets
 description: "Meet TOI-1853 b, one of the weirdest exoplanets ever discovered! It's about the size of Neptune, but four times more massive. It orbits its star so closely that it completes a full orbit in just 1.24 days. This makes it very hot, and it's located in a region of space known as the 'hot Neptune desert', where astronomers have been looking for Hot Neptunes but unable to find any."
