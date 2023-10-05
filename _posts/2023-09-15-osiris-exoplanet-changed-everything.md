@@ -10,6 +10,8 @@ block: "no"
 host: "Tony Darnell"
 episode: "37"
 season: "2"
+exoplanet: "HD_209458_b"
+exoplanetname: "HD 209458 b 'Osiris'"
 keywords: "astronomy, exoplanets"
 categories: exoplanets
 description: "On September 9, 1999, a team of astronomers from the High Altitude Observatory made a groundbreaking discovery. Using the radial velocity method, they detected a massive, Jupiter-sized planet orbiting a Sun-like star HD 209458. This was the first exoplanet to be discovered using this method, and since that fateful day, this system has become a champion of firsts."
@@ -27,6 +29,7 @@ classes: wide
 ---
 
 {% include audio_player.html %} 
+{% include exoplanet_player.html %}
 On September 9, 1999, a team of astronomers from the High Altitude Observatory made a groundbreaking discovery. Using the radial velocity method, they detected a massive, Jupiter-sized planet orbiting a Sun-like star HD 209458. This was the first exoplanet to be discovered using this method, and since that fateful day, this system has become a champion of firsts.
 
 The planet is HD 209458 b, and nicknamed "Osiris" after the Egyptian god of the underworld. Osiris is a fitting nickname for this planet, as it is a very hot and hostile world. HD 209458 b orbits its star very closely, and its surface temperature is estimated to be around 1,000 degrees Celsius. This makes it too hot for liquid water to exist on its surface, and it is unlikely to be habitable.

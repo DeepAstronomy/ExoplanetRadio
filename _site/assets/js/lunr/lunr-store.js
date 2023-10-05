@@ -222,7 +222,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Osiris: The Exoplanet That Changed Everything",
-        "excerpt":"Episode for September 15th, 2023 Download On September 9, 1999, a team of astronomers from the High Altitude Observatory made a groundbreaking discovery. Using the radial velocity method, they detected a massive, Jupiter-sized planet orbiting a Sun-like star HD 209458. This was the first exoplanet to be discovered using this...","categories": ["exoplanets"],
+        "excerpt":"Episode for September 15th, 2023 Download Exoplanet HD 209458 b 'Osiris' On September 9, 1999, a team of astronomers from the High Altitude Observatory made a groundbreaking discovery. Using the radial velocity method, they detected a massive, Jupiter-sized planet orbiting a Sun-like star HD 209458. This was the first exoplanet...","categories": ["exoplanets"],
         "tags": [],
         "url": "/exoplanets/osiris-exoplanet-changed-everything/",
         "teaser": null
@@ -245,7 +245,7 @@ var store = [{
         "url": "/exoplanets/toi1853b-baffling-exoplanet/",
         "teaser": null
       },{
-        "title": "What is an Exoplanet Secondary Eclipse?",
+        "title": "Exoplanet Temperatures from Secondary Eclipses",
         "excerpt":"Episode for October 4th, 2023 Download Exoplanet HAT-P-11 b Over the course of this show, we’ve talked many many times about the Transit Method for detecting exoplanets. It is simply the measure of a star’s decrease in brightness as the star passes through our line of sight. This once difficult...","categories": ["science"],
         "tags": [],
         "url": "/science/exoplanet-secondary-eclipse/",
