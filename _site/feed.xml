@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-10-05T09:24:32-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">Exoplanet Temperatures from Secondary Eclipses</title><link href="http://localhost:4000/science/exoplanet-secondary-eclipse/" rel="alternate" type="text/html" title="Exoplanet Temperatures from Secondary Eclipses" /><published>2023-10-04T00:00:00-04:00</published><updated>2023-10-04T00:00:00-04:00</updated><id>http://localhost:4000/science/exoplanet-secondary-eclipse</id><content type="html" xml:base="http://localhost:4000/science/exoplanet-secondary-eclipse/">&lt;div class=&quot;plyr&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-10-09T12:53:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Exoplanet Radio</title><subtitle> Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system.</subtitle><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><entry><title type="html">How Long Will Life on Earth Last?</title><link href="http://localhost:4000/science/how-long-life-earth/" rel="alternate" type="text/html" title="How Long Will Life on Earth Last?" /><published>2023-10-09T00:00:00-04:00</published><updated>2023-10-09T00:00:00-04:00</updated><id>http://localhost:4000/science/how-long-life-earth</id><content type="html" xml:base="http://localhost:4000/science/how-long-life-earth/">&lt;div class=&quot;plyr&quot;&gt;
+
+ Episode for October 9th, 2023
+ &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;https://archive.org/download/042-how-long-life-on-earth-final/042_HowLongLifeOnEarth_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+ &lt;/audio&gt;
+
+ &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+	  const player = new Plyr(&apos;#player&apos;, {
+			    title: &quot;Example Title&quot;,
+		    });
+  &lt;/script&gt;  
+ &lt;a href=&quot;https://archive.org/download/042-how-long-life-on-earth-final/042_HowLongLifeOnEarth_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;How long before the Earth becomes uninhabitable for all life?  This is a reasonable question to ask in the context of our search for life elsewhere because it gives us a framework within which we might expect to discover life on exoplanets.&lt;/p&gt;
+
+&lt;p&gt;Nothing lasts forever, stars live and die over the course of hundreds of millions to billions, and in the case of red dwarf stars, trillions of years.  Planets are born from the remnants of their parent stars and die over a shorter timescale.  Life on those planets, if it exists, is presumed to be shorter still, governed entirely by the environments provided by the combination of the star and planetary characteristics.  How long life lasts there ultimately depends on how long the star lives and how it dies.&lt;/p&gt;
+
+&lt;p&gt;Using our solar system as an example, since we know life arose here, how long will it last?  Astronomers think they have an answer.&lt;/p&gt;
+
+&lt;p&gt;Our Sun is a star, and like all stars, it has a lifespan. The Sun is currently in its middle age, but it will eventually get old and die.&lt;/p&gt;
+
+&lt;p&gt;In about 5 billion years, the Sun will run out of hydrogen in its core and will begin to fuse helium into carbon. This process will cause the Sun to expand into a red giant star.&lt;/p&gt;
+
+&lt;p&gt;As the Sun expands, it will engulf Mercury and Venus. It may even reach Earth’s orbit, but it is not clear whether it will swallow Earth or not.&lt;/p&gt;
+
+&lt;p&gt;Well before the Sun reaches this stage, astronomers believe things will get bad for life, probably billions of years before the Sun even reaches the Red Giant stage.  According to some new modeling done by astronomers, In the later phase of the Sun’s life, over the next couple of billion years or so, the increasing amounts of energy Earth will receive from the aging Sun will warm its atmosphere. The hotter the atmosphere, the more water vapor it will trap as water evaporates from Earth’s surface.&lt;/p&gt;
+
+&lt;p&gt;The Sun’s ultraviolet rays will break this water vapor down into oxygen and hydrogen, and hydrogen is a gas light enough to escape the atmosphere.&lt;/p&gt;
+
+&lt;p&gt;With water escaping into space, the oceans will dry up and the crust will dry out, leaving a desolate, uninhabitable world.  Life on Earth will end at least a billion years before the Sun expands into a Red Giant.&lt;/p&gt;
+
+&lt;p&gt;As volcanoes continue throwing carbon dioxide into the atmosphere, there will be no oceans to absorb it or life forms to store it. This buildup of carbon dioxide causes what is called a “runaway greenhouse effect,” turning Earth into a hot, dry world like Venus.&lt;/p&gt;
+
+&lt;p&gt;In fact, Venus may have once hosted a shallow liquid-water ocean and temperatures conducive to life before a runaway greenhouse process made its environment unbearable when it was only 2 billion years old.&lt;/p&gt;
+
+&lt;p&gt;In the context of life on other worlds, we need to remember that even though a star might have planets that harbor life, any life that existed there might be long gone even though the star is still relatively young.&lt;/p&gt;
+
+&lt;p&gt;The good news is that we have a few billion years before this happens to us. Who knows, humanity might even manage to become a star traveling civilization, capable of stupendous technological marvels that would protect us from a dying sun.  A billion years is a long time for humans, even if it’s a blink of an eye in a star’s lifetime, plenty of time to think and plan and dream.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">Nothing lasts forever, stars live and die over the course of hundreds of millions to billions, and in the case of red dwarf stars, trillions of years. Planets are born from the remnants of their parent stars and die over a shorter timescale. Life on those planets, if it exists, is presumed to be shorter still, governed entirely by the environments provided by the combination of the star and planetary characteristics. How long life lasts there ultimately depends on how long the star lives and how it dies.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/EarthFromSpace.png" /><media:content medium="image" url="http://localhost:4000/assets/images/EarthFromSpace.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exoplanet Temperatures from Secondary Eclipses</title><link href="http://localhost:4000/science/exoplanet-secondary-eclipse/" rel="alternate" type="text/html" title="Exoplanet Temperatures from Secondary Eclipses" /><published>2023-10-04T00:00:00-04:00</published><updated>2023-10-04T00:00:00-04:00</updated><id>http://localhost:4000/science/exoplanet-secondary-eclipse</id><content type="html" xml:base="http://localhost:4000/science/exoplanet-secondary-eclipse/">&lt;div class=&quot;plyr&quot;&gt;
 
  Episode for October 4th, 2023
  &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
@@ -335,43 +376,4 @@
 
 &lt;p&gt;Number 2: There will undoubtedly be a spectrograph of some sort that allows astronomers to tell if there is an atmosphere, and if so, what it’s made of.  It is that spectrum that will tell us the compounds that exist that might make the exoplanet habitable and if life might already be there.  Astronomers refer to these compounds as biosignatures: things that exist in the air that could only be put there by living organisms.&lt;/p&gt;
 
-&lt;p&gt;While there is no timetable for launch of this amazing mission yet, NASA is starting to get to work on our next flagship mission to study life elsewhere.  After the launch and deployment of the Nancy Grace Roman Space Telescope, the Habitable Worlds Observatory will be our next gateway to finding life on other worlds.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">Finding habitable worlds has been a driving passion since we first learned there were other planets out there, and to find them, we are going to need a dedicated instrument that does nothing else but tries to locate and characterize them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/StarshadeConcept.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/StarshadeConcept.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TESS’s Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c</title><link href="http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/" rel="alternate" type="text/html" title="TESS’s Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c" /><published>2023-09-07T00:00:00-04:00</published><updated>2023-09-07T00:00:00-04:00</updated><id>http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet</id><content type="html" xml:base="http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/">&lt;div class=&quot;plyr&quot;&gt;
-
- Episode for September 7th, 2023
- &lt;audio id=&quot;player&quot; controls=&quot;&quot;&gt;
-        &lt;source src=&quot;https://archive.org/download/032-tesslongest-period-planet-final_202309/032_TESSLongestPeriodPlanet_final.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
- &lt;/audio&gt;
-
- &lt;script src=&quot;https://cdn.plyr.io/3.7.8/plyr.js&quot;&gt;&lt;/script&gt;
-
-  &lt;script&gt;
-	  const player = new Plyr(&apos;#player&apos;, {
-			    title: &quot;Example Title&quot;,
-		    });
-  &lt;/script&gt;  
- &lt;a href=&quot;https://archive.org/download/032-tesslongest-period-planet-final_202309/032_TESSLongestPeriodPlanet_final.mp3&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Download&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Human beings have discovered over five thousand five hundred exoplanets.  Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun.  Some are even closer.  Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days.&lt;/p&gt;
-
-&lt;p&gt;Why are we finding so many toasty worlds, so close to the star?  There are likely just as many planets farther out from their star that orbit with periods measured in hundreds of days, like the Earth does, but the reason we’ve seen so many of these types of planets comes down to the limits of our telescopes and how we are observing them.&lt;/p&gt;
-
-&lt;p&gt;Two of the most popular ways of finding exoplanets right now are the transit and radial velocity methods.  To use them, we have to actually watch the planet move around the star or between us and the star, and waiting around for that to happen is expensive.&lt;/p&gt;
-
-&lt;p&gt;Telescopes are in high demand, and to stare at a star for hundreds of days hoping to see a planet go around is not practical with the way telescope time is allocated, so we are only getting good data from planets that whiz around their star in a short time.  But of course astronomers realize that’s not the whole picture, there are no doubt many long period exoplanets out there, we just have to deploy an observing system capable of finding them.  More on that in a minute.&lt;/p&gt;
-
-&lt;p&gt;Back to TESS: The Transiting Exoplanet Survey Satellite.  It only looks at an area of the sky for about a month before it moves on to other parts of the sky.  The idea was to sacrifice getting complete orbits of planets for partial ones, all the while imaging the entire sky and flagging potential transits as “Objects of Interest” for further study by other telescopes.  TESS has amassed thousands of Objects of Interest, or TOI’s since its launch.&lt;/p&gt;
-
-&lt;p&gt;One of them, TOI-4600 is a rare system containing two long-period planets orbiting a nearby star that is 815 light years from Earth.&lt;/p&gt;
-
-&lt;p&gt;The TESS team discovered that the star hosts an inner planet with an orbit of 82 days, similar to that of Mercury, while a second outer planet circles every 482 days, placing its distance from its star somewhere between the orbits of Earth and Mars.&lt;/p&gt;
-
-&lt;p&gt;Both planets are likely gas giants, similar to Jupiter and Saturn, though the composition of the inner planet may be more of a mix of gas and ice. The two planets bridge the gap between “hot Jupiters” — the toasty, short-orbit planets that make up the majority of exoplanet discoveries — and the much colder, longer-period gas giants in our solar system.&lt;/p&gt;
-
-&lt;p&gt;Astronomers found the longer period planet by stacking up data from past searches of the sky to build up the light curve.  TESS has scanned the entire sky once already.  They also looked at the system using ground-based telescopes to get a fuller picture of the system.&lt;/p&gt;
-
-&lt;p&gt;What TESS is really good at though is for short searches over a wide area of sky.  This method of observing is great for getting these short period exoplanets.  An ideal scenario would be to look at the entire sky for a long time.&lt;/p&gt;
-
-&lt;p&gt;Luckily we have just such a program starting very soon with the Vera Rubin Telescope.  It will survey the entire sky several times a week looking for all sorts of things, one of them being exoplanet transits.  And it will do if for years, allowing astronomers to build a deep view of the heavens over a long time, seeing dips in brightness across the heavens.&lt;/p&gt;
-
-&lt;p&gt;Our window to more worlds around other stars is about to get a lot bigger.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="discoveries" /><summary type="html">Human beings have discovered over five thousand five hundred exoplanets. Over 80 percent of them have orbits shorter than 50 days which would place them at over twice as close to their star as Mercury is to the Sun. Some are even closer. Recent observations from TESS however have found one with an orbit of 82 days and another measured in hundreds of days.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" /><media:content medium="image" url="http://localhost:4000/assets/images/exoplanets/TOI-4600System.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;While there is no timetable for launch of this amazing mission yet, NASA is starting to get to work on our next flagship mission to study life elsewhere.  After the launch and deployment of the Nancy Grace Roman Space Telescope, the Habitable Worlds Observatory will be our next gateway to finding life on other worlds.&lt;/p&gt;</content><author><name>Tony Darnell</name><email>exoplanetradio@deepastronomy.com</email></author><category term="science" /><summary type="html">Finding habitable worlds has been a driving passion since we first learned there were other planets out there, and to find them, we are going to need a dedicated instrument that does nothing else but tries to locate and characterize them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/StarshadeConcept.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/StarshadeConcept.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

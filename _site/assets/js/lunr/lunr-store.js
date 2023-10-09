@@ -250,4 +250,10 @@ var store = [{
         "tags": [],
         "url": "/science/exoplanet-secondary-eclipse/",
         "teaser": null
+      },{
+        "title": "How Long Will Life on Earth Last?",
+        "excerpt":"Episode for October 9th, 2023 Download How long before the Earth becomes uninhabitable for all life? This is a reasonable question to ask in the context of our search for life elsewhere because it gives us a framework within which we might expect to discover life on exoplanets. Nothing lasts...","categories": ["science"],
+        "tags": [],
+        "url": "/science/how-long-life-earth/",
+        "teaser": null
       }]

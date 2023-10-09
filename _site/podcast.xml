@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>How Long Will Life on Earth Last?</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How Long Will Life on Earth Last?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/042-how-long-life-on-earth-final/042_HowLongLifeOnEarth_final.mp3" length="5715778" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/how-long-life-earth/</guid>
+	    <link>http://localhost:4000/science/how-long-life-earth/</link>
+            <pubDate>Mon, 09 Oct 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>42</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:32</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> Nothing lasts forever, stars live and die over the course of hundreds of millions to billions, and in the case of red dwarf stars, trillions of years.  Planets are born from the remnants of their parent stars and die over a shorter timescale.  Life on those planets, if it exists, is presumed to be shorter still, governed entirely by the environments provided by the combination of the star and planetary characteristics.  How long life lasts there ultimately depends on how long the star lives and how it dies. Show Notes Available at http://localhost:4000/science/how-long-life-earth/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Exoplanet Temperatures from Secondary Eclipses</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: Exoplanet Temperatures from Secondary Eclipses</itunes:subtitle>
