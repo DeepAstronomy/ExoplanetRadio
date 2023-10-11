@@ -256,4 +256,10 @@ var store = [{
         "tags": [],
         "url": "/science/how-long-life-earth/",
         "teaser": null
+      },{
+        "title": "How Far Are the Closest Exoplanets with Life?",
+        "excerpt":"Episode for October 11th, 2023 Download The search for life on other worlds is, to say the least, a daunting and overwhelming task.We’ve been searching for only about one human generation and have yet to find anything in our own solar system, let alone the vast expanse of our galaxy....","categories": ["science"],
+        "tags": [],
+        "url": "/science/closest-exoplanets-with-life/",
+        "teaser": null
       }]

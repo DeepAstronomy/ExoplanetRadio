@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>How Far Are the Closest Exoplanets with Life?</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: How Far Are the Closest Exoplanets with Life?</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/043-closest-worlds-with-life-final/043_ClosestWorldsWithLife_final.mp3" length="6251037" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/science/closest-exoplanets-with-life/</guid>
+	    <link>http://localhost:4000/science/closest-exoplanets-with-life/</link>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 -0400</pubDate>
+	    <itunes:episode>43</itunes:episode>
+	    <itunes:season>2</itunes:season>
+            <itunes:duration>04:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> To increase our chances of finding life on other planets, a systematic approach needs to be adopted, one that applies reasonable assumptions that maximize our success.  So, an important question becomes, where should we point our telescopes? Show Notes Available at http://localhost:4000/science/closest-exoplanets-with-life/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>How Long Will Life on Earth Last?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Long Will Life on Earth Last?</itunes:subtitle>
