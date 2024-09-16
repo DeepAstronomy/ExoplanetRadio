@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>The Rogue Planets of JWST</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: The Rogue Planets of JWST</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/044-rogue-planets-of-jwst/044_RoguePlanetsOfJWST.mp3" length="6714699" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/discoveries/rogue-planets-jwst/</guid>
+	    <link>http://localhost:4000/discoveries/rogue-planets-jwst/</link>
+            <pubDate>Fri, 06 Sep 2024 00:00:00 -0400</pubDate>
+	    <itunes:episode>44</itunes:episode>
+	    <itunes:season>3</itunes:season>
+            <itunes:duration>04:47</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> The Orion Nebula, M42, is the largest stellar nursery close to Earth.  Within this massive complex some 1300 light years away, the James Webb Space Telescope has unveiled hundreds of Jupiter-sized rogue planets roaming freely here. Show Notes Available at http://localhost:4000/discoveries/rogue-planets-jwst/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>How Far Are the Closest Exoplanets with Life?</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: How Far Are the Closest Exoplanets with Life?</itunes:subtitle>

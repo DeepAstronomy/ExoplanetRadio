@@ -262,4 +262,10 @@ var store = [{
         "tags": [],
         "url": "/science/closest-exoplanets-with-life/",
         "teaser": null
+      },{
+        "title": "The Rogue Planets of JWST",
+        "excerpt":"Episode for September 6th, 2024 Download The Orion Nebula, M42, is the largest stellar nursery close to Earth. Within this massive complex some 1300 light years away, the James Webb Space Telescope has unveiled hundreds of Jupiter-sized rogue planets roaming freely here. Rogue planets are free-floating planets that do not...","categories": ["discoveries"],
+        "tags": [],
+        "url": "/discoveries/rogue-planets-jwst/",
+        "teaser": null
       }]
