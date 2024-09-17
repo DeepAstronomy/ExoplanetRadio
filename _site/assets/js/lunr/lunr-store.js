@@ -268,4 +268,10 @@ var store = [{
         "tags": [],
         "url": "/discoveries/rogue-planets-jwst/",
         "teaser": null
+      },{
+        "title": "Epsilon Indi Ab: A Twin of Jupiter",
+        "excerpt":"Episode for September 17th, 2024 Download Exoplanet Epsilon Indi Ab Imagine standing on the edge of discovery, peering into the vast expanse of space where distant worlds await. With the help of NASA’s James Webb Space Telescope, we’ve set our sights on a planet 12 light-years away—Epsilon Indi Ab. This...","categories": ["exoplanets"],
+        "tags": [],
+        "url": "/exoplanets/epsilon-indi-Ab/",
+        "teaser": null
       }]

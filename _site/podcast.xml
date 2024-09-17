@@ -24,6 +24,25 @@
 		
 
         <item>
+            <title>Epsilon Indi Ab: A Twin of Jupiter</title>
+	    <itunes:author>Tony Darnell</itunes:author>
+            <itunes:subtitle>Exoplanet Radio: Epsilon Indi Ab: A Twin of Jupiter</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+	    <itunes:image href="http://localhost:4000/assets/images/ExoplanetRadioLogo_sml.png" />
+            <enclosure url="https://archive.org/download/045-epsilon-indi-ab-final/045_EpsilonIndiAb_final.wav" length="87868904" type="audio/mp3"/>
+	    <guid isPermaLink="true">http://localhost:4000/exoplanets/epsilon-indi-Ab/</guid>
+	    <link>http://localhost:4000/exoplanets/epsilon-indi-Ab/</link>
+            <pubDate>Tue, 17 Sep 2024 00:00:00 -0400</pubDate>
+	    <itunes:episode>45</itunes:episode>
+	    <itunes:season>3</itunes:season>
+            <itunes:duration>05:05</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description> An international team of astronomers has directly imaged this exoplanet, one of the coldest ever seen.  The team observed Epsilon Indi Ab using the coronagraph on Webb’s Mid-Infrared Instrument. Only a few tens of exoplanets have ever been directly imaged by space- and ground-based observatories.  These observations are ushering in a completely new era in exoplanet research. Show Notes Available at http://localhost:4000/exoplanets/epsilon-indi-Ab/.</description>
+            <itunes:keywords>astronomy, exoplanets</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The Rogue Planets of JWST</title>
 	    <itunes:author>Tony Darnell</itunes:author>
             <itunes:subtitle>Exoplanet Radio: The Rogue Planets of JWST</itunes:subtitle>
