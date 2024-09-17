@@ -2,13 +2,13 @@
 layout: single
 title:  "Epsilon Indi Ab: A Twin of Jupiter"
 show_date: true
-file: https://archive.org/download/044-rogue-planets-of-jwst/044_RoguePlanetsOfJWST.mp3
-duration: "04:47"
-length: "6714699"
+file: https://archive.org/download/045-epsilon-indi-ab-final/045_EpsilonIndiAb_final.wav
+duration: "05:05"
+length: "87868904"
 explicit: "no"
 block: "no"
 host: "Tony Darnell"
-episode: "44"
+episode: "45"
 season: "3"
 exoplanet: "eps_Ind_A_b"
 exoplanetname : "Epsilon Indi Ab"
