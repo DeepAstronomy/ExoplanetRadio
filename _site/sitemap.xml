@@ -6,7 +6,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/epsilon-indi-Ab/</loc>
       
-        <lastmod>2024-09-17T00:00:00-04:00</lastmod>
+        <lastmod>2024-09-17T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -19,7 +19,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2024-09-17T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2024-09-17T00:00:00+00:00</news:publication_date>
 	  <news:title>Epsilon Indi Ab: A Twin of Jupiter</news:title>
         </news:news>
     </url>
@@ -29,7 +29,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/rogue-planets-jwst/</loc>
       
-        <lastmod>2024-09-06T00:00:00-04:00</lastmod>
+        <lastmod>2024-09-06T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -42,7 +42,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2024-09-06T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2024-09-06T00:00:00+00:00</news:publication_date>
 	  <news:title>The Rogue Planets of JWST</news:title>
         </news:news>
     </url>
@@ -52,7 +52,7 @@
     <url>
       <loc>http://localhost:4000/science/closest-exoplanets-with-life/</loc>
       
-        <lastmod>2023-10-11T00:00:00-04:00</lastmod>
+        <lastmod>2023-10-11T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -65,7 +65,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-10-11T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-10-11T00:00:00+00:00</news:publication_date>
 	  <news:title>How Far Are the Closest Exoplanets with Life?</news:title>
         </news:news>
     </url>
@@ -75,7 +75,7 @@
     <url>
       <loc>http://localhost:4000/science/how-long-life-earth/</loc>
       
-        <lastmod>2023-10-09T00:00:00-04:00</lastmod>
+        <lastmod>2023-10-09T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -88,7 +88,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-10-09T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-10-09T00:00:00+00:00</news:publication_date>
 	  <news:title>How Long Will Life on Earth Last?</news:title>
         </news:news>
     </url>
@@ -98,7 +98,7 @@
     <url>
       <loc>http://localhost:4000/science/exoplanet-secondary-eclipse/</loc>
       
-        <lastmod>2023-10-04T00:00:00-04:00</lastmod>
+        <lastmod>2023-10-04T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -111,7 +111,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-10-04T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-10-04T00:00:00+00:00</news:publication_date>
 	  <news:title>Exoplanet Temperatures from Secondary Eclipses</news:title>
         </news:news>
     </url>
@@ -121,7 +121,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/</loc>
       
-        <lastmod>2023-10-03T00:00:00-04:00</lastmod>
+        <lastmod>2023-10-03T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-10-03T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-10-03T00:00:00+00:00</news:publication_date>
 	  <news:title>TOI 1853 b: A Baffling Planet That Defies Explanation</news:title>
         </news:news>
     </url>
@@ -144,7 +144,7 @@
     <url>
       <loc>http://localhost:4000/science/biosignatures-search-for-life/</loc>
       
-        <lastmod>2023-09-20T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-20T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -157,7 +157,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-20T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-20T00:00:00+00:00</news:publication_date>
 	  <news:title>Biosignatures: The Search for Life Beyond Earth</news:title>
         </news:news>
     </url>
@@ -167,7 +167,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/first-hycean-world-jwst-discovery-k218b/</loc>
       
-        <lastmod>2023-09-18T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-18T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -180,7 +180,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-18T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-18T00:00:00+00:00</news:publication_date>
 	  <news:title>The First Hycean World? JWST's Discovery of K2-18 b</news:title>
         </news:news>
     </url>
@@ -190,7 +190,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/osiris-exoplanet-changed-everything/</loc>
       
-        <lastmod>2023-09-15T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-15T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -203,7 +203,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-15T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-15T00:00:00+00:00</news:publication_date>
 	  <news:title>Osiris: The Exoplanet That Changed Everything</news:title>
         </news:news>
     </url>
@@ -213,7 +213,7 @@
     <url>
       <loc>http://localhost:4000/science/glimpse-early-planet-formation/</loc>
       
-        <lastmod>2023-09-14T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-14T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -226,7 +226,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-14T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-14T00:00:00+00:00</news:publication_date>
 	  <news:title>A Glimpse into the Early Stages of Planetary Evolution</news:title>
         </news:news>
     </url>
@@ -236,7 +236,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/</loc>
       
-        <lastmod>2023-09-13T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-13T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -249,7 +249,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-13T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-13T00:00:00+00:00</news:publication_date>
 	  <news:title>TRAPPIST-1e: The Most Habitable Exoplanet?</news:title>
         </news:news>
     </url>
@@ -259,7 +259,7 @@
     <url>
       <loc>http://localhost:4000/science/exoplanet-terminator-zones/</loc>
       
-        <lastmod>2023-09-12T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-12T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -272,7 +272,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-12T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-12T00:00:00+00:00</news:publication_date>
 	  <news:title>Tidally Locked Worlds: Life in the Twilight Zone</news:title>
         </news:news>
     </url>
@@ -282,7 +282,7 @@
     <url>
       <loc>http://localhost:4000/science/habitable-worlds-observatory/</loc>
       
-        <lastmod>2023-09-08T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-08T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -295,7 +295,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-08T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-08T00:00:00+00:00</news:publication_date>
 	  <news:title>What is the Habitable Worlds Observatory?</news:title>
         </news:news>
     </url>
@@ -305,7 +305,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/</loc>
       
-        <lastmod>2023-09-07T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-07T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -318,7 +318,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-07T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-07T00:00:00+00:00</news:publication_date>
 	  <news:title>TESS's Breakthrough Discovery of Long-Period Exoplanets TOI 4600 b and c</news:title>
         </news:news>
     </url>
@@ -328,7 +328,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/</loc>
       
-        <lastmod>2023-09-06T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-06T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -341,7 +341,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-06T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-09-06T00:00:00+00:00</news:publication_date>
 	  <news:title>Astronomers Confirm Proxima Centauri b is Not a Transiting Exoplanet</news:title>
         </news:news>
     </url>
@@ -351,7 +351,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/many-worlds-toi-700/</loc>
       
-        <lastmod>2023-08-30T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-30T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -364,7 +364,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-30T00:00:00+00:00</news:publication_date>
 	  <news:title>The Many Earth-Sized Worlds of TOI-700</news:title>
         </news:news>
     </url>
@@ -374,7 +374,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/tres2b-planet-reflects-no-light/</loc>
       
-        <lastmod>2023-08-29T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-29T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -387,7 +387,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-29T00:00:00+00:00</news:publication_date>
 	  <news:title>Meet TrES-2b: The Planet That Reflects Almost No Light</news:title>
         </news:news>
     </url>
@@ -397,7 +397,7 @@
     <url>
       <loc>http://localhost:4000/science/starshades-find-exoplanets/</loc>
       
-        <lastmod>2023-08-28T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-28T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -410,7 +410,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-28T00:00:00+00:00</news:publication_date>
 	  <news:title>How Starshades Can Help Us Find New Worlds</news:title>
         </news:news>
     </url>
@@ -420,7 +420,7 @@
     <url>
       <loc>http://localhost:4000/science/nancy-grace-roman-space-telescope-exoplanets/</loc>
       
-        <lastmod>2023-08-25T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-25T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -433,7 +433,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-25T00:00:00+00:00</news:publication_date>
 	  <news:title>The Nancy Grace Roman Space Telescope will Revolutionize our Understanding of Exoplanets</news:title>
         </news:news>
     </url>
@@ -443,7 +443,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/</loc>
       
-        <lastmod>2023-08-24T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-24T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -456,7 +456,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-24T00:00:00+00:00</news:publication_date>
 	  <news:title>Is TRAPPIST-1 c Habitable? New Webb Telescope Observations Suggest Not</news:title>
         </news:news>
     </url>
@@ -466,7 +466,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/trillions-of-worlds-without-stars/</loc>
       
-        <lastmod>2023-08-23T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-23T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -479,7 +479,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-23T00:00:00+00:00</news:publication_date>
 	  <news:title>Trillions of Worlds Without Stars</news:title>
         </news:news>
     </url>
@@ -489,7 +489,7 @@
     <url>
       <loc>http://localhost:4000/science/how-common-habitable-exoplanets/</loc>
       
-        <lastmod>2023-08-22T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-22T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -502,7 +502,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-22T00:00:00+00:00</news:publication_date>
 	  <news:title>How Common are Habitable Exoplanets?</news:title>
         </news:news>
     </url>
@@ -512,7 +512,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/</loc>
       
-        <lastmod>2023-08-18T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-18T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -525,7 +525,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-18T00:00:00+00:00</news:publication_date>
 	  <news:title>KELT-9b: The Hottest Known Exoplanet</news:title>
         </news:news>
     </url>
@@ -535,7 +535,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/largest-known-exoplanet/</loc>
       
-        <lastmod>2023-08-17T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-17T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -548,7 +548,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-17T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-17T00:00:00+00:00</news:publication_date>
 	  <news:title>HAT-P-67 b: The Largest Exoplanet Known</news:title>
         </news:news>
     </url>
@@ -558,7 +558,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/</loc>
       
-        <lastmod>2023-08-16T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-16T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -571,7 +571,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-16T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-16T00:00:00+00:00</news:publication_date>
 	  <news:title>JWST Takes First Direct Image of an Exoplanet</news:title>
         </news:news>
     </url>
@@ -581,7 +581,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/trappist1d-world-edge-of-life/</loc>
       
-        <lastmod>2023-08-15T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-15T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -594,7 +594,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-15T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-15T00:00:00+00:00</news:publication_date>
 	  <news:title>TRAPPIST-1d: A World on the Edge of Life</news:title>
         </news:news>
     </url>
@@ -604,7 +604,7 @@
     <url>
       <loc>http://localhost:4000/science/direct-imaging-exoplanets/</loc>
       
-        <lastmod>2023-08-14T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-14T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -617,7 +617,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-14T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-14T00:00:00+00:00</news:publication_date>
 	  <news:title>Finding Exoplanets with Direct Imaging</news:title>
         </news:news>
     </url>
@@ -627,7 +627,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/jwst-observes-new-brown-dwarf/</loc>
       
-        <lastmod>2023-08-11T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-11T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -640,7 +640,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-11T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-11T00:00:00+00:00</news:publication_date>
 	  <news:title>James Webb Space Telescope Observes New Type of Brown Dwarf</news:title>
         </news:news>
     </url>
@@ -650,7 +650,7 @@
     <url>
       <loc>http://localhost:4000/science/life-in-the-dark/</loc>
       
-        <lastmod>2023-08-10T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-10T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -663,7 +663,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-10T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-10T00:00:00+00:00</news:publication_date>
 	  <news:title>Life in the Dark: How Moons of Rogue Planets Could Harbor Life</news:title>
         </news:news>
     </url>
@@ -673,7 +673,7 @@
     <url>
       <loc>http://localhost:4000/science/how-long-to-proxima-b/</loc>
       
-        <lastmod>2023-08-09T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-09T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -686,7 +686,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-09T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-09T00:00:00+00:00</news:publication_date>
 	  <news:title>How Long Would it Take to Travel to Proxima Centauri b?</news:title>
         </news:news>
     </url>
@@ -696,7 +696,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/giant-planet-around-small-star/</loc>
       
-        <lastmod>2023-08-08T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-08T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -709,7 +709,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-08T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-08T00:00:00+00:00</news:publication_date>
 	  <news:title>A Giant Planet Found Orbiting a Small Star</news:title>
         </news:news>
     </url>
@@ -719,7 +719,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/the-first-exoplanets/</loc>
       
-        <lastmod>2023-08-07T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-07T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -732,7 +732,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-07T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-07T00:00:00+00:00</news:publication_date>
 	  <news:title>The First Exoplanets: The Discovery That Forever Changed Us</news:title>
         </news:news>
     </url>
@@ -742,7 +742,7 @@
     <url>
       <loc>http://localhost:4000/science/finding-exoplanets/</loc>
       
-        <lastmod>2023-08-04T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-04T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -755,7 +755,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-04T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-04T00:00:00+00:00</news:publication_date>
 	  <news:title>Finding Exoplanets</news:title>
         </news:news>
     </url>
@@ -765,7 +765,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/wasp39b-hot-jupiter/</loc>
       
-        <lastmod>2023-08-03T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-03T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -778,7 +778,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-03T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-03T00:00:00+00:00</news:publication_date>
 	  <news:title>WASP-39b: A Hot, Jupiter-sized World</news:title>
         </news:news>
     </url>
@@ -788,7 +788,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</loc>
       
-        <lastmod>2023-08-02T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-02T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -801,7 +801,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-02T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-02T00:00:00+00:00</news:publication_date>
 	  <news:title>TRAPPIST-1: A System Full of Hope</news:title>
         </news:news>
     </url>
@@ -811,7 +811,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/</loc>
       
-        <lastmod>2023-08-01T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -824,7 +824,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-01T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-08-01T00:00:00+00:00</news:publication_date>
 	  <news:title>Exoplanet Detected in Another Galaxy?</news:title>
         </news:news>
     </url>
@@ -834,7 +834,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/</loc>
       
-        <lastmod>2023-07-31T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-31T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -847,7 +847,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-31T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-31T00:00:00+00:00</news:publication_date>
 	  <news:title>The First Exoplanet of JWST</news:title>
         </news:news>
     </url>
@@ -857,7 +857,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</loc>
       
-        <lastmod>2023-07-28T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-28T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -870,7 +870,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-28T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-28T00:00:00+00:00</news:publication_date>
 	  <news:title>An Exoplanet That Shouldn't Exist</news:title>
         </news:news>
     </url>
@@ -880,7 +880,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/Proxima-Centauri-b/</loc>
       
-        <lastmod>2023-07-27T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-27T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -893,7 +893,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-27T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-27T00:00:00+00:00</news:publication_date>
 	  <news:title>Proxima Centauri-b: The Closest Exoplanet to Earth</news:title>
         </news:news>
     </url>
@@ -903,7 +903,7 @@
     <url>
       <loc>http://localhost:4000/science/how-many-exoplanets/</loc>
       
-        <lastmod>2023-07-26T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-26T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -916,7 +916,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-26T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-26T00:00:00+00:00</news:publication_date>
 	  <news:title>How Many Exoplanets Are There?</news:title>
         </news:news>
     </url>
@@ -926,7 +926,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</loc>
       
-        <lastmod>2023-07-25T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-25T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -939,7 +939,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-25T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-25T00:00:00+00:00</news:publication_date>
 	  <news:title>JWST Measures Temperature of TRAPPIST-1b</news:title>
         </news:news>
     </url>
@@ -949,7 +949,7 @@
     <url>
       <loc>http://localhost:4000/science/exoplanets-are-everywhere/</loc>
       
-        <lastmod>2023-07-24T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-24T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -962,7 +962,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-24T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-24T00:00:00+00:00</news:publication_date>
 	  <news:title>Exoplanets are Everywhere</news:title>
         </news:news>
     </url>
@@ -972,7 +972,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/kepler-22b/</loc>
       
-        <lastmod>2023-07-23T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -985,7 +985,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-23T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-23T00:00:00+00:00</news:publication_date>
 	  <news:title>Kepler-22b: A Planet with a lot of Promise</news:title>
         </news:news>
     </url>
@@ -995,7 +995,7 @@
     <url>
       <loc>http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</loc>
       
-        <lastmod>2023-07-22T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-22T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1008,7 +1008,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-22T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-22T00:00:00+00:00</news:publication_date>
 	  <news:title>Rogue Planets: Not All Exoplanets Orbit Stars</news:title>
         </news:news>
     </url>
@@ -1018,7 +1018,7 @@
     <url>
       <loc>http://localhost:4000/science/what-is-an-exoplanet/</loc>
       
-        <lastmod>2023-07-21T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-21T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1031,7 +1031,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-21T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-21T00:00:00+00:00</news:publication_date>
 	  <news:title>What is an Exoplanet?</news:title>
         </news:news>
     </url>
@@ -1041,7 +1041,7 @@
     <url>
       <loc>http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</loc>
       
-        <lastmod>2023-07-13T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-13T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1054,7 +1054,7 @@
             <news:name>Exoplanet Radio</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-07-13T00:00:00-04:00</news:publication_date>
+          <news:publication_date>2023-07-13T00:00:00+00:00</news:publication_date>
 	  <news:title>Welcome to Exoplanet Radio</news:title>
         </news:news>
     </url>
@@ -1065,7 +1065,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1080,7 +1080,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2023-07-10T05:00:00-04:00</lastmod>
+        <lastmod>2023-07-10T09:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1095,7 +1095,7 @@
     <url>
       <loc>http://localhost:4000/categories/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1110,7 +1110,7 @@
     <url>
       <loc>http://localhost:4000/contact/</loc>
       
-        <lastmod>2023-04-15T05:00:00-04:00</lastmod>
+        <lastmod>2023-04-15T09:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1125,7 +1125,7 @@
     <url>
       <loc>http://localhost:4000/episodes/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1140,7 +1140,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1155,7 +1155,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2023-04-05T05:00:00-04:00</lastmod>
+        <lastmod>2023-04-05T09:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1172,7 +1172,7 @@
     <url>
       <loc>http://localhost:4000/portfolio/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1187,7 +1187,7 @@
     <url>
       <loc>http://localhost:4000/sitemap.xml</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1202,7 +1202,7 @@
     <url>
       <loc>http://localhost:4000/assets/css/main.css</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1217,7 +1217,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-en.js</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1232,7 +1232,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-gr.js</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1247,7 +1247,7 @@
     <url>
       <loc>http://localhost:4000/assets/js/lunr/lunr-store.js</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1262,7 +1262,7 @@
     <url>
       <loc>http://localhost:4000/categories/exoplanets/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1277,7 +1277,7 @@
     <url>
       <loc>http://localhost:4000/categories/science/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1292,7 +1292,7 @@
     <url>
       <loc>http://localhost:4000/categories/discoveries/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1307,7 +1307,7 @@
     <url>
       <loc>http://localhost:4000/2023/</loc>
       
-        <lastmod>2023-01-01T00:00:00-05:00</lastmod>
+        <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1322,7 +1322,7 @@
     <url>
       <loc>http://localhost:4000/2023/10/</loc>
       
-        <lastmod>2023-10-01T00:00:00-04:00</lastmod>
+        <lastmod>2023-10-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1337,7 +1337,7 @@
     <url>
       <loc>http://localhost:4000/2023/09/</loc>
       
-        <lastmod>2023-09-01T00:00:00-04:00</lastmod>
+        <lastmod>2023-09-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1352,7 +1352,7 @@
     <url>
       <loc>http://localhost:4000/2023/08/</loc>
       
-        <lastmod>2023-08-01T00:00:00-04:00</lastmod>
+        <lastmod>2023-08-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1367,7 +1367,7 @@
     <url>
       <loc>http://localhost:4000/2023/07/</loc>
       
-        <lastmod>2023-07-01T00:00:00-04:00</lastmod>
+        <lastmod>2023-07-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1382,7 +1382,7 @@
     <url>
       <loc>http://localhost:4000/2024/</loc>
       
-        <lastmod>2024-01-01T00:00:00-05:00</lastmod>
+        <lastmod>2024-01-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1397,7 +1397,7 @@
     <url>
       <loc>http://localhost:4000/2024/09/</loc>
       
-        <lastmod>2024-09-01T00:00:00-04:00</lastmod>
+        <lastmod>2024-09-01T00:00:00+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1412,7 +1412,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1427,7 +1427,7 @@
     <url>
       <loc>http://localhost:4000/page2/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1442,7 +1442,7 @@
     <url>
       <loc>http://localhost:4000/page3/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1457,7 +1457,7 @@
     <url>
       <loc>http://localhost:4000/page4/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1472,7 +1472,7 @@
     <url>
       <loc>http://localhost:4000/page5/</loc>
       
-        <lastmod>2024-09-17T13:05:19-04:00</lastmod>
+        <lastmod>2024-09-17T17:57:30+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

@@ -32,7 +32,7 @@
             <enclosure url="https://archive.org/download/045-epsilon-indi-ab-final/045_EpsilonIndiAb_final.wav" length="87868904" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/epsilon-indi-Ab/</guid>
 	    <link>http://localhost:4000/exoplanets/epsilon-indi-Ab/</link>
-            <pubDate>Tue, 17 Sep 2024 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 	    <itunes:episode>45</itunes:episode>
 	    <itunes:season>3</itunes:season>
             <itunes:duration>05:05</itunes:duration>
@@ -51,7 +51,7 @@
             <enclosure url="https://archive.org/download/044-rogue-planets-of-jwst/044_RoguePlanetsOfJWST.mp3" length="6714699" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/rogue-planets-jwst/</guid>
 	    <link>http://localhost:4000/discoveries/rogue-planets-jwst/</link>
-            <pubDate>Fri, 06 Sep 2024 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
 	    <itunes:episode>44</itunes:episode>
 	    <itunes:season>3</itunes:season>
             <itunes:duration>04:47</itunes:duration>
@@ -70,7 +70,7 @@
             <enclosure url="https://archive.org/download/043-closest-worlds-with-life-final/043_ClosestWorldsWithLife_final.mp3" length="6251037" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/closest-exoplanets-with-life/</guid>
 	    <link>http://localhost:4000/science/closest-exoplanets-with-life/</link>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>43</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:48</itunes:duration>
@@ -89,7 +89,7 @@
             <enclosure url="https://archive.org/download/042-how-long-life-on-earth-final/042_HowLongLifeOnEarth_final.mp3" length="5715778" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/how-long-life-earth/</guid>
 	    <link>http://localhost:4000/science/how-long-life-earth/</link>
-            <pubDate>Mon, 09 Oct 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>42</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:32</itunes:duration>
@@ -108,7 +108,7 @@
             <enclosure url="https://archive.org/download/040-weirdest-exoplanet-final_202310/041_SecondaryEclipses_final.mp3" length="5558471" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/exoplanet-secondary-eclipse/</guid>
 	    <link>http://localhost:4000/science/exoplanet-secondary-eclipse/</link>
-            <pubDate>Wed, 04 Oct 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>41</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:19</itunes:duration>
@@ -127,7 +127,7 @@
             <enclosure url="https://archive.org/download/040-weirdest-exoplanet-final/040_WeirdestExoplanet_final.mp3" length="5975723" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/</guid>
 	    <link>http://localhost:4000/exoplanets/toi1853b-baffling-exoplanet/</link>
-            <pubDate>Tue, 03 Oct 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>40</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:48</itunes:duration>
@@ -146,7 +146,7 @@
             <enclosure url="https://archive.org/download/039-biosignatures-final/039_Biosignatures_final.mp3" length="6434754" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/biosignatures-search-for-life/</guid>
 	    <link>http://localhost:4000/science/biosignatures-search-for-life/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>39</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:56</itunes:duration>
@@ -165,7 +165,7 @@
             <enclosure url="https://archive.org/download/038-first-hycean-world-final/038_FirstHyceanWorld_final.mp3" length="6632482" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/first-hycean-world-jwst-discovery-k218b/</guid>
 	    <link>http://localhost:4000/discoveries/first-hycean-world-jwst-discovery-k218b/</link>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>38</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:53</itunes:duration>
@@ -184,7 +184,7 @@
             <enclosure url="https://archive.org/download/037-osiris-the-planet-that-changed-everything-final/037_OsirisThePlanetThatChangedEverything_final.mp3" length="6090482" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/osiris-exoplanet-changed-everything/</guid>
 	    <link>http://localhost:4000/exoplanets/osiris-exoplanet-changed-everything/</link>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>37</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:40</itunes:duration>
@@ -203,7 +203,7 @@
             <enclosure url="https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final_202309/036_EarlyStagePlanetaryEvolution_final.mp3" length="5090283" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/glimpse-early-planet-formation/</guid>
 	    <link>http://localhost:4000/science/glimpse-early-planet-formation/</link>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>36</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>03:52</itunes:duration>
@@ -222,7 +222,7 @@
             <enclosure url="https://archive.org/download/035-trappist-1e-most-habitable-exoplanet-final/035_TRAPPIST-1eMostHabitableExoplanet_final.mp3" length="5061728" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/</guid>
 	    <link>http://localhost:4000/exoplanets/trappist-1e-most-habitable-exoplanet/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>35</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -241,7 +241,7 @@
             <enclosure url="https://archive.org/download/034-life-in-terminator-zones-final/034_LifeInTerminatorZones_final.mp3" length="6190780" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/exoplanet-terminator-zones/</guid>
 	    <link>http://localhost:4000/science/exoplanet-terminator-zones/</link>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>34</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:48</itunes:duration>
@@ -260,7 +260,7 @@
             <enclosure url="https://archive.org/download/033-what-is-hwo-final/033_WhatIsHWO_final.mp3" length="5273746" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/habitable-worlds-observatory/</guid>
 	    <link>http://localhost:4000/science/habitable-worlds-observatory/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>33</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -279,7 +279,7 @@
             <enclosure url="https://archive.org/download/032-tesslongest-period-planet-final_202309/032_TESSLongestPeriodPlanet_final.mp3" length="6185053" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/</guid>
 	    <link>http://localhost:4000/discoveries/TESS-finds-long-period-exoplanet/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>32</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>04:40</itunes:duration>
@@ -298,7 +298,7 @@
             <enclosure url="https://archive.org/download/031-proximab-no-transit-final/031_ProximabNoTransit_final.mp3" length="6268731" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/</guid>
 	    <link>http://localhost:4000/discoveries/proxima-centauri-b-not-transiting-exoplanet/</link>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>31</itunes:episode>
 	    <itunes:season>2</itunes:season>
             <itunes:duration>05:00</itunes:duration>
@@ -317,7 +317,7 @@
             <enclosure url="https://archive.org/download/030-toi-700-final/030_TOI-700_final.mp3" length="5579319" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/many-worlds-toi-700/</guid>
 	    <link>http://localhost:4000/exoplanets/many-worlds-toi-700/</link>
-            <pubDate>Wed, 30 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>30</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>05:00</itunes:duration>
@@ -336,7 +336,7 @@
             <enclosure url="https://archive.org/download/029-tres-2b-planet-of-eternal-night-final/029_Tres-2b_PlanetOfEternalNight_final.mp3" length="5639313" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/tres2b-planet-reflects-no-light/</guid>
 	    <link>http://localhost:4000/exoplanets/tres2b-planet-reflects-no-light/</link>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>29</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -355,7 +355,7 @@
             <enclosure url="https://archive.org/download/028-starshades-final/028_Starshades_final.mp3" length="5442217" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/starshades-find-exoplanets/</guid>
 	    <link>http://localhost:4000/science/starshades-find-exoplanets/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>28</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -374,7 +374,7 @@
             <enclosure url="https://archive.org/download/027-roman-space-telescope-final/027_RomanSpaceTelescope_final.mp3" length="5552335" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/nancy-grace-roman-space-telescope-exoplanets/</guid>
 	    <link>http://localhost:4000/science/nancy-grace-roman-space-telescope-exoplanets/</link>
-            <pubDate>Fri, 25 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>27</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -393,7 +393,7 @@
             <enclosure url="https://archive.org/download/026-jwsttrappist-1c-final_202308/026_JWSTTRAPPIST-1c_final.mp3" length="5561711" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/</guid>
 	    <link>http://localhost:4000/discoveries/jwst-trappist1c-no-thick-atmosphere/</link>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>26</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -412,7 +412,7 @@
             <enclosure url="https://archive.org/download/025-trillions-of-worlds-without-stars-final/025_TrillionsOfWorldsWithoutStars_final.mp3" length="5677714" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/trillions-of-worlds-without-stars/</guid>
 	    <link>http://localhost:4000/discoveries/trillions-of-worlds-without-stars/</link>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>25</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -431,7 +431,7 @@
             <enclosure url="https://archive.org/download/024-how-common-exoplanets-final/024_HowCommonExoplanets_final.mp3" length="5492883" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/how-common-habitable-exoplanets/</guid>
 	    <link>http://localhost:4000/science/how-common-habitable-exoplanets/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>24</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -450,7 +450,7 @@
             <enclosure url="https://archive.org/download/023-kelt-9b-hottest-exoplanet-final/023_KELT-9bHottestExoplanet_final.mp3" length="5589417" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/</guid>
 	    <link>http://localhost:4000/exoplanets/kelt9b-hottest-known-exoplanet/</link>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>23</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -469,7 +469,7 @@
             <enclosure url="https://archive.org/download/022-the-largest-exopplanet-final/022_TheLargestExopplanet_final.mp3" length="5434888" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/largest-known-exoplanet/</guid>
 	    <link>http://localhost:4000/exoplanets/largest-known-exoplanet/</link>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>22</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -488,7 +488,7 @@
             <enclosure url="https://archive.org/download/021-jwstdirectly-image-exoplanet-final/021_JWSTDirectlyImageExoplanet_final.mp3" length="5632636" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/</guid>
 	    <link>http://localhost:4000/discoveries/jwst-takes-first-direct-image-exoplanet/</link>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>21</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:07</itunes:duration>
@@ -507,7 +507,7 @@
             <enclosure url="https://archive.org/download/020-trappist-1d-the-edgeof-life-final/020_TRAPPIST-1dTheEdgeofLife_final.mp3" length="5676569" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/trappist1d-world-edge-of-life/</guid>
 	    <link>http://localhost:4000/exoplanets/trappist1d-world-edge-of-life/</link>
-            <pubDate>Tue, 15 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>20</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:07</itunes:duration>
@@ -526,7 +526,7 @@
             <enclosure url="https://archive.org/download/019-direct-imaging-exoplanets-final/019_DirectImagingExoplanets_final.mp3" length="5199482" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/direct-imaging-exoplanets/</guid>
 	    <link>http://localhost:4000/science/direct-imaging-exoplanets/</link>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>19</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:48</itunes:duration>
@@ -545,7 +545,7 @@
             <enclosure url="https://archive.org/download/018-jwstnew-type-brown-dwarf-final/018_JWSTNewTypeBrownDwarf_final.mp3" length="5803094" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/jwst-observes-new-brown-dwarf/</guid>
 	    <link>http://localhost:4000/exoplanets/jwst-observes-new-brown-dwarf/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>18</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:30</itunes:duration>
@@ -564,7 +564,7 @@
             <enclosure url="https://archive.org/download/017-life-in-the-dark-final/017_LifeInTheDark_final.mp3" length="5198686" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/life-in-the-dark/</guid>
 	    <link>http://localhost:4000/science/life-in-the-dark/</link>
-            <pubDate>Thu, 10 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>17</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:00</itunes:duration>
@@ -583,7 +583,7 @@
             <enclosure url="https://archive.org/download/016-travel-time-proximab-final/016_TravelTimeProximab_final.mp3" length="5931882" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/how-long-to-proxima-b/</guid>
 	    <link>http://localhost:4000/science/how-long-to-proxima-b/</link>
-            <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>16</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:33</itunes:duration>
@@ -602,7 +602,7 @@
             <enclosure url="https://archive.org/download/015-giant-planet-small-star-final/015_GiantPlanetSmallStar_final.mp3" length="4655561" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/giant-planet-around-small-star/</guid>
 	    <link>http://localhost:4000/discoveries/giant-planet-around-small-star/</link>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>16</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:33</itunes:duration>
@@ -621,7 +621,7 @@
             <enclosure url="https://archive.org/download/014-the-first-exoplanets-final/014_TheFirstExoplanets_final.mp3" length="5387962" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/the-first-exoplanets/</guid>
 	    <link>http://localhost:4000/discoveries/the-first-exoplanets/</link>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>15</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:46</itunes:duration>
@@ -640,7 +640,7 @@
             <enclosure url="https://archive.org/download/013-finding-exoplanets/013_FindingExoplanets_final.mp3" length="5411371" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/finding-exoplanets/</guid>
 	    <link>http://localhost:4000/science/finding-exoplanets/</link>
-            <pubDate>Fri, 04 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>14</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:01</itunes:duration>
@@ -659,7 +659,7 @@
             <enclosure url="https://archive.org/download/wasp-39b-final/WASP-39b_final.mp3" length="4499447" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/wasp39b-hot-jupiter/</guid>
 	    <link>http://localhost:4000/exoplanets/wasp39b-hot-jupiter/</link>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>13</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:10</itunes:duration>
@@ -678,7 +678,7 @@
             <enclosure url="https://archive.org/download/asystem-full-of-hope-final/ASystemFullOfHope_final.mp3" length="5307045" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</guid>
 	    <link>http://localhost:4000/exoplanets/trappist1-a-system-full-of-hope/</link>
-            <pubDate>Wed, 02 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>12</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:33</itunes:duration>
@@ -697,7 +697,7 @@
             <enclosure url="https://archive.org/download/exoplanet-another-galaxy-final/ExoplanetAnotherGalaxy_final.wav" length="62182504" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/</guid>
 	    <link>http://localhost:4000/discoveries/exoplanet-detected-another-galaxy/</link>
-            <pubDate>Tue, 01 Aug 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>11</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>04:02</itunes:duration>
@@ -716,7 +716,7 @@
             <enclosure url="https://archive.org/download/the-first-exoplanet-of-jwst-final/TheFirstExoplanetOfJWST_final.mp3" length="4927911" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/</guid>
 	    <link>http://localhost:4000/discoveries/the-first-exoplanet-of-jwst/</link>
-            <pubDate>Mon, 31 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>10</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:38</itunes:duration>
@@ -735,7 +735,7 @@
             <enclosure url="https://archive.org/download/the-exoplanet-that-shouldnt-exist-final/TheExoplanetThatShouldntExist_final.mp3" length="4448491" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</guid>
 	    <link>http://localhost:4000/exoplanets/an-exoplanet-that-shouldnt-exist/</link>
-            <pubDate>Fri, 28 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>9</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:19</itunes:duration>
@@ -754,7 +754,7 @@
             <enclosure url="https://archive.org/download/proxima-b/Proxima_b_final.mp3" length="6300000" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/Proxima-Centauri-b/</guid>
 	    <link>http://localhost:4000/exoplanets/Proxima-Centauri-b/</link>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>8</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>02:37</itunes:duration>
@@ -773,7 +773,7 @@
             <enclosure url="https://archive.org/download/how-many-exoplanets-final/HowManyExoplanets_final.mp3" length="5270538" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/how-many-exoplanets/</guid>
 	    <link>http://localhost:4000/science/how-many-exoplanets/</link>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>7</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:58</itunes:duration>
@@ -792,7 +792,7 @@
             <enclosure url="https://archive.org/download/jwstmeasures-trappist-1b-temp-final/JWSTMeasuresTRAPPIST-1bTemp_final.mp3" length="4329121" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</guid>
 	    <link>http://localhost:4000/discoveries/jwst-measures-trappist-1b-temp/</link>
-            <pubDate>Tue, 25 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>6</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:18</itunes:duration>
@@ -811,7 +811,7 @@
             <enclosure url="https://archive.org/download/exoplanets-are-everywhere-final/ExoplanetsAreEverywhere_final.mp3" length="5087281" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/exoplanets-are-everywhere/</guid>
 	    <link>http://localhost:4000/science/exoplanets-are-everywhere/</link>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>5</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>02:33</itunes:duration>
@@ -830,7 +830,7 @@
             <enclosure url="https://archive.org/download/kepler-22b-final/Kepler-22b_final.mp3" length="6300000" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/kepler-22b/</guid>
 	    <link>http://localhost:4000/exoplanets/kepler-22b/</link>
-            <pubDate>Sun, 23 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>4</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:55</itunes:duration>
@@ -849,7 +849,7 @@
             <enclosure url="https://archive.org/download/not-all-exoplanets-orbit-stars-final/NotAllExoplanetsOrbitStars_final.mp3" length="3394871" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</guid>
 	    <link>http://localhost:4000/discoveries/not-all-stars-have-exoplanets/</link>
-            <pubDate>Sat, 22 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>3</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>02:37</itunes:duration>
@@ -868,7 +868,7 @@
             <enclosure url="https://archive.org/download/what-is-an-aexoplanet/WhatIsAnAExoplanet.mp3" length="9014787" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/science/what-is-an-exoplanet/</guid>
 	    <link>http://localhost:4000/science/what-is-an-exoplanet/</link>
-            <pubDate>Fri, 21 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>2</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>03:45</itunes:duration>
@@ -887,7 +887,7 @@
             <enclosure url="https://archive.org/download/000-intro-trailer-final/000_IntroTrailer_final.mp3" length="2538614" type="audio/mp3"/>
 	    <guid isPermaLink="true">http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</guid>
 	    <link>http://localhost:4000/exoplanets/welcome-to-exoplanet-radio/</link>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
 	    <itunes:episode>1</itunes:episode>
 	    <itunes:season>1</itunes:season>
             <itunes:duration>01:51</itunes:duration>
